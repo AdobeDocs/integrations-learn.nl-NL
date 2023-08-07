@@ -3,7 +3,7 @@ user-guide-title: Zelfstudies voor Experience Cloud-integratie
 breadcrumb-title: Experience Cloud-integraties
 user-guide-description: Integrations Learn.
 mini-toc-levels: 1
-source-git-commit: 510253b9fbf510ebdfb7e0cc51b854fa4c4bc07d
+source-git-commit: b11b179bfc87a44387cf4d331386e729f0ce8b71
 workflow-type: tm+mt
 source-wordcount: '92'
 ht-degree: 18%
@@ -23,7 +23,7 @@ ht-degree: 18%
    + [Reizen van klanten](./solution-categories/customer-journeys.md)
    + [Gegevensinzichten en activering](./solution-categories/data-insights.md)
    + [Personalisatie op schaal](./solution-categories/personalization.md)
-+ Toepassingsintegratie{#integrations-between-applications}
++ Productintegratie{#integrations-between-applications}
    + [Overzicht](./integrations-between-applications/overview.md)
    + [!DNL Acrobat Sign]{#acrobat-sign}
       + [[!DNL Experience Manager]](./integrations-between-applications/acrobat-sign/acrobat-sign-experience-manager.md)
