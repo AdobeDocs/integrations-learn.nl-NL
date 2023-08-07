@@ -1,0 +1,36 @@
+1. [!DNL Campaign] is split into v7/v8 and Standard; AEM is collected under "AEM"
+  -- Combine into 1 
+
+
+
+2. If applies to both AEM 6.5 and AEM CS - do we want 2 entries?
+   1. 2 entries: https://experienceleague-review.corp.adobe.com/docs/integrations-learn/tutorials/integrations-between-applications/experience-manager/experience-manager-analytics.html?lang=en
+   2. 1 entry (without version): https://experienceleague-review.corp.adobe.com/docs/integrations-learn/tutorials/integrations-between-applications/experience-manager/experience-manager-marketo.html?lang=en
+
++ Condense multiple rows going to same tutoriuals; remove the version from the link.
+  
+
+
+
+2. Integration setup links vs integration use-case links.
+ + Setup: https://experienceleague-review.corp.adobe.com/docs/integrations-learn/tutorials/integrations-between-applications/experience-manager/experience-manager-analytics.html?lang=en#integrations-between-applications
+ + Use case: https://experienceleague-review.corp.adobe.com/docs/integrations-learn/tutorials/integrations-between-applications/analytics/analytics-target.html?lang=en#integrations-between-applications
+   + https://experienceleague-review.corp.adobe.com/docs/integrations-learn/tutorials/integrations-between-applications/cja/rtcdp-campaign-v8.html?lang=en#integrations-between-applications
+    + Some are overview views, that make sense in the context of other videos, but since were linking direct - that looses some context.
+    
+3. Standardize on "When to use" phrasing 
+
+----> 
+
+
+1. Some pages have content in them that isnt on any linked page (AFIACT)
+   + https://experienceleague-review.corp.adobe.com/docs/integrations-learn/tutorials/integrations-between-applications/commerce/commerce-analytics.html?lang=en
+   + https://experienceleague-review.corp.adobe.com/docs/integrations-learn/tutorials/integrations-between-applications/rtcdp/analytics-rtcdp.html?lang=en#integrations-between-applications
+
+
+
+1. We should standardize on a note/badge on content indicating it "integrating X with Y".
+   1. Typically the titles are not clear on this.
+   2. Or the content relies on the user guide context "Integrating with Adobe [!DNL Analytics]" ... with the context being youre in an AEM guide.
+
+Landing pages versions
