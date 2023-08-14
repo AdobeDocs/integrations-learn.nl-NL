@@ -1,17 +1,17 @@
 ---
 title: Integratieconfiguraties voor Adobe Experience Cloud-toepassingen - per oplossing
-description: Gemeenschappelijke integratieconfiguraties voor Adobe Experience Cloud-toepassingen die door oplossingen worden georganiseerd.
+description: Algemene integratieconfiguraties voor Adobe Experience Cloud-applicaties, geordend per oplossing.
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
 source-wordcount: '177'
-ht-degree: 4%
+ht-degree: 10%
 
 ---
 
 
 # Integratieconfiguraties voor Adobe Experience Cloud-toepassingen - per oplossing
 
-Deze sectie zal iedereen helpen die een bedrijfsbehoefte heeft maar onzeker is welke producten van Adobe te gebruiken en hoe te om hen te integreren.  Wij hebben veel van de gemeenschappelijkste integratieconfiguraties voor de Adobe ondernemingsproducten door oplossingscategorieën georganiseerd.  Houd in mening er vele manieren zijn om de producten van de Adobe afhankelijk van uw milieu te vormen.  De bedoeling van deze sectie is richtlijnen te verstrekken die u ongewijzigd kunt opstellen of aanpassen om aan de behoeften van uw milieu te voldoen.
+Deze sectie zal iedereen helpen die een bedrijfsbehoefte heeft maar onzeker is welke producten van de Adobe aan gebruik en hoe te om hen te integreren.  Wij hebben veel van de gemeenschappelijkste integratieconfiguraties voor de Adobe ondernemingsproducten door oplossingscategorieën georganiseerd.  Houd in mening er vele manieren zijn om de producten van de Adobe afhankelijk van uw milieu te vormen.  De bedoeling van deze sectie is richtlijnen te verstrekken die u ongewijzigd kunt opstellen of aanpassen om aan de behoeften van uw milieu te voldoen.
 
 <table>
 <tr>
