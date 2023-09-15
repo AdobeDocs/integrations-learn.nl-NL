@@ -1,10 +1,10 @@
 ---
 title: Integratieconfiguraties voor Adobe Experience Cloud-toepassingen - per product
 description: Algemene integratieconfiguraties voor Adobe Experience Cloud-applicaties geordend op product.
-source-git-commit: 594e0c2e79a401c872c8f9a4eafdda82572b37a3
+source-git-commit: a76f91e77f85d6a5050203704037eb8c5fefd270
 workflow-type: tm+mt
-source-wordcount: '119'
-ht-degree: 9%
+source-wordcount: '172'
+ht-degree: 11%
 
 ---
 
@@ -13,6 +13,61 @@ ht-degree: 9%
 
 Deze sectie zal iedereen helpen met de vertrouwdheid van het product van de Adobe die bedrijfswaarde willen creëren door veelvoudige producten van de Adobe te integreren.  Wij hebben vele gemeenschappelijke integratieconfiguraties voor de Adobe ondernemingsproducten georganiseerd en hebben hen aan echte gebruiksgevallen in kaart gebracht.  Er zijn vele manieren om de producten van de Adobe afhankelijk van uw milieu te vormen.  De bedoeling van deze sectie is richtlijnen te verstrekken die u ongewijzigd kunt opstellen of aanpassen om aan de behoeften van uw milieu te voldoen.
 
->[!NOTE]
->
->Gebruik de navigatie aan linkerzijde om de integratie te vinden die voor uw behoeften juist is.
+
+<table>
+<tr>
+    <td>
+      <a  href="./b2b.md"><img alt="B2b-marketing" src="https://cdn.experienceleague.adobe.com/thumb/b2b.png"/></a>
+      <div><strong><a href="./b2b.md">B2B-marketing</a></strong></div>
+      <p>
+        Automatisering en verkooppartnerschap
+      </p>
+    </td>
+   <td>
+      <a  href="./commerce.md"><img alt="handel" src="https://cdn.experienceleague.adobe.com/thumb/commerce.png"/></a>
+      <div><strong><a href="./commerce.md">[!DNL Commerce]</a></strong></div>
+      <p>
+        Digitale handel B2B en B2C
+      </p>
+   </td>    
+   <td>
+      <a  href="./content-management.md"><img alt="Contentmanagement" src="https://cdn.experienceleague.adobe.com/thumb/content-management.png"/></a>
+      <div><strong><a href="./content-management.md">Contentmanagement</a></strong></div>
+      <p>
+        Inhoud- en middelenbeheer
+      </p>
+   </td>
+</tr>
+<tr>
+   <td>
+      <a  href="./content-supply-chain.md"><img alt="Inhoudstoeleveringsketen" src="https://cdn.experienceleague.adobe.com/thumb/content-supply-chain.png"/></a>
+      <div><strong><a href="./content-supply-chain.md">Inhoudstoeleveringsketen</a></strong></div>
+      <p>
+        Inhoud sneller maken en leveren
+      </p> 
+    </td>
+   <td>
+      <a  href="./customer-journeys.md"><img alt="Klantreizen" src="https://cdn.experienceleague.adobe.com/thumb/customer-journeys.png"/></a>
+      <div><strong><a href="./customer-journeys.md">Klantreizen</a></strong></div>
+      <p>
+        Omnichannel orchestratie en levering
+      </p> 
+    </td>
+   <td>
+      <a  href="./data-insights.md"><img alt="Gegevensinzichten en activering" src="https://cdn.experienceleague.adobe.com/thumb/data-insights.png"/></a>
+      <div><strong><a href="./data-insights.md"> Gegevensinzichten en activering</a></strong></div>
+      <p>
+        [!DNL Analytics] en publieksbeheer
+      </p>
+   </td>  
+</tr>
+<tr>
+   <td>
+      <a  href="./personalization.md"><img alt="Personalisatie op schaal" src="https://cdn.experienceleague.adobe.com/thumb/personalization.png"/></a>
+      <div><strong><a href="./personalization.md">Personalisatie als schaal</a></strong></div>
+      <p>
+        Hoe te om elke verbinding persoonlijk te maken
+      </p>
+   </td>
+</table>
+
