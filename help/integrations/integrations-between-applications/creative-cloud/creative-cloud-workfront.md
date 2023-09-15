@@ -1,6 +1,6 @@
 ---
-title: Zelf-serverdownloads instellen op Creative Cloud-desktop
-description: Maak een zelfstudie om gebruikers te begeleiden die zelfserverdownloads op Creative Cloud Desktop willen instellen.
+title: Zelf-serverdownloads instellen op het bureaublad van het Creative Cloud
+description: Maak een zelfstudie om gebruikers te begeleiden die zelf-serverdownloads op het bureaublad van het Creative Cloud willen instellen.
 solution: Creative Cloud, Workfront
 feature: Integrations
 topic: Integrations
@@ -9,8 +9,8 @@ level: Intermediate
 doc-type: Feature Video
 last-substantial-update: 2023-06-27T00:00:00Z
 jira: KT-13072
-thumbnail: KT-13072.jpeg
-source-git-commit: 12a182a380aa10d98cb91343e02d5a6dbcaa970a
+thumbnail: creativecloud-workfront.png
+source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
 workflow-type: tm+mt
 source-wordcount: '30'
 ht-degree: 0%
@@ -18,6 +18,6 @@ ht-degree: 0%
 ---
 
 
-# Workfront met Creative Cloud integreren
+# Workfront integreren met Creative Cloud
 
 {{$include /help/_includes/integrations-between-applications/creative-cloud-workfront.md}}

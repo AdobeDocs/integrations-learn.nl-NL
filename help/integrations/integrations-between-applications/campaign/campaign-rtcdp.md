@@ -8,7 +8,8 @@ role: Leader, Architect, Admin, Developer
 level: Beginner
 last-substantial-update: 2023-06-30T00:00:00Z
 badgeIntegration: label="Integratie" type="positive"
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+thumbnail: campaign-rtcdp.png
+source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
 workflow-type: tm+mt
 source-wordcount: '19'
 ht-degree: 5%
