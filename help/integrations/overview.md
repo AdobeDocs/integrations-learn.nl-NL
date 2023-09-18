@@ -1,21 +1,19 @@
 ---
-title: Integratieconfiguraties voor Adobe Experience Cloud-toepassingen
-description: Algemene integratieconfiguraties voor Adobe Experience Cloud-producten.
-source-git-commit: 0dfb1462ea2b4c1dd1b3e83a2ffa39794f3b0246
+title: Toepassingsintegratie
+description: Leer over gemeenschappelijke configuraties voor het integreren van de toepassingen van het Experience Cloud. Ontdek hoe de best-in-klasse ondernemingsproducten van Adobe u kunnen helpen uw bedrijfsuitdagingen aanpakken.
+source-git-commit: e1655ab856d4623e4bbef0eb8099d94427cc3e62
 workflow-type: tm+mt
-source-wordcount: '168'
+source-wordcount: '161'
 ht-degree: 0%
 
 ---
 
 
-# Integratieconfiguraties voor Adobe Experience Cloud-producten
+# Integratieconfiguraties voor Experience Cloud-toepassingen
 
-Of u nu bekend bent met Adobe Experience Cloud-producten en u niet zeker bent van de beste manier om ze te integreren, of u weet welke zakelijke doelstellingen u wilt bereiken, maar u weet niet zeker welke Adobe Experience Cloud-producten u moet gebruiken, u hebt de juiste plaats gevonden.
+Bent u vertrouwd met de toepassingen van het Experience Cloud maar onzeker hoe te om hen te integreren? Kent u uw bedrijfsdoelstellingen maar bent niet zeker welke toepassingen aan gebruik? Dan kom je op de juiste plaats!
 
-U zult de gemeenschappelijkste het productintegratie vinden van Adobe Experience Cloud die door bedrijfsoplossing en Adobe product wordt georganiseerd.
-
-Er zijn vele manieren om de producten van de Adobe te vormen, en dit is hoogst afhankelijk van uw milieu.  Gebruik deze zelfstudies en video&#39;s als richtlijn voor de implementatie van actuele informatie of voor aanpassing aan de behoeften van uw omgeving.
+Deze zelfstudies voor integratie van Experiencen Cloud beschrijven een aantal van de meest gangbare toepassingen die beschikbaar zijn. Uw configuratieopties hangen van uw milieu af, zodat hebben wij integraties door bedrijfsoplossingen en toepassingen georganiseerd. U kunt deze zelfstudies en video&#39;s gebruiken als richtlijn voor de implementatie van actuele informatie, maar u kunt ze ook wijzigen om aan de behoeften van uw omgeving te voldoen.
 
 <table>
 <tr>
@@ -28,15 +26,15 @@ Er zijn vele manieren om de producten van de Adobe te vormen, en dit is hoogst a
 </tr>
 <tr>
    <td>
-      <div><strong><a href="./integrations-between-applications/overview.md">Op product</a></strong></div>
+      <div><strong><a href="./integrations-between-applications/overview.md">Op toepassing</a></strong></div>
       <p>
-        Je weet welke Adobe producten je moet gebruiken en je wilt leren hoe je ze moet integreren.
+        U weet welke Adobe toepassingen moeten worden gebruikt en u wilt leren hoe u deze kunt integreren.
       </p>
    </td>
    <td>
       <div><strong><a href="./solution-categories/overview.md">Op bedrijfsoplossing</a></strong></div>
       <p>
-        U kent de bedrijfsoplossing u zoekt, maar bent onzeker welke producten van Adobe aan gebruik.
+        U kent de bedrijfsoplossing die u zoekt, maar u weet niet zeker welke Adobe-toepassingen u wilt gebruiken.
       </p>
    </td>  
 </tr>   
