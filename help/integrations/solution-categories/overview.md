@@ -1,17 +1,19 @@
 ---
-title: Integratieconfiguraties voor Adobe Experience Cloud-toepassingen - per oplossing
-description: Algemene integratieconfiguraties voor Adobe Experience Cloud-applicaties, geordend per oplossing.
-source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
+title: Configuraties van de integratie van de toepassing - door bedrijfsoplossing
+description: Leer over gemeenschappelijke integratieconfiguraties voor de toepassingen van het Experience Cloud, die door bedrijfsoplossingen worden georganiseerd.
+exl-id: eb460a4e-924f-4dcf-a2e2-5fa5a7bc9fdf
+source-git-commit: 8bcf161013259850165418dccd18ebd7f4ea3c93
 workflow-type: tm+mt
-source-wordcount: '177'
-ht-degree: 10%
+source-wordcount: '183'
+ht-degree: 2%
 
 ---
 
+# De configuraties van de integratie voor Experience Cloud - georganiseerd door oplossing
 
-# Integratieconfiguraties voor Adobe Experience Cloud-toepassingen - per oplossing
+Deze sectie helpt iedereen met een bedrijfsbehoefte maar is onzeker welke Adobe toepassingen te gebruiken en hoe te om hen te integreren. Hier volgen veel van de meest voorkomende integratieconfiguraties, georganiseerd door oplossingen (B2B-marketing, toeleveringsketen van inhoud, gegevensinzichten en activering, enzovoort).
 
-Deze sectie zal iedereen helpen die een bedrijfsbehoefte heeft maar onzeker is welke producten van de Adobe aan gebruik en hoe te om hen te integreren.  Wij hebben veel van de gemeenschappelijkste integratieconfiguraties voor de Adobe ondernemingsproducten door oplossingscategorieën georganiseerd.  Houd in mening er vele manieren zijn om de producten van de Adobe afhankelijk van uw milieu te vormen.  De bedoeling van deze sectie is richtlijnen te verstrekken die u ongewijzigd kunt opstellen of aanpassen om aan de behoeften van uw milieu te voldoen.
+Houd in mening dat er vele manieren zijn om de toepassingen van de Adobe, afhankelijk van uw milieu te vormen. De bedoeling van deze sectie is richtlijnen te verstrekken die u aangezien-is kunt opstellen of hen wijzigen om aan de behoeften van uw milieu te voldoen.
 
 <table>
 <tr>
@@ -24,14 +26,14 @@ Deze sectie zal iedereen helpen die een bedrijfsbehoefte heeft maar onzeker is w
     </td>
    <td>
       <a  href="./commerce.md"><img alt="handel" src="https://cdn.experienceleague.adobe.com/thumb/commerce.png"/></a>
-      <div><strong><a href="./commerce.md">[!DNL Commerce]</a></strong></div>
+      <div><strong><a href="./commerce.md">Commerce</a></strong></div>
       <p>
         Digitale handel B2B en B2C
       </p>
    </td>    
    <td>
       <a  href="./content-management.md"><img alt="Contentmanagement" src="https://cdn.experienceleague.adobe.com/thumb/content-management.png"/></a>
-      <div><strong><a href="./content-management.md">Contentmanagement</a></strong></div>
+      <div><strong><a href="./content-management.md">Inhoudsbeheer</a></strong></div>
       <p>
         Inhoud- en middelenbeheer
       </p>
@@ -47,7 +49,7 @@ Deze sectie zal iedereen helpen die een bedrijfsbehoefte heeft maar onzeker is w
     </td>
    <td>
       <a  href="./customer-journeys.md"><img alt="Klantreizen" src="https://cdn.experienceleague.adobe.com/thumb/customer-journeys.png"/></a>
-      <div><strong><a href="./customer-journeys.md">Klantreizen</a></strong></div>
+      <div><strong><a href="./customer-journeys.md">Reizen van klanten</a></strong></div>
       <p>
         Omnichannel orchestratie en levering
       </p> 
@@ -69,4 +71,3 @@ Deze sectie zal iedereen helpen die een bedrijfsbehoefte heeft maar onzeker is w
       </p>
    </td>
 </table>
-
