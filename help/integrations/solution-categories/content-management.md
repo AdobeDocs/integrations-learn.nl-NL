@@ -1,17 +1,19 @@
 ---
-title: Inhoudsbeheer
-description: In het digitale landschap van vandaag vormt het voorzien in de unieke behoeften van miljoenen klanten een belangrijke uitdaging. Maar daar eindigt het niet. Om te slagen, moet u ook de capaciteit hebben om, goedgekeurde activa over diverse apparaten en kanalen op een globale schaal snel te ontdekken, te verbinden en opnieuw te gebruiken. Bovendien is het van cruciaal belang om inzicht te krijgen in de doeltreffendheid van deze ervaringen. Ontdek een uitgebreide oplossing die u in staat stelt moeiteloos persoonlijke digitale ervaringen te creëren en tegelijk te zorgen voor realtime beheer van bedrijfsmiddelen, efficiënte levering en evaluatie van prestaties.
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+title: Toepassingsintegratie voor inhoudsbeheer
+description: Ontdek een uitgebreide oplossing die u in staat stelt moeiteloos persoonlijke digitale ervaringen te creëren en tegelijk te zorgen voor realtime beheer van bedrijfsmiddelen, efficiënte levering en evaluatie van prestaties.
+exl-id: dd3e4144-38da-4616-bbe6-3f61922177ab
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '726'
+source-wordcount: '671'
 ht-degree: 0%
 
 ---
 
-
 # Inhoudsbeheer
 
-In het digitale landschap van vandaag vormt het voorzien in de unieke behoeften van miljoenen klanten een belangrijke uitdaging. Maar daar eindigt het niet. Om te slagen, moet u ook de capaciteit hebben om, goedgekeurde activa over diverse apparaten en kanalen op een globale schaal snel te ontdekken, te verbinden en opnieuw te gebruiken. Bovendien is het van cruciaal belang om inzicht te krijgen in de doeltreffendheid van deze ervaringen. Ontdek een uitgebreide oplossing die u in staat stelt moeiteloos persoonlijke digitale ervaringen te creëren en tegelijk te zorgen voor realtime beheer van bedrijfsmiddelen, efficiënte levering en evaluatie van prestaties.
+In het digitale landschap van vandaag vormt het voorzien in de unieke behoeften van miljoenen klanten een belangrijke uitdaging. Maar daar eindigt het niet. Om te slagen, moet u ook de capaciteit hebben om, goedgekeurde activa over diverse apparaten en kanalen op een globale schaal snel te ontdekken, te verbinden en opnieuw te gebruiken. Bovendien is het van cruciaal belang om inzicht te krijgen in de doeltreffendheid van deze ervaringen.
+
+Ontdek een uitgebreide oplossing die u in staat stelt moeiteloos persoonlijke digitale ervaringen te creëren en tegelijk te zorgen voor realtime beheer van bedrijfsmiddelen, efficiënte levering en evaluatie van prestaties.
 
 <table>
  <thead>
@@ -45,7 +47,7 @@ In het digitale landschap van vandaag vormt het voorzien in de unieke behoeften 
     <tr>
       <td><strong>Gebruik en prestaties van marketingafbeeldingen meten</strong></td>
       <td>
-        Houd de effectiviteit van marketingafbeeldingen bij en analyseer deze door AEM Assets en Adobe te integreren [!DNL Analytics].
+        De doeltreffendheid van marketingafbeeldingen bijhouden en analyseren door AEM Assets en Adobe te integreren [!DNL Analytics].
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -261,7 +263,7 @@ In het digitale landschap van vandaag vormt het voorzien in de unieke behoeften 
     <tr>
       <td rowspan="2"><strong>Webervaringen aanpassen</strong></td>
       <td>
-        Pas toepassings (SPA) ervaringen van één pagina door AEM zonder kop effectief te gebruiken in combinatie met Adobe [!DNL Target].
+        Pas toepassings (SPA) ervaringen van één pagina door AEM Zwaartepunt in combinatie met Adobe effectief te gebruiken aan [!DNL Target].
       </td>
       <td>
         <ul style="margin-top: 0;">

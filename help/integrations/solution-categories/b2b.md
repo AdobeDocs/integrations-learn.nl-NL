@@ -1,13 +1,13 @@
 ---
-title: B2B-marketing
+title: Toepassingsintegratie voor B2B-marketing
 description: Coördineer loodbeheer, ABM, en attributie bij schaal over kanalen die op verenigde klantenprofielen en gegevens worden gebaseerd.
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: ed4fb791-7883-4f42-80a0-12ab4e3c80ab
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '216'
+source-wordcount: '219'
 ht-degree: 1%
 
 ---
-
 
 # B2B-marketing
 

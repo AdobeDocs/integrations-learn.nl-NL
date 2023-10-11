@@ -1,13 +1,13 @@
 ---
-title: Klantenreis
+title: Toepassingsintegratie voor de reis van de klant
 description: Ontwikkel klantprofielen in real time door gegevens uit alle bronnen te trekken om gepersonaliseerde, dwars-kanaalreizen tot stand te brengen.
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: eb653b89-db0f-433a-8641-bbeb32197096
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '282'
+source-wordcount: '286'
 ht-degree: 2%
 
 ---
-
 
 # Klantenreis
 
@@ -118,4 +118,3 @@ Ontwikkel klantprofielen in real time door gegevens uit alle bronnen te trekken 
 </tr>
 </tbody>
 </table>
-

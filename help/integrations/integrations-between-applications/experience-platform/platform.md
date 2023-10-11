@@ -1,6 +1,6 @@
 ---
-title: Adobe-ervaring integreren [!DNL Platform] met andere toepassingen voor Adobe
-description: Leer hoe u ervaring kunt integreren [!DNL Platform] met andere Adobe toepassingen.
+title: Adobe integreren [!DNL Experience Platform] met andere toepassingen voor Adobe
+description: Leer hoe u kunt integreren [!DNL Experience Platform] met andere Adobe toepassingen.
 solution: Experience [!DNL Platform]
 feature: Integrations
 topic: Integrations
@@ -9,13 +9,13 @@ level: Beginner
 jira: null
 thumbnail: experience-platform.png
 last-substantial-update: 2023-07-19T00:00:00Z
-source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
+exl-id: ef86a50c-b8ff-4371-a9e9-8fc51aa1769a
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '120'
+source-wordcount: '118'
 ht-degree: 1%
 
 ---
-
 
 # Ervaring integreren [!DNL Platform] met andere toepassingen voor Adobe
 

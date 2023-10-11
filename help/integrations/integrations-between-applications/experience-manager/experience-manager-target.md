@@ -1,5 +1,5 @@
 ---
-title: Hoe te om Experience Manager met te integreren [!DNL Target]
+title: Experience Manager integreren met [!DNL Target]
 description: Adobe Experience Manager (AEM) integreren met [!DNL Target] om persoonlijke ervaringen te bieden.
 solution: Experience Manager, Experience Manager Sites, [!DNL Target]
 feature: Integrations
@@ -11,13 +11,13 @@ kt: null
 thumbnail: experience-manager-target.png
 badgeIntegration: label="Integratie" type="positive"
 last-substantial-update: 2023-07-31T00:00:00Z
-source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
+exl-id: 1dbd5c0a-fa34-4dbc-9e6b-47dbc22e4231
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '21'
-ht-degree: 4%
+source-wordcount: '19'
+ht-degree: 5%
 
 ---
-
 
 # Experience Manager integreren met [!DNL Target]
 

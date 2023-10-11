@@ -1,7 +1,7 @@
 ---
-title: Real-Time klantgegevens integreren [!DNL Platform] with [!DNL Campaign]
-description: Leer hoe u realtime klantgegevens kunt integreren [!DNL Platform] with [!DNL Campaign]
-solution: Real-Time Customer Data [!DNL Platform], [!DNL Campaign]
+title: Real-time Customer Data Platform integreren met [!DNL Campaign]
+description: Leer hoe u Real-time Customer Data Platform kunt integreren met [!DNL Campaign]
+solution: Real-Time Customer Data Platform, [!DNL Campaign]
 feature: Integrations
 topic: Integrations
 role: Leader, Architect, Admin, Developer
@@ -10,13 +10,13 @@ index: false
 thumbnail: campaign-rtcdp.png
 badgeIntegration: label="Integratie" type="positive"
 last-substantial-update: 2023-06-30T00:00:00Z
-source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
+exl-id: 37d983a1-6ede-4a35-864b-9ad7c9868821
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '19'
-ht-degree: 5%
+source-wordcount: '21'
+ht-degree: 4%
 
 ---
-
 
 # Real-Time klantgegevens integreren [!DNL Platform] with [!DNL Campaign]
 

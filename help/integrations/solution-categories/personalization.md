@@ -1,13 +1,13 @@
 ---
-title: Personalisatie op schaal
+title: Toepassingsintegratie voor personalisatie op schaal
 description: Maak persoonlijke ervaringen onderdeel van elk moment.
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: 6d18813d-950c-40ae-8d5b-80bf389358fc
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '513'
+source-wordcount: '516'
 ht-degree: 1%
 
 ---
-
 
 # Personalisatie op schaal
 
@@ -73,7 +73,7 @@ Binnen het hedendaagse, zeer concurrerende en digitaal gedreven landschap zijn k
     </tr>
     <tr>
       <td>
-        Rapportage voor verpersoonlijkingsactiviteiten<br />De resultaten van optimalisatietests analyseren, inclusief A/B-tests, met behulp van Adobe [!DNL Target] en uitgebreide rapporten genereren via Adobe [!DNL Analytics].
+        Rapportage voor verpersoonlijkingsactiviteiten<br />De resultaten van optimalisatietests analyseren, inclusief A/B-tests, door gebruik te maken van Adobe [!DNL Target] en uitgebreide verslagen op te stellen via Adobe [!DNL Analytics].
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -165,7 +165,7 @@ Binnen het hedendaagse, zeer concurrerende en digitaal gedreven landschap zijn k
     <tr>
       <td rowspan="2"><strong>Webervaringen aanpassen</strong></td>
       <td>
-        Pas toepassings (SPA) ervaringen van één pagina door AEM zonder kop effectief te gebruiken in combinatie met Adobe [!DNL Target].
+        Pas toepassings (SPA) ervaringen van één pagina door AEM Zwaartepunt in combinatie met Adobe effectief te gebruiken aan [!DNL Target].
       </td>
       <td>
         <ul style="margin-top: 0;">

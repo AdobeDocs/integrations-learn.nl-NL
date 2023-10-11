@@ -1,18 +1,19 @@
 ---
-title: Inhoudstoeleveringsketen
+title: Toepassingsintegratie voor de toeleveringsketen van inhoud
 description: Inhoud plannen, maken, personaliseren en publiceren.
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: 00a15be9-612e-4210-8b2a-77274aa5713c
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '283'
+source-wordcount: '286'
 ht-degree: 1%
 
 ---
 
-
 # Inhoudstoeleveringsketen
 
 Plan, creeer, personaliseer, en publiceer onvergetelijke inhoud voor elke klant - bij de snelheid van nu.
-Het voldoen aan de verwachtingen van de klant in real time voor gepersonaliseerde ervaringen vereist meer digitale inhoud dan ooit. Met creatieve werkschema&#39;s en oplossingen voor middelenbeheer kunnen uw teams gepersonaliseerde inhoud plannen, maken en leveren op schaal die de reis van de klant bij elke aanraking ondersteunt.
+
+Het voldoen aan de verwachtingen van de klant in real time voor gepersonaliseerde ervaringen vereist meer digitale inhoud dan ooit. Met de creatieve werkstroom en oplossingen voor middelenbeheer van Adobe kunnen uw teams gepersonaliseerde inhoud plannen, maken en leveren op schaal die de reis van de klant op elk aanraakpunt steunt.
 
 <table>
  <thead>

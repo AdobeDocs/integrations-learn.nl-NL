@@ -1,5 +1,5 @@
 ---
-title: Hoe te integreren [!DNL Analytics] met AEM
+title: Integreren [!DNL Analytics] met Experience Manager
 description: Adobe Experience Manager (AEM) integreren met [!DNL Analytics] om het gebruikersgedrag op uw website te volgen en te analyseren.
 solution: Analytics, Experience Manager, Experience Manager Sites
 feature: Integrations
@@ -11,13 +11,13 @@ kt: null
 thumbnail: analytics-experience-manager.png
 badgeIntegration: label="Integratie" type="positive"
 last-substantial-update: 2023-07-31T00:00:00Z
-source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
+exl-id: 342a9df5-6fbd-40be-8de1-2d9aba8fde9d
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '25'
+source-wordcount: '24'
 ht-degree: 4%
 
 ---
-
 
 # Integreren [!DNL Analytics] met Experience Manager
 

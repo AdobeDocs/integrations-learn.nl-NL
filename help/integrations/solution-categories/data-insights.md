@@ -1,13 +1,13 @@
 ---
-title: Gegevens en activering
+title: Toepassingsintegratie voor gegevensinzichten en -activeringen
 description: Verpersoonlijking in real time op om het even welk kanaal gebruikend online en off-line gegevensinzichten over uw volledige organisatie.
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: 9f22085a-306e-48e8-9b86-6429d851df58
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '538'
+source-wordcount: '541'
 ht-degree: 1%
 
 ---
-
 
 # Gegevens en activering
 
@@ -30,7 +30,7 @@ Verpersoonlijking in real time op om het even welk kanaal gebruikend online en o
    <td rowspan="8"><b>Gegevensanalyse en -rapportage</b></td>
 
 <!--  ROW 2a  -->
-<td>De resultaten van optimalisatietests analyseren, inclusief A/B-tests, met behulp van Adobe [!DNL Target] en uitgebreide rapporten genereren via Adobe [!DNL Analytics].</td>
+<td>De resultaten van optimalisatietests analyseren, inclusief A/B-tests, met behulp van Adobe [!DNL Target] en uitgebreide verslagen op te stellen via Adobe [!DNL Analytics].</td>
    <td><ul style="margin-top: 0;">
         <li>Testresultaten van A/B tonen in analyserapporten met opmaak.</li>
        </ul></td>
@@ -78,7 +78,7 @@ Verpersoonlijking in real time op om het even welk kanaal gebruikend online en o
 
 <!--  ROW 2f  -->
 <tr>
-   <td>Meer uitgebreide inzichten in Adobe [!DNL Campaign] e-mailmarketingcampagnes waarbij gebruik wordt gemaakt van vooraf geklikt cijfermateriaal en conversiesnelheden.</td>
+   <td>Meer inzicht in Adobe [!DNL Campaign] e-mailmarketingcampagnes waarbij gebruik wordt gemaakt van vooraf geklikt cijfermateriaal en conversiesnelheden.</td>
    <td><ul style="margin-top: 0;">
         <li>Houd conversiemetriek voor e-mailcampagnes bij, analyseer deze en rapporteer deze gegevens na het klikken.</li>
         <li>Alle campagnes naar beneden bijsturen naar andere afmetingen die zijn verzameld in [!DNL Analytics].</li>
@@ -89,10 +89,10 @@ Verpersoonlijking in real time op om het even welk kanaal gebruikend online en o
 
 <!--  ROW 2g  -->
 <tr>
-   <td>Meer uitgebreide inzichten in Adobe [!DNL Commerce] Sla de prestaties op met behulp van de belangrijkste maatstaven en dimensies die u selecteert.</td>
+   <td>Meer inzicht in Adobe [!DNL Commerce] Sla de prestaties op met behulp van de belangrijkste maatstaven en dimensies die u selecteert.</td>
    <td><ul style="margin-top: 0;">
         <li>Gegevens-inzichten en rapportage over handelsactiviteiten.</li>
-        <li>Meer uitgebreide inzichten in Adobe [!DNL Commerce] Sla de prestaties op met behulp van de belangrijkste maatstaven en dimensies die u selecteert.</li>
+        <li>Meer inzicht in Adobe [!DNL Commerce] Sla de prestaties op met behulp van de belangrijkste maatstaven en dimensies die u selecteert.</li>
        </ul></td>
    <td><a href="../integrations-between-applications/commerce/commerce-analytics.md" target="_blank" rel="noopener noreferrer">[!DNL Commerce] en [!DNL Analytics]</a></td>
  </tr>
@@ -154,7 +154,7 @@ Verpersoonlijking in real time op om het even welk kanaal gebruikend online en o
 <!--  ROW 4  -->
 <tr>
    <td><b>Gebruik en prestaties van marketingafbeeldingen meten</b></td>
-   <td>Houd de effectiviteit van marketingafbeeldingen bij en analyseer deze door AEM Assets en Adobe te integreren [!DNL Analytics].</td>
+   <td>De doeltreffendheid van marketingafbeeldingen bijhouden en analyseren door AEM Assets en Adobe te integreren [!DNL Analytics].</td>
    <td><ul style="margin-top: 0;"><li>Elementprestaties volgen en analyseren.</li>
            <li>De betrokkenheid van gebruikers analyseren.</li>
            <li>Strategie voor inhoud optimaliseren.</li>

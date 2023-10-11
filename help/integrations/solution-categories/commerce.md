@@ -1,13 +1,13 @@
 ---
-title: Commerce
+title: Integratie van toepassingen voor de handel
 description: Bouw multi-channel handelservaringen op één enkel platform met onze flexibele, AI-aangedreven handelsoplossing.
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: ffd78652-e828-4a2c-97ce-0da777d9db2c
+source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '162'
+source-wordcount: '165'
 ht-degree: 3%
 
 ---
-
 
 # [!DNL Commerce]
 
@@ -50,7 +50,7 @@ Bouw multi-channel handelservaringen op één enkel platform met onze flexibele,
  <tr>
    <td><strong>Gegevensanalyse en -rapportage<strong></td>
    <td>Evalueer de de omzettrechter, orden, opbrengst, en bezoek en bezoekersmetriek van de handelsloopwinkel.</td>
-   <td><ul style="margin-top: 0;"><li>Gegevens-inzichten en rapportage over handelsactiviteiten.</li><li>Meer uitgebreide inzichten in Adobe [!DNL Commerce] Sla de prestaties op met behulp van de belangrijkste maatstaven en dimensies die u selecteert.</li></ul></td>
+   <td><ul style="margin-top: 0;"><li>Gegevens-inzichten en rapportage over handelsactiviteiten.</li><li>Meer inzicht in Adobe [!DNL Commerce] Sla de prestaties op met behulp van de belangrijkste maatstaven en dimensies die u selecteert.</li></ul></td>
    <td><a href="/help/integrations/integrations-between-applications/commerce/commerce-analytics.md">[!DNL Commerce] en [!DNL Analytics]</a></td>
  </tr>
  </tbody>
