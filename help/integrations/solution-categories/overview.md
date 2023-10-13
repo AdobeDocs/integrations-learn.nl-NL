@@ -1,11 +1,11 @@
 ---
 title: Configuraties van de integratie van de toepassing - door bedrijfsoplossing
-description: Leer over gemeenschappelijke integratieconfiguraties voor de toepassingen van het Experience Cloud, die door bedrijfsoplossingen worden georganiseerd.
+description: Ontdek meer over gemeenschappelijke integratieconfiguraties voor Experience Cloud-applicaties, geordend per bedrijfsoplossing.
 exl-id: eb460a4e-924f-4dcf-a2e2-5fa5a7bc9fdf
 source-git-commit: 8bcf161013259850165418dccd18ebd7f4ea3c93
 workflow-type: tm+mt
 source-wordcount: '183'
-ht-degree: 2%
+ht-degree: 9%
 
 ---
 

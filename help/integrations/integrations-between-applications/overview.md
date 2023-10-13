@@ -1,11 +1,11 @@
 ---
 title: Integratieconfiguraties - per toepassing
-description: Leer over gemeenschappelijke integratieconfiguraties voor Experience Cloud, die door toepassingen worden georganiseerd.
+description: Ontdek meer over gemeenschappelijke integratieconfiguraties voor Experience Cloud, geordend per applicatie.
 exl-id: 80c75142-aa73-4bac-8bed-22e0af50ec50
 source-git-commit: 8bcf161013259850165418dccd18ebd7f4ea3c93
 workflow-type: tm+mt
 source-wordcount: '105'
-ht-degree: 0%
+ht-degree: 10%
 
 ---
 
