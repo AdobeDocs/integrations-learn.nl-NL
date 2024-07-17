@@ -4,7 +4,7 @@ description: Ontdek meer over gemeenschappelijke integratieconfiguraties voor Ex
 exl-id: eb460a4e-924f-4dcf-a2e2-5fa5a7bc9fdf
 source-git-commit: 8bcf161013259850165418dccd18ebd7f4ea3c93
 workflow-type: tm+mt
-source-wordcount: '183'
+source-wordcount: '178'
 ht-degree: 9%
 
 ---
@@ -19,21 +19,21 @@ Houd in mening dat er vele manieren zijn om de toepassingen van de Adobe, afhank
 <tr>
     <td>
       <a  href="./b2b.md"><img alt="B2b-marketing" src="https://cdn.experienceleague.adobe.com/thumb/b2b.png"/></a>
-      <div><strong><a href="./b2b.md">B2B-marketing</a></strong></div>
+      <div><strong><a href="./b2b.md"> B2B marketing </a></strong></div>
       <p>
         Automatisering en verkooppartnerschap
       </p>
     </td>
    <td>
       <a  href="./commerce.md"><img alt="handel" src="https://cdn.experienceleague.adobe.com/thumb/commerce.png"/></a>
-      <div><strong><a href="./commerce.md">Commerce</a></strong></div>
+      <div><strong><a href="./commerce.md"> Commerce </a></strong></div>
       <p>
         Digitale handel B2B en B2C
       </p>
    </td>    
    <td>
       <a  href="./content-management.md"><img alt="Contentmanagement" src="https://cdn.experienceleague.adobe.com/thumb/content-management.png"/></a>
-      <div><strong><a href="./content-management.md">Inhoudsbeheer</a></strong></div>
+      <div><strong><a href="./content-management.md"> Inhoudsbeheer </a></strong></div>
       <p>
         Inhoud- en middelenbeheer
       </p>
@@ -42,21 +42,21 @@ Houd in mening dat er vele manieren zijn om de toepassingen van de Adobe, afhank
 <tr>
    <td>
       <a  href="./content-supply-chain.md"><img alt="Inhoudstoeleveringsketen" src="https://cdn.experienceleague.adobe.com/thumb/content-supply-chain.png"/></a>
-      <div><strong><a href="./content-supply-chain.md">Inhoudstoeleveringsketen</a></strong></div>
+      <div><strong><a href="./content-supply-chain.md"> de leveringsketen van de Inhoud </a></strong></div>
       <p>
         Inhoud sneller maken en leveren
       </p> 
     </td>
    <td>
       <a  href="./customer-journeys.md"><img alt="Klantreizen" src="https://cdn.experienceleague.adobe.com/thumb/customer-journeys.png"/></a>
-      <div><strong><a href="./customer-journeys.md">Reizen van klanten</a></strong></div>
+      <div><strong><a href="./customer-journeys.md"> reizen van de Klant </a></strong></div>
       <p>
         Omnichannel orchestratie en levering
       </p> 
     </td>
    <td>
       <a  href="./data-insights.md"><img alt="Gegevensinzichten en activering" src="https://cdn.experienceleague.adobe.com/thumb/data-insights.png"/></a>
-      <div><strong><a href="./data-insights.md"> Gegevensinzichten en activering</a></strong></div>
+      <div><strong><a href="./data-insights.md"> Gegevensinzichten en activering </a></strong></div>
       <p>
         [!DNL Analytics] en publieksbeheer
       </p>
@@ -64,8 +64,8 @@ Houd in mening dat er vele manieren zijn om de toepassingen van de Adobe, afhank
 </tr>
 <tr>
    <td>
-      <a  href="./personalization.md"><img alt="Personalisatie op schaal" src="https://cdn.experienceleague.adobe.com/thumb/personalization.png"/></a>
-      <div><strong><a href="./personalization.md">Personalisatie als schaal</a></strong></div>
+      <a  href="./personalization.md"><img alt="Personalization op schaal" src="https://cdn.experienceleague.adobe.com/thumb/personalization.png"/></a>
+      <div><strong><a href="./personalization.md"> Personalization als schaal </a></strong></div>
       <p>
         Hoe te om elke verbinding persoonlijk te maken
       </p>

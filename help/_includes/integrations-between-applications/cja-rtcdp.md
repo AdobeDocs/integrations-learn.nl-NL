@@ -1,34 +1,34 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '234'
+source-wordcount: '227'
 ht-degree: 1%
 
 ---
 
 
-# Klantenreis [!DNL Analytics] en realtime klantgegevens [!DNL Platform] (Real-Time CDP) integratie
+# Integratie van klantgegevens [!DNL Analytics] en realtime klantgegevens [!DNL Platform] (Real-Time CDP)
 
 {{customer-journey-analytics-description}}
 
 {{real-time-cdp-description}}
 
-Belangrijkste voordelen van de integratie van de Adobe Klantenreis [!DNL Analytics] en Adobe Real-Time CDP include\:
+Belangrijkste voordelen van de integratie van Adobe Klantenreis [!DNL Analytics] en Adobe Real-Time CDP zijn onder andere\:
 
-+ **Klantenweergave van 360 graden**: Combineert gegevens voor een verenigde mening van de klantenreis, begrip interactie en voorkeur.
-+ **Realtime personalisatie**: levert direct relevante ervaringen met Adobe Real-Time CDP.
-+ **Meer informatie van klanten**: Analyseert gedrag en reizen, verfstrategieën door gegevensgestuurde beslissingen.
-+ **Naadloze gegevensactivering**: stroomlijnt de activering van gegevens en maakt gepersonaliseerde ervaringen via verschillende kanalen mogelijk.
-+ **Verbeterde marketingtoewijzing**: Nauwkeurige attributen touchpoint impact, verbeterend ROI meting en optimalisering.
++ **360 graadklantenmening**: Combineert gegevens voor een verenigde mening van de klantenreis, begrip interactie en voorkeur.
++ **verpersoonlijking in real time**: Levert relevante ervaringen onmiddellijk met Adobe Real-Time CDP.
++ **diepere klanteninzichten**: Analyseert gedrag en reizen, raffinerend strategieën door gegeven-gedreven besluiten.
++ **Naadloze gegevensactivering**: Gestroomlijnt gegevensactivering, toelatend gepersonaliseerde ervaringen over kanalen.
++ **Verbeterde marketing attributie**: Nauwkeurig kenmerkt aanraakpunteffect, verbeterend ROI meting en optimalisering.
 
-De integratie van de Adobe-klantenreis [!DNL Analytics] en Adobe Real-Time CDP stelt bedrijven in staat uitzonderlijke klantervaringen te bieden, de betrokkenheid van klanten te stimuleren en geïnformeerde marketingbeslissingen te nemen op basis van uitgebreide, real-time klantinzichten.
+Over het geheel genomen biedt de integratie van de Adobe Klantenreis [!DNL Analytics] en Adobe Real-Time CDP bedrijven de mogelijkheid om uitzonderlijke klantervaringen te bieden, de betrokkenheid van klanten te stimuleren en geïnformeerde marketingbeslissingen te nemen op basis van uitgebreide, real-time klantinzichten.
 
 ## Gemeenschappelijke integratie
 
 <table>
     <thead>
         <tr>
-            <th>Experience Cloud-toepassingen</th>
+            <th>Experiencen Cloud</th>
             <th>Integreert met</th>
             <th>Wanneer gebruiken</th>
             <th>Vaak voorkomende gebruiksscenario's</th>
@@ -37,11 +37,11 @@ De integratie van de Adobe-klantenreis [!DNL Analytics] en Adobe Real-Time CDP s
     <tbody>
         <tr>
             <td><a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/components/audiences/audience-publishing-for-cja.html" target="_blank" rel="noreferrer">Klantenreis [!DNL Analytics] en Real-Time CDP</a></td>
-            <td>Adobe-ervaring [!DNL Platform]</td>
+            <td>Ervaring met Adobe [!DNL Platform]</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Wanneer u een reis van de Klant wilt gebruiken [!DNL Analytics] (CJA) publiek voor een reis in Adobe Journey Optimizer.</li>
-                    <li>Wanneer u het CJA-publiek naar een derde partij wilt exporteren via een ervaring [!DNL Platform] bestemming.</li>
+                    <li>Wanneer u een publiek van de Reis van de Klant [!DNL Analytics] (CJA) voor een reis in Adobe Journey Optimizer wilt gebruiken.</li>
+                    <li>Wanneer u het CJA-publiek naar een derde partij wilt exporteren via een Experience [!DNL Platform] -bestemming.</li>
                     <li>Wanneer u het Real-Time klantenprofiel met nuttige attributen wilt verrijken die uit op gebeurtenis-gebaseerde gegevens in CJA worden afgeleid.</li>
                     <li>Dit alles doen met minimale vertraging nadat het publiek naar Real-Time CDP is gepubliceerd.</li>
                     <li>Wanneer u eenmalig publiek of terugkerend publiek wilt publiceren.</li>

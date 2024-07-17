@@ -1,7 +1,7 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '109'
 ht-degree: 2%
 
 ---
@@ -15,16 +15,16 @@ ht-degree: 2%
 
 De belangrijkste voordelen van de integratie van Adobe Workfront en Adobe Creative Cloud zijn:
 
-+ **Creatieve workflow**: Integratie stroomlijnt taken, feedback en aanmeldtijd voor Creative Cloud-apps.
-+ **Efficiënte samenwerking**: Workfront maakt creatieve werkrevisies, goedkeuringen en teamsamenwerking mogelijk.
-+ **Verbeterde productiviteit**: Naadloze voorkeuren voor omgevingen leiden tot verbeterde snelheid en kwaliteit bij het maken van inhoud.
++ **Creative werkschema**: De integratie stroomlijnt taken, koppelt, en tijd het registreren in Creative Cloud apps.
++ **Efficiënte samenwerking**: Workfront vergemakkelijkt creatieve het werkrevisies, goedkeuringen, en teamsamenwerking.
++ **Verbeterde productiviteit**: De naadloze milieu voorkeur leidt tot betere snelheid en kwaliteit van de inhoudsverwezenlijking.
 
 ## Gemeenschappelijke integratie
 
 <table>
     <thead>
         <tr>
-            <th>Experience Cloud-toepassingen</th>
+            <th>Experiencen Cloud</th>
             <th>Integreert met</th>
             <th>Wanneer gebruiken</th>
             <th>Vaak voorkomende gebruiksscenario's</th>
@@ -36,7 +36,7 @@ De belangrijkste voordelen van de integratie van Adobe Workfront en Adobe Creati
             <td>Native connector</td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Wanneer creatieve personen toegewezen werk willen zoeken en bijwerken zonder Creative Cloud-apps te verlaten.</li>
+                    <li>Wanneer ontwerpers toegewezen werk willen zoeken en bijwerken zonder Creative Cloud-apps te verlaten.</li>
                 </ul>
             </td>
             <td>

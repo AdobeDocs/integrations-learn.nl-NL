@@ -1,7 +1,7 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '258'
+source-wordcount: '245'
 ht-degree: 1%
 
 ---
@@ -13,21 +13,21 @@ ht-degree: 1%
 
 {{target-description}}
 
-Bij gebruik samen met Adobe Experience Manager en Adobe [!DNL Target] creëren een krachtige oplossing van begin tot eind die ondernemingen toestaat om hun inhoud te beheren en gepersonaliseerde ervaringen te leveren. Dankzij de integratie van deze twee platforms kunnen bedrijven naadloos persoonlijke ervaringen op meerdere kanalen aanbieden, waaronder web, mobiel en e-mail, en kunnen zij hun content- en marketingcampagnes optimaliseren op basis van realtime gegevens en klantinzichten.
+Als Adobe Experience Manager en Adobe samen worden gebruikt, creëren ze een krachtige end-to-end oplossing waarmee bedrijven hun inhoud kunnen beheren en persoonlijke ervaringen kunnen bieden. [!DNL Target] Dankzij de integratie van deze twee platforms kunnen bedrijven naadloos persoonlijke ervaringen op meerdere kanalen aanbieden, waaronder web, mobiel en e-mail, en kunnen zij hun content- en marketingcampagnes optimaliseren op basis van realtime gegevens en klantinzichten.
 
-Sommige voordelen van Adobe Experience Manager en Adobe [!DNL Target] omvatten samen:
+Enkele voordelen van het gebruik van Adobe Experience Manager en Adobe [!DNL Target] samen zijn:
 
-+ **Verbeterde betrokkenheid**: AEM en Adobe [!DNL Target] overvloeien om op maat gemaakte ervaringen te bieden, waardoor de tevredenheid en betrokkenheid toenemen.
-+ **Gestroomlijnde processen**: AEM en Adobe [!DNL Target] integratie stroomlijnt de creatie en het testen van verpersoonlijking, die efficiency verbeteren.
-+ **Dynamische optimalisatie**: Real-time AEM-Adobe [!DNL Target] integratie maakt het mogelijk inhoud en campagne te optimaliseren met behulp van klantinzichten.
-+ **Diepgaande analyse**: AEM en Adobe [!DNL Target] de gegevens bieden waardevolle klanteninzichten aan, die gerichte marketing campagnes voeden.
++ **Verbeterde betrokkenheid**: AEM en Adobe [!DNL Target] mengen om op maat gemaakte ervaringen te leveren, die tevredenheid en betrokkenheid verhogen.
++ **Gestroomlijnde processen**: AEM en Adobe [!DNL Target] de integratie stroomlijnt verpersoonlijkingsverwezenlijking en het testen, die efficiency verbeteren.
++ **Dynamische optimalisering**: De integratie in real time AEM-Adobe [!DNL Target] laat inhoud en campagneroptimalisering toe gebruikend klanteninzichten.
++ **diepgaande analyses**: Gecombineerde AEM en Adobe [!DNL Target] gegevens bieden waardevolle klanteninzichten aan, die gerichte marketing campagnes bevorderen.
 
 ## Gemeenschappelijke integratie
 
 <table>
     <thead>
         <tr>
-            <th>Experience Cloud-toepassingen</th>
+            <th>Experiencen Cloud</th>
             <th>Integreert met</th>
             <th>Wanneer gebruiken</th>
             <th>Vaak voorkomende gebruiksscenario's</th>
@@ -35,8 +35,8 @@ Sommige voordelen van Adobe Experience Manager en Adobe [!DNL Target] omvatten s
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations/target.html" target="_blank" rel="noreferrer">AEM headless as a Cloud Service en [!DNL Target]</a></td>
-            <td>Ervaring [!DNL Platform] Web SDK-taguitbreiding of alloy.js</td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations/target.html" target="_blank" rel="noreferrer">AEM zonder kop as a Cloud Service en [!DNL Target]</a></td>
+            <td>Ervaar de extensie van Web SDK-tags of alloy.js[!DNL Platform]</td>
             <td>
               <ul style="margin-top: 0;">
                 <li>Wanneer u AEM Headless ervaringen wilt personaliseren.</li>
@@ -64,7 +64,7 @@ Sommige voordelen van Adobe Experience Manager en Adobe [!DNL Target] omvatten s
               <ul style="margin-top: 0;">
                 <li>A/B testen op AEM Sites-inhoudvariaties.</li>
                 <li>[!DNL Target]Ik heb de ervaringen van AEM Sites persoonlijk gemaakt.</li>
-                <li>AEM Sites optimaliseren met real-time gegevens van Adobe [!DNL Target].</li>
+                <li>AEM Sites optimaliseren met realtime gegevens van Adobe [!DNL Target] .</li>
               </ul>
             </td>
         </tr>

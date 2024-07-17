@@ -1,6 +1,6 @@
 ---
-title: Integreren [!DNL Analytics] with [!DNL Target] zelfstudie
-description: Leer hoe u Adobe kunt integreren [!DNL Analytics] met Adobe [!DNL Target].
+title: Integreer  [!DNL Analytics]  met  [!DNL Target]  leerprogramma
+description: Leer hoe te om Adobe  [!DNL Analytics]  met Adobe  [!DNL Target] te integreren.
 solution: Analytics, Target
 feature: Integrations
 topic: Integrations
@@ -12,15 +12,15 @@ kt: null
 thumbnail: null
 last-substantial-update: 2023-04-11T00:00:00Z
 badgeIntegration: label="Integratie" type="positive"
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+exl-id: 4ab6c61f-f14e-408a-a700-53f7b3d0600a
+source-git-commit: d35dc06c56c117cffe70542b6713f275877e4879
 workflow-type: tm+mt
-source-wordcount: '428'
-ht-degree: 0%
+source-wordcount: '389'
+ht-degree: 1%
 
 ---
 
-
-# Integreren [!DNL Analytics] with [!DNL Target]
+# [!DNL Analytics] integreren met [!DNL Target]
 
 
 ## Integratiewaarde en -instelling
@@ -29,18 +29,18 @@ In de onderstaande video&#39;s ziet u de waarde van deze integratie en de detail
 
 >[!NOTE]
 >
->Deze video&#39;s tonen de implementatie en validatie voor [!DNL Target] at.js en [!DNL Analytics] appMeasurement.js. Raadpleeg de [documentatie](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html) voor de vereiste bibliotheekversies in beide gereedschappen.
+>Deze video&#39;s demonstreren de implementatie en validatie voor [!DNL Target] at.js en [!DNL Analytics] appMeasurement.js. Gelieve te verwijzen naar de [ documentatie ](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html) voor vereiste bibliotheekversies in beide hulpmiddelen.
 
-### A4T instellen ([!DNL Analytics] for [!DNL Target])
+### A4T instellen ([!DNL Analytics] voor [!DNL Target])
 
 In deze video, die voor een ontwikkelaar wordt bedoeld, leert u hoe te:
 
-* Uitleggen hoe [!DNL Analytics] en [!DNL Target] aanvragen binden aan met SDID
-* Beschrijf de implementatievereisten voor Adobe [!DNL Analytics] met Adobe [!DNL Target] (A4T)
+* Uitleggen hoe [!DNL Analytics] - en [!DNL Target] -aanvragen zich binden met SDID
+* Implementatievereisten voor Adobe [!DNL Analytics] met Adobe [!DNL Target] (A4T) beschrijven
 
 >[!VIDEO](https://video.tv.adobe.com/v/35146/?quality=12&learn=on)
 
-### Gebruiken [!DNL Analytics] als gegevensbron voor [!DNL Target]
+### [!DNL Analytics] gebruiken als Data Source for [!DNL Target]
 
 In deze video, die voor een bedrijfsbeoefenaar wordt bedoeld, zult u leren:
 
@@ -55,15 +55,15 @@ In deze video, die voor een bedrijfsbeoefenaar wordt bedoeld, zult u leren:
 
 De video&#39;s hieronder tonen verschillende eigenschappen, activiteitstypes, en voordelen van integratie via A4T.
 
-### [!DNL Analytics] for [!DNL Target] (A4T) Panel in Analysis Workspace
+### [!DNL Analytics] voor deelvenster [!DNL Target] (A4T) in Analysis Workspace
 
-De [!DNL Analytics] for [!DNL Target] (A4T) kunt u de Adobe analyseren [!DNL Target] activiteiten en ervaringen in Analysis Workspace, met lippendienst en vertrouwen.
+In het deelvenster [!DNL Analytics] for [!DNL Target] (A4T) kunt u uw Adobe [!DNL Target] -activiteiten en -ervaringen in Analysis Workspace met een optillen en vertrouwen analyseren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/37247/?quality=12&learn=on)
 
-### Automatische analyse[!DNL Target] Activiteit die het Comité A4T gebruikt
+### Een Auto- [!DNL Target] Activiteit analyseren gebruikend het Comité A4T
 
-In deze video leert u hoe u de [!DNL Analytics] for [!DNL Target] om de resultaten van een automatische[!DNL Target] test.
+In deze video leert u hoe u het deelvenster [!DNL Analytics] for [!DNL Target] kunt gebruiken om de resultaten van een Auto- [!DNL Target] test te visualiseren.
 
 >[!VIDEO](https://video.tv.adobe.com/v/333270/?quality=12&learn=on)
 
@@ -71,18 +71,18 @@ Er zijn ook twee stapsgewijze zelfstudies die u de details laten zien voor het i
 
 ## A4T-rapporten instellen in Analysis Workspace voor automatisch toegewezen activiteiten {#a4t-auto-allocate}
 
-Een auto-Wijs activiteit identificeert een winnaar onder twee of meer ervaringen en wijst automatisch meer verkeer aan de winnaar toe terwijl de test blijft lopen en leren. De [!DNL Analytics] for [!DNL Target] (A4T) Dankzij de integratie voor Automatisch toewijzen kunt u uw rapportgegevens in Adobe bekijken [!DNL Analytics]en u kunt zelfs optimaliseren voor aangepaste gebeurtenissen of maateenheden die zijn gedefinieerd in [!DNL Analytics].
+Een auto-Wijs activiteit identificeert een winnaar onder twee of meer ervaringen en wijst automatisch meer verkeer aan de winnaar toe terwijl de test blijft lopen en leren. Dankzij de [!DNL Analytics] for [!DNL Target] (A4T) -integratie voor Automatisch toewijzen kunt u de rapportgegevens in Adobe bekijken [!DNL Analytics] en kunt u zelfs optimaliseren voor aangepaste gebeurtenissen of maateenheden die zijn gedefinieerd in [!DNL Analytics] .
 
 <a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-allocate-activities.html" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM" target="_blank">
-  <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">A4T-rapporten instellen voor automatisch toegewezen activiteiten</span>
+  <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> opstelling A4T rapporten voor auto-Wijs activiteiten </span> toe
 </a>
 
-## A4T-rapporten instellen in Analysis Workspace voor Auto-[!DNL Target] activiteiten {#a4t-auto-target}
+## A4T-rapporten instellen in Analysis Workspace voor Auto- [!DNL Target] activiteiten {#a4t-auto-target}
 
-De [!DNL Analytics] for [!DNL Target] (A4T) integratie voor Auto-[!DNL Target] activiteiten gebruiken de Adobe [!DNL Target] codeer machine het leren (ML) algoritmen om de beste ervaring voor elke bezoeker te kiezen die op hun profiel, gedrag, en context wordt gebaseerd, allen terwijl het gebruiken van een Adobe [!DNL Analytics] doel-metrisch.
+De [!DNL Analytics] for [!DNL Target] (A4T) integratie voor auto- [!DNL Target] activiteiten gebruikt de Adobe [!DNL Target] ensemble machine learning (ML) algoritmen om de beste ervaring voor elke bezoeker te kiezen die op hun profiel, gedrag, en context wordt gebaseerd, allen terwijl het gebruiken van een Adobe [!DNL Analytics] doel metrisch.
 
-Hoewel uitgebreide analysecapaciteiten beschikbaar zijn in Adobe [!DNL Analytics] Analysis Workspace, enkele wijzigingen in de standaardinstelling [!DNL Analytics] for [!DNL Target] deelvenster is vereist voor correcte interpretatie van Automatisch[!DNL Target] activiteiten, als gevolg van verschillen tussen experimentele activiteiten (handmatige A/B-test en automatische toewijzing) en verpersoonlijkingsactiviteiten (auto-[!DNL Target]).
+Hoewel uitgebreide analysemogelijkheden beschikbaar zijn in Adobe [!DNL Analytics] Analysis Workspace, zijn een paar wijzigingen in het standaard [!DNL Analytics] for [!DNL Target] -deelvenster vereist voor een correcte interpretatie van [!DNL Target] -activiteiten, vanwege verschillen tussen experimentatieactiviteiten (handmatige A/B-test en automatische toewijzing) en verpersoonlijkingsactiviteiten (Automatisch [!DNL Target]).
 
 <a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities.html" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM" target="_blank">
-  <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">A4T-rapporten instellen voor Auto-[!DNL Target] activiteiten</span>
+  <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> opstelling A4T rapporten voor Auto- [!DNL Target] activiteiten </span>
 </a>

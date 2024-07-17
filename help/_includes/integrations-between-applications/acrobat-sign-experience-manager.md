@@ -15,17 +15,17 @@ ht-degree: 2%
 
 De integratie van Acrobat Sign met Adobe Experience Manager (AEM) biedt de volgende voordelen:
 
-+ **Gestroomlijnde documentworkflows**: Automatisch documenten ondertekenen in AEM Forms, goedkeuringen versnellen en handmatige verwerking voorkomen.
-+ **Verbeterde gebruikerservaring**: Laat elektronische handtekeningen toe, verminder druk en post voor snellere en efficiëntere processen.
-+ **Meer nauwkeurigheid en beveiliging**: Zorg voor gegevensintegriteit met toegewezen formuliervelden, maar houd tegelijkertijd vast aan de industrienormen en robuuste beveiligingsfuncties.
-+ **Mobiele toegankelijkheid en toegankelijkheid op afstand**: Onderteken documenten op elk apparaat en ondersteunt externe workers met een responsief ontwerp voor verschillende schermgrootten.
++ **Gestroomlijnde documentwerkschema&#39;s**: Automatiseer document die binnen AEM Forms ondertekenen, goedkeuringen versnelt, en handbehandeling elimineert.
++ **Verbeterde gebruikerservaring**: Laat elektronische handtekeningen toe, verminderend druk en post voor snellere en efficiëntere processen.
++ **Verhoogde nauwkeurigheid en veiligheid**: Verzeker gegevensintegriteit met in kaart gebrachte vormgebieden, terwijl het volgen aan de industrieconformiteit en robuuste veiligheidseigenschappen.
++ **mobiel-vriendschappelijke en verre toegankelijkheid**: De documenten van het teken op om het even welk apparaat, ondersteunend verre arbeiders met ontvankelijk ontwerp voor verschillende het schermgrootte.
 
 ## Gemeenschappelijke integratie
 
 <table>
     <thead>
         <tr>
-            <th>Experience Cloud-toepassingen</th>
+            <th>Experiencen Cloud</th>
             <th>Wanneer gebruiken</th>
             <th>Vaak voorkomende gebruiksscenario's</th>
         </tr>
@@ -33,7 +33,7 @@ De integratie van Acrobat Sign met Adobe Experience Manager (AEM) biedt de volge
     <tbody>
         <tr>
             <td>
-                <a href="/docs/experience-manager-learn/forms/forms-and-sign/introduction.html" target="_blank" rel="referrer">Adobe Acrobat en Experience Manager Forms</a>
+                <a href="/docs/experience-manager-learn/forms/forms-and-sign/introduction.html" target="_blank" rel="referrer"> Adobe Acrobat en Experience Manager Forms </a>
             </td>
             <td>
                 <ul style="margin-top: 0;">

@@ -1,7 +1,7 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '111'
+source-wordcount: '105'
 ht-degree: 2%
 
 ---
@@ -13,18 +13,18 @@ ht-degree: 2%
 
 {{target-description}}
 
-Adobe gebruiken [!DNL Campaign] met Adobe [!DNL Target] om uw e-mailinhoud aan te passen en te optimaliseren. Belangrijkste voordelen zijn:
+Gebruik Adobe [!DNL Campaign] met Adobe [!DNL Target] om uw e-mailinhoud aan te passen en te optimaliseren. Belangrijkste voordelen zijn:
 
-+ **Adobe [!DNL Campaign] data**: Verbeter het richten in Adobe [!DNL Target] met Adobe [!DNL Campaign] data smart.
-+ **Auditiesegmentatie**: De segmenten van de verbinding aan bezoekersidentiteitskaart voor geoptimaliseerde het richten en gepersonaliseerde ervaringen.
-+ **[!DNL Target]verbeteringen**: Toegang tot waardevolle gegevens (gebruikersagent, IP-adres, geolocatie) voor betere doelgerichte toepassingen en campagnes.
++ **Adobe [!DNL Campaign] gegevens**: Verbeter het richten in Adobe [!DNL Target] met Adobe [!DNL Campaign] gegevensstroom.
++ **segmentatie van het publiek**: De segmenten van de verbinding aan bezoekersidentiteitskaart voor geoptimaliseerde het richten en gepersonaliseerde ervaringen.
++ **[!DNL Target]het ing verhogingen**: Toegang waardevolle gegevens (gebruikersagent, IP adres, geolocatie) voor het betere richten en campagnes.
 
 ## Gemeenschappelijke integratie
 
 <table>
     <thead>
         <tr>
-            <th>Experience Cloud-toepassingen</th>
+            <th>Experiencen Cloud</th>
             <th>Wanneer gebruiken</th>
             <th>Vaak voorkomende gebruiksscenario's</th>
         </tr>

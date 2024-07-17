@@ -1,7 +1,7 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '108'
+source-wordcount: '102'
 ht-degree: 2%
 
 ---
@@ -15,18 +15,18 @@ ht-degree: 2%
 
 De integratie van Adobe Journey Optimizer &amp; Experience Manager Assets Essentials biedt verschillende voordelen, zoals:
 
-+ **Efficiënte levering van inhoud**: Werk naadloos samen op gepersonaliseerde inhoud.
-+ **Verbeterde marketingefficiëntie**: bespaart tijd, zorgt voor consistentie in campagnes.
-+ **Gegevensgestuurde personalisatie**: Trainingsmateriaal met waardevolle inzichten.
-+ **Versiebeheer en -beheer**: Behoudt consistent merkbericht.
-+ **Gestroomlijnde samenwerking**: vergemakkelijkt teamwork en vloeiende workflows.
++ **Efficiënte inhoudslevering**: Werk naadloos op gepersonaliseerde inhoud samen.
++ **Verbeterde marketing efficiency**: Bespaar tijd, verzekert consistentie in campagnes.
++ **gegevens-gedreven verpersoonlijking**: De inhoud van de tijgers die waardevolle inzichten gebruiken.
++ **de controle en het bestuur van de Versie**: Behoudt verenigbaar merkoverseinen.
++ **Gestroomlijnde samenwerking**: vergemakkelijkt teamwork en vlotte werkschema&#39;s.
 
 ## Gemeenschappelijke integratie
 
 <table>
     <thead>
         <tr>
-            <th>Experience Cloud-toepassingen</th>
+            <th>Experiencen Cloud</th>
             <th>Integreert met</th>
             <th>Wanneer gebruiken</th>
             <th>Vaak voorkomende gebruiksscenario's</th>

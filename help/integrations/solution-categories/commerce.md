@@ -20,7 +20,7 @@ Bouw multi-channel handelservaringen op één enkel platform met onze flexibele,
       <th>Gebruiksscenario</th>
       <th>Beschrijving</th>
       <th>Voorbeelden</th>
-      <th>Toepassingen</th>
+      <th>Applicaties</th>
     </tr>
   </thead>
   <tbody>
@@ -40,7 +40,7 @@ Bouw multi-channel handelservaringen op één enkel platform met onze flexibele,
           <li>Complexe multi-store configuraties implementeren.</li>
           <li>Naadloos inhoudsbeheer op verschillende sites.</li>
           <li>Efficiënte wereldwijde contentcoördinatie.</li>
-          <li>Ondersteuning voor meerdere omgevingen voor Adobe [!DNL Commerce].</li>
+          <li>Ondersteuning voor meerdere omgevingen voor Adobe [!DNL Commerce] .</li>
           <li>Vereenvoudigd maken van commerciële inhoud.</li>
           <li>Consistent en efficiënt beheer van opslagruimten.</li>
       </ul>
@@ -50,7 +50,7 @@ Bouw multi-channel handelservaringen op één enkel platform met onze flexibele,
  <tr>
    <td><strong>Gegevensanalyse en -rapportage<strong></td>
    <td>Evalueer de de omzettrechter, orden, opbrengst, en bezoek en bezoekersmetriek van de handelsloopwinkel.</td>
-   <td><ul style="margin-top: 0;"><li>Gegevens-inzichten en rapportage over handelsactiviteiten.</li><li>Meer inzicht in Adobe [!DNL Commerce] Sla de prestaties op met behulp van de belangrijkste maatstaven en dimensies die u selecteert.</li></ul></td>
+   <td><ul style="margin-top: 0;"><li>Gegevens-inzichten en rapportage over handelsactiviteiten.</li><li>Vergroot uitgebreide inzichten in de Adobe [!DNL Commerce] van de opslagprestaties met behulp van de belangrijkste maatstaven en dimensies die u selecteert.</li></ul></td>
    <td><a href="/help/integrations/integrations-between-applications/commerce/commerce-analytics.md">[!DNL Commerce] en [!DNL Analytics]</a></td>
  </tr>
  </tbody>

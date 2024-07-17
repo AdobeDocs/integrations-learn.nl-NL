@@ -1,8 +1,8 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '153'
-ht-degree: 1%
+source-wordcount: '147'
+ht-degree: 2%
 
 ---
 
@@ -15,18 +15,18 @@ ht-degree: 1%
 
 De integratie van Adobe Audience Manager en Adobe Real-Time CDP biedt de volgende voordelen:
 
-+ **Uitgebreide klantgegevens** met gecombineerde gegevens van eerste en derde partijen, waardoor u beter inzicht krijgt in de voorkeuren en gedragingen van klanten.
-+ **Realtime personalisatie** biedt marketers de mogelijkheid om relevante ervaringen te leveren, waardoor de betrokkenheid en tevredenheid van klanten worden verbeterd.
-+ **Precieze publiekssegmentatie** optimaliseert marketinginspanningen, wat leidt tot efficiëntere campagnes en een beter rendement op investeringen.
-+ **Naadloze ervaring met meerdere kanalen** verzekert verenigbaar overseinen en verhoogde klantenloyaliteit.
-+ **Verbeterde privacy en compatibiliteit van gegevens** de naleving bouwt vertrouwen met klanten en verlicht nalevingsrisico&#39;s.
++ **Uitgebreide klanteninzichten** met gecombineerde eerste-partijgegevens en derdegegevens, toelatend dieper inzicht in klantenvoorkeur en gedrag.
++ **verpersoonlijking in real time** machtigt marketers om relevante ervaringen te leveren, verbeterend klantenovereenkomst en tevredenheid.
++ **nauwkeurige publiekssegmentatie** optimaliseert marketing inspanningen, die tot efficiëntere campagnes en betere ROI leiden.
++ **Naadloze dwars-kanaalervaringen** verzekeren verenigbare overseinen en verhoogde klantenloyaliteit.
++ **Verbeterde gegevensprivacy en naleving** bouwen vertrouwen met klanten en verlichten nalevingsrisico&#39;s.
 
 ## Gemeenschappelijke integratie
 
 <table>
     <thead>
         <tr>
-            <th>Experience Cloud-toepassingen</th>
+            <th>Experiencen Cloud</th>
             <th>Integreert met</th>
             <th>Wanneer gebruiken</th>
             <th>Vaak voorkomende gebruiksscenario's</th>
@@ -35,7 +35,7 @@ De integratie van Adobe Audience Manager en Adobe Real-Time CDP biedt de volgend
     <tbody>
         <tr>
             <td>
-                <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html" target="_blank" rel="noreferrer">Audience Manager en Real-Time CDP</a>
+                <a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/sources/ingest-data-from-aam.html" target="_blank" rel="noreferrer"> Audience Manager en Real-Time CDP </a>
             </td>
             <td>Adobe Audience Manager-gegevensconnector</td>
             <td>

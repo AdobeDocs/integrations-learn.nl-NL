@@ -20,13 +20,13 @@ Ontwikkel klantprofielen in real time door gegevens uit alle bronnen te trekken 
       <th>Gebruiksscenario</th>
       <th>Beschrijving</th>
       <th>Voorbeelden</th>
-      <th>Toepassingen</th>
+      <th>Applicaties</th>
     </tr>
   </thead>
   <tbody>
 <tr>
   <td><strong>Marketingmateriaal maken met behulp van merkelementen</strong><br></td>
-  <td>E-mailmarketinginhoud en -sjablonen samenstellen en controleren met AEM en Adobe [!DNL Campaign].</td>
+  <td>Inhoud en sjablonen voor e-mailmarketing samenstellen en beheren met AEM en Adobe [!DNL Campaign] .</td>
   <td>
     <ul style="margin-top: 0;">
       <li>E-mails verzenden die zijn gemaakt met AEM</li>
@@ -37,14 +37,14 @@ Ontwikkel klantprofielen in real time door gegevens uit alle bronnen te trekken 
 
 <tr>
   <td><strong>Klantgegevens vastleggen</strong><br></td>
- <td>Augment native [!DNL Campaign] mogelijkheden om klantgegevens voor het richten en het aanpassen van marketing campagnes te vangen.</td>
+ <td>Native [!DNL Campaign] mogelijkheden uitbreiden om klantgegevens vast te leggen voor het maken van marketingcampagnes en voor het aanpassen van de functionaliteit ervan.</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Maak profielen en verzamel aanvullende informatie. </li>
       <li>Lidmaatschappen</li>
     </ul>
   </td>
-  <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">AEM Forms en [!DNL Campaign] Standaard</a></td>
+  <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">AEM Forms en [!DNL Campaign] Standard</a></td>
 </tr>
 
 <tr>
@@ -83,7 +83,7 @@ Ontwikkel klantprofielen in real time door gegevens uit alle bronnen te trekken 
 
 <tr>
   <td><strong>E-mailleveringen personaliseren</strong><br></td>
-  <td>E-mailleveringen personaliseren met dynamische inhoud door de mogelijkheden van Adobe te benutten [!DNL Target].</td>
+  <td>U kunt e-mailleveringen aanpassen met dynamische inhoud door de mogelijkheden van Adobe [!DNL Target] te benutten.</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Aangepaste aanbiedingen toevoegen aan e-mails van klanten</li>
@@ -94,7 +94,7 @@ Ontwikkel klantprofielen in real time door gegevens uit alle bronnen te trekken 
 
 <tr>
   <td><strong>Digitale ervaringen aanpassen</strong><br></td>
-  <td>Klantprofielen in realtime gebruiken en centraal beheren [!DNL Platform] segmenten voor het aanpassen van berichten via het web, mobiele apparaten en andere digitale kanalen.</td>
+  <td>Gebruik realtime profielen van klanten en centraal beheerde [!DNL Platform] segmenten om berichten via internet, mobiele apparaten en andere digitale kanalen aan te passen.</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Inhoud aanpassen aan bekende bezoekers</li>
@@ -103,18 +103,18 @@ Ontwikkel klantprofielen in real time door gegevens uit alle bronnen te trekken 
       <li>Aanpassing in realtime aanbieding</li>
     </ul>
   </td>
-  <td><a href="../integrations-between-applications/rtcdp/rtcdp-target.md">Real-time klantgegevens [!DNL Platform] en [!DNL Target]</a></td>
+  <td><a href="../integrations-between-applications/rtcdp/rtcdp-target.md">realtime klantgegevens [!DNL Platform] en [!DNL Target]</a></td>
 </tr>
 
 <tr>
   <td><strong>De productie van lood verbeteren</strong><br></td>
-  <td>Klantprofielen in realtime gebruiken en centraal beheren [!DNL Platform] segmenten voor het aanpassen van berichten via internet, mobiele apparaten en andere digitale kanalen</td>
+  <td>Gebruik realtime klantprofielen en centraal beheerde [!DNL Platform] segmenten om berichten via internet, mobiele apparaten en andere digitale kanalen aan te passen</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Inhoud aanpassen aan bekende bezoekers</li>
     </ul>
   </td>
-  <td><a href="../integrations-between-applications/rtcdp/rtcdp-target.md">Real-time klantgegevens [!DNL Platform] en [!DNL Target]</a></td>
+  <td><a href="../integrations-between-applications/rtcdp/rtcdp-target.md">realtime klantgegevens [!DNL Platform] en [!DNL Target]</a></td>
 </tr>
 </tbody>
 </table>

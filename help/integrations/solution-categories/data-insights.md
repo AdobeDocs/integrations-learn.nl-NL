@@ -5,7 +5,7 @@ exl-id: 9f22085a-306e-48e8-9b86-6429d851df58
 source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
 source-wordcount: '541'
-ht-degree: 1%
+ht-degree: 0%
 
 ---
 
@@ -20,7 +20,7 @@ Verpersoonlijking in real time op om het even welk kanaal gebruikend online en o
       <th>Gebruiksscenario</th>
       <th>Beschrijving</th>
       <th>Voorbeelden</th>
-      <th>Toepassingen</th>
+      <th>Applicaties</th>
     </tr>
   </thead>
 
@@ -30,7 +30,7 @@ Verpersoonlijking in real time op om het even welk kanaal gebruikend online en o
    <td rowspan="8"><b>Gegevensanalyse en -rapportage</b></td>
 
 <!--  ROW 2a  -->
-<td>De resultaten van optimalisatietests analyseren, inclusief A/B-tests, met behulp van Adobe [!DNL Target] en uitgebreide verslagen op te stellen via Adobe [!DNL Analytics].</td>
+<td>Analyseer de resultaten van optimalisatietests, inclusief A/B-tests, met behulp van Adobe [!DNL Target] en genereer uitgebreide rapporten via Adobe [!DNL Analytics] .</td>
    <td><ul style="margin-top: 0;">
         <li>Testresultaten van A/B tonen in analyserapporten met opmaak.</li>
        </ul></td>
@@ -39,10 +39,10 @@ Verpersoonlijking in real time op om het even welk kanaal gebruikend online en o
 
 <!--  ROW 2b  -->
 <tr>
-   <td>Segmentgegevens Audience Manager verzenden naar [!DNL Analytics] voor diepgaande publieksanalyse, ontdekking, en optimalisering.</td>
+   <td>Verstuur Audience Manager segmentgegevens naar [!DNL Analytics] voor een diepgaandere publieksanalyse, -detectie en -optimalisatie.</td>
     <td><ul style="margin-top: 0;">
-        <li>Segmentgegevens van derden verzenden naar [!DNL Analytics] voor een grondiger gebruikersanalyse.</li>
-        <li>CRM-gegevens verzenden naar [!DNL Analytics] voor opname in de gebruikersanalyse.</li>
+        <li>Verzend segmentgegevens van derden naar [!DNL Analytics] voor een uitgebreidere gebruikersanalyse.</li>
+        <li>CRM-gegevens naar [!DNL Analytics] verzenden voor insluiting in gebruikersanalyse.</li>
        </ul></td>
    <td><a href="../integrations-between-applications/aam/aam-analytics.md" target="_blank" rel="noopener noreferrer">Audience Manager en [!DNL Analytics]</a></td>
  </tr>
@@ -51,14 +51,14 @@ Verpersoonlijking in real time op om het even welk kanaal gebruikend online en o
 <tr>
    <td>Breid publiek voor verpersoonlijking en advertentieplatforms uit.</td>
     <td><ul style="margin-top: 0;">
-        <li>Het server-kant van het gebruik door:sturen [!DNL Analytics] gegevens aan Audience Manager om segmenten te creëren.</li>
+        <li>Gebruik server-side door:sturen om [!DNL Analytics] gegevens naar Audience Manager te verzenden om segmenten te maken.</li>
        </ul></td>
    <td><a href="../integrations-between-applications/aam/aam-analytics.md" target="_blank" rel="noopener noreferrer">Audience Manager en [!DNL Analytics]</a></td>
  </tr>
 
 <!--  ROW 2d  -->
 <tr>
-   <td>De betrokkenheid van gebruikers met digitale formulieren volgen, analyseren en rapporteren met AEM Forms en [!DNL Analytics]. </td>
+   <td>Met AEM Forms en [!DNL Analytics] kunt u de betrokkenheid van gebruikers met digitale formulieren bijhouden, analyseren en rapporteren. </td>
    <td><ul style="margin-top: 0;">
         <li>Rapport over de afmetingen en afmetingen voor het verzenden van formulieren, inclusief ingevulde formuliervelden en formuliervelden met fouten.</li>
        </ul></td>
@@ -67,10 +67,10 @@ Verpersoonlijking in real time op om het even welk kanaal gebruikend online en o
 
 <!--  ROW 2e  -->
 <tr>
-   <td>Gebruikersactiviteiten bijhouden, analyseren en rapporteren op AEM Sites-websites met Adobe [!DNL Analytics] voor uitgebreide rapportage en inzichten.</td>
+   <td>Gebruikeractiviteiten bijhouden, analyseren en rapporteren op AEM Sites-websites met Adobe [!DNL Analytics] voor uitgebreide rapportage en inzichten.</td>
    <td><ul style="margin-top: 0;">
         <li>Houd de belangrijkste metriek voor sitepagina's bij, analyseer deze en rapporteer deze.</li>
-        <li>Gebruiken [!DNL Analytics] rapporten om gegevensgestuurde beslissingen te nemen voor gebruikerservaring en inhoudsstrategie.</li>
+        <li>Gebruik [!DNL Analytics] -rapporten om gegevensgestuurde beslissingen te nemen voor gebruikerservaring en inhoudsstrategie.</li>
         <li>Omgezette paden onder en boven analyseren.</li>
        </ul></td>
    <td><a href="../integrations-between-applications/experience-manager/experience-manager-analytics.md" target="_blank" rel="noopener noreferrer">AEM Sites en [!DNL Analytics]</a></td>
@@ -78,10 +78,10 @@ Verpersoonlijking in real time op om het even welk kanaal gebruikend online en o
 
 <!--  ROW 2f  -->
 <tr>
-   <td>Meer inzicht in Adobe [!DNL Campaign] e-mailmarketingcampagnes waarbij gebruik wordt gemaakt van vooraf geklikt cijfermateriaal en conversiesnelheden.</td>
+   <td>Verkrijg uitvoerige inzichten in Adobe [!DNL Campaign] e-mailmarketing campagnes gebruikend pre-klikmetriek en omzettingstarieven.</td>
    <td><ul style="margin-top: 0;">
         <li>Houd conversiemetriek voor e-mailcampagnes bij, analyseer deze en rapporteer deze gegevens na het klikken.</li>
-        <li>Alle campagnes naar beneden bijsturen naar andere afmetingen die zijn verzameld in [!DNL Analytics].</li>
+        <li>Bouw campagnes naar beneden naar andere afmetingen die zijn verzameld in [!DNL Analytics].</li>
         <li>Bekijk pre-klik en post-klik campagnemetriek in één enkel rapport.</li>
        </ul></td>
    <td><a href="../integrations-between-applications/campaign/campaign-analytics.md" target="_blank" rel="noopener noreferrer">[!DNL Campaign] en [!DNL Analytics]</a></td>
@@ -89,17 +89,17 @@ Verpersoonlijking in real time op om het even welk kanaal gebruikend online en o
 
 <!--  ROW 2g  -->
 <tr>
-   <td>Meer inzicht in Adobe [!DNL Commerce] Sla de prestaties op met behulp van de belangrijkste maatstaven en dimensies die u selecteert.</td>
+   <td>Vergroot uitgebreide inzichten in de Adobe [!DNL Commerce] van de opslagprestaties met behulp van de belangrijkste maatstaven en dimensies die u selecteert.</td>
    <td><ul style="margin-top: 0;">
         <li>Gegevens-inzichten en rapportage over handelsactiviteiten.</li>
-        <li>Meer inzicht in Adobe [!DNL Commerce] Sla de prestaties op met behulp van de belangrijkste maatstaven en dimensies die u selecteert.</li>
+        <li>Vergroot uitgebreide inzichten in de Adobe [!DNL Commerce] van de opslagprestaties met behulp van de belangrijkste maatstaven en dimensies die u selecteert.</li>
        </ul></td>
    <td><a href="../integrations-between-applications/commerce/commerce-analytics.md" target="_blank" rel="noopener noreferrer">[!DNL Commerce] en [!DNL Analytics]</a></td>
  </tr>
 
 <!--  ROW 2h  -->
 <tr>
-   <td>Adobe gebruiken [!DNL Analytics] gedragsgegevens in Analysis Workspace op reis van klant [!DNL Analytics].</td>
+   <td>Gebruik Adobe [!DNL Analytics] -gedragsgegevens in Analysis Workspace in Klantreis [!DNL Analytics] .</td>
    <td><ul style="margin-top: 0;">
         <li>Kanaalbetrokkenheid en conversie analyseren.</li>
         <li>De beste productcategorieën en producten begrijpen.</li>
@@ -143,7 +143,7 @@ Verpersoonlijking in real time op om het even welk kanaal gebruikend online en o
  </tr>
 
 <!--  ROW 3e  -->
-<td>Gebruiken [!DNL Analytics] gegevens voor het creëren van publiek voor personalisatie of remarketing tactieken.</td>
+<td>Gebruik [!DNL Analytics] -gegevens voor het maken van soorten publiek die kunnen worden gebruikt voor personalisatie- of remarketingdoeleinden.</td>
    <td><ul style="margin-top: 0;"><li>Voer digitale publieksgerichte en verpersoonlijking op apparaten of gesteunde reclamekanalen uit.</li>
            <li>Optimaliseer bekende klant landende pagina's en anonieme ervaringen die op apparaat en gedragsattributen worden gebaseerd.</li>
            <li>Activeer het publiek naar bekende kanalen, zoals e-mail en SMS.</li>
@@ -154,7 +154,7 @@ Verpersoonlijking in real time op om het even welk kanaal gebruikend online en o
 <!--  ROW 4  -->
 <tr>
    <td><b>Gebruik en prestaties van marketingafbeeldingen meten</b></td>
-   <td>De doeltreffendheid van marketingafbeeldingen bijhouden en analyseren door AEM Assets en Adobe te integreren [!DNL Analytics].</td>
+   <td>Houd en analyseer de effectiviteit van marketingafbeeldingen bij door AEM Assets en Adobe te integreren [!DNL Analytics] .</td>
    <td><ul style="margin-top: 0;"><li>Elementprestaties volgen en analyseren.</li>
            <li>De betrokkenheid van gebruikers analyseren.</li>
            <li>Strategie voor inhoud optimaliseren.</li>

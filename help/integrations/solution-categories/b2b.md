@@ -4,8 +4,8 @@ description: Coördineer loodbeheer, ABM, en attributie bij schaal over kanalen 
 exl-id: ed4fb791-7883-4f42-80a0-12ab4e3c80ab
 source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
-source-wordcount: '219'
-ht-degree: 1%
+source-wordcount: '217'
+ht-degree: 2%
 
 ---
 
@@ -21,7 +21,7 @@ Coördineer loodbeheer, ABM, en attributie bij schaal over kanalen die op vereni
       <th>Gebruiksscenario</th>
       <th>Beschrijving</th>
       <th>Voorbeelden</th>
-      <th>Toepassingen</th>
+      <th>Applicaties</th>
     </tr>
   </thead>
 
@@ -41,7 +41,7 @@ Coördineer loodbeheer, ABM, en attributie bij schaal over kanalen die op vereni
 
 <tr>
   <td rowspan="1"><strong>Het publiek uitbreiden voor personalisatie en advertentieplatforms</strong><br/></td> 
-  <td>Gebruiken [!DNL Analytics] gegevens voor het creëren van publiek voor personalisatie of remarketing tactieken.</td>
+  <td>Gebruik [!DNL Analytics] -gegevens voor het maken van soorten publiek die kunnen worden gebruikt voor personalisatie- of remarketingdoeleinden.</td>
   <td>
     <ul style="margin-top: 0;">
       <li>Voer digitale publieksgerichte en verpersoonlijking op apparaten of gesteunde reclamekanalen uit.</li>
@@ -54,7 +54,7 @@ Coördineer loodbeheer, ABM, en attributie bij schaal over kanalen die op vereni
 
 <tr>
   <td><strong>Digitale ervaringen aanpassen</strong><br/></td>
-  <td> Klantprofielen in realtime gebruiken en centraal beheren [!DNL Platform] segmenten voor het aanpassen van berichten via het web, mobiele apparaten en andere digitale kanalen.
+  <td> Gebruik realtime profielen van klanten en centraal beheerde [!DNL Platform] segmenten om berichten via internet, mobiele apparaten en andere digitale kanalen aan te passen.
   </td>
   <td>
     <ul style="margin-top: 0;">
@@ -64,20 +64,20 @@ Coördineer loodbeheer, ABM, en attributie bij schaal over kanalen die op vereni
       <li>Aanpassing in realtime aanbieding</li>
     </ul>
   </td>
-  <td><a href="../integrations-between-applications/rtcdp/rtcdp-target.md">Real-time klantgegevens [!DNL Platform] en [!DNL Target]</a></td>
+  <td><a href="../integrations-between-applications/rtcdp/rtcdp-target.md">realtime klantgegevens [!DNL Platform] en [!DNL Target]</a></td>
 </tr>
 
 <tr>
   <td><strong>De productie van lood verbeteren</strong><br/></td>
   <td>
-    Klantprofielen in realtime gebruiken en centraal beheren [!DNL Platform] segmenten voor het aanpassen van berichten via internet, mobiele apparaten en andere digitale kanalen
+    Gebruik realtime klantprofielen en centraal beheerde [!DNL Platform] segmenten om berichten via internet, mobiele apparaten en andere digitale kanalen aan te passen
   </td>
   <td>
     <ul style="margin-top: 0;">
       <li>Inhoud aanpassen aan bekende bezoekers</li>
     </ul>
   </td>
-  <td><a href="../integrations-between-applications/rtcdp/rtcdp-target.md">Real-time klantgegevens [!DNL Platform] en [!DNL Target]</a></td>
+  <td><a href="../integrations-between-applications/rtcdp/rtcdp-target.md">realtime klantgegevens [!DNL Platform] en [!DNL Target]</a></td>
 </tr>
 </tbody>
 </table>

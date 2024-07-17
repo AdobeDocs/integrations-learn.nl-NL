@@ -1,7 +1,7 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '145'
+source-wordcount: '139'
 ht-degree: 2%
 
 ---
@@ -15,16 +15,16 @@ ht-degree: 2%
 
 De Adobe [!DNL Analytics] integratie met Adobe [!DNL Campaign] maakt naadloze gegevensuitwisseling en e-mailtracking mogelijk en biedt de volgende voordelen:
 
-+ **KPI-gegevens delen** van Adobe [!DNL Campaign] naar Adobe [!DNL Analytics].
-+ **Trackingformules verrijken** met Adobe [!DNL Analytics] parameters.
-+ Triggers gebruiken voor **persoonlijke e-mails verzenden** op basis van specifiek bijgehouden gedrag.
++ **de gegevens van KPI van het Aandeel** van Adobe [!DNL Campaign] aan Adobe [!DNL Analytics].
++ **verrijkt het volgen formules** met Adobe [!DNL Analytics] parameters.
++ De Trekkers van het gebruik aan **verzenden gepersonaliseerde e-mails** die op specifiek gevolgd gedrag worden gebaseerd.
 
 ## Gemeenschappelijke integratie
 
 <table>
     <thead>
         <tr>
-            <th>Experience Cloud-toepassingen</th>
+            <th>Experiencen Cloud</th>
             <th>Integreert met</th>
             <th>Wanneer gebruiken</th>
             <th>Vaak voorkomende gebruiksscenario's</th>
@@ -33,16 +33,16 @@ De Adobe [!DNL Analytics] integratie met Adobe [!DNL Campaign] maakt naadloze ge
     <tbody>
         <tr>
             <td rowspan="2">[!DNL Campaign] Standaard met [!DNL Analytics]</td>
-            <td><a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html" target="_blank" rel="noreferrer">Extern [!DNL Campaign] account gekoppeld aan Adobe [!DNL Analytics] en Admin-configuratie in [!DNL Analytics]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html" target="_blank" rel="noreferrer">Externe [!DNL Campaign] account gekoppeld aan Adobe [!DNL Analytics] en beheerconfiguratie in [!DNL Analytics]</a></td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Wanneer u het succes van uw e-mailleveringen wilt bijhouden vanaf [!DNL Campaign] direct in Adobe [!DNL Analytics].</li>
+                    <li>Wanneer u het succes van uw e-mailleveringen wilt bijhouden vanuit [!DNL Campaign] rechtstreeks in Adobe [!DNL Analytics] .</li>
                 </ul>
             </td>
             <td>
               <ul style="margin-top: 0;">
-                <li>Verbeter uw analyserapporten met [!DNL Campaign] leveringsgegevens, zoals verzonden e-mailberichten, geklikt e-mailadres, geopende e-mailberichten, geleverde e-mails, abonnementen en bedragen.</li>
-                <li>Downstreamconversiegebeurtenissen analyseren voor [!DNL Campaign] klikt u op de manier waarop u het verkeer verplaatst naar uw digitale eigenschappen, zoals formulierleads, online bestellingen of andere gebeurtenissen die zijn vastgelegd in [!DNL Analytics].</li>
+                <li>Verbeter uw analyserapporten met de leveringsgegevens van [!DNL Campaign] , inclusief de verzonden e-mails, aangeklikte e-mails, geopende e-mails, geleverde e-mails, abonnementen en bonnen.</li>
+                <li>Analyseer downstreamconversiegebeurtenissen voor [!DNL Campaign] klikken die het verkeer naar uw digitale eigenschappen sturen, zoals formulierleads, onlinebestellingen of andere gebeurtenissen die zijn vastgelegd in [!DNL Analytics] .</li>
               </ul>
             </td>
         </tr>

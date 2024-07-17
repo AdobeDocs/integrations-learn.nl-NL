@@ -1,6 +1,6 @@
 ---
-title: Integreren [!DNL Analytics] with [!DNL Real-Time Customer Data Platform]
-description: Leer hoe u kunt integreren [!DNL Analytics] met de gegevens van de Klant in real time [!DNL Platform].
+title: Integreer  [!DNL Analytics]  met  [!DNL Real-Time Customer Data Platform]
+description: Leer hoe te om  [!DNL Analytics]  met de Gegevens van de Klant in real time  [!DNL Platform] te integreren.
 solution: Analytics, Real-Time Customer Data Platform
 feature: Integrations
 topic: Integrations
@@ -19,6 +19,6 @@ ht-degree: 5%
 
 ---
 
-# Integreren [!DNL Analytics] met realtime klantgegevens [!DNL Platform]
+# [!DNL Analytics] integreren met realtime klantgegevens [!DNL Platform]
 
 {{$include /help/_includes/integrations-between-applications/analytics-rtcdp.md}}

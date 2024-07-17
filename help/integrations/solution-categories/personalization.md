@@ -9,7 +9,7 @@ ht-degree: 1%
 
 ---
 
-# Personalisatie op schaal
+# Personalization op schaal
 
 Binnen het hedendaagse, zeer concurrerende en digitaal gedreven landschap zijn klanten gekomen om ervaringen te verwachten die zijn toegesneden op hun unieke voorkeuren en behoeften. Door gebruik te maken van de mogelijkheden van Adobe Experience Cloud kunnen we uitgebreide klantgegevens verzamelen en analyseren, waardoor we waardevolle inzichten kunnen bieden in gedrag, belangen en voorkeuren. Dit diepgaande inzicht vergemakkelijkt het aanbieden van persoonlijke ervaringen op verschillende aanraakpunten, waardoor betekenisvolle en boeiende interacties mogelijk worden. Het hefboomwerking van de macht van Adobe Experience Cloud ontgrendelt het volledige potentieel van personalisering, bevorderend sterkere klantenverbindingen, het bevorderen van loyaliteit, en het drijven van bedrijfsgroei.
 
@@ -19,19 +19,21 @@ Binnen het hedendaagse, zeer concurrerende en digitaal gedreven landschap zijn k
       <th>Gebruiksscenario</th>
       <th>Beschrijving</th>
       <th>Voorbeelden</th>
-      <th>Toepassingen</th>
+      <th>Applicaties</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><strong>Persoonlijke PDF-documenten maken</strong></td>
       <td>
-        Communicatiedocumenten genereren voor ondertekening op basis van gebruikersselecties/voorkeuren.
+        Communicatiedocumenten genereren voor ondertekening op basis van gebruiker
+        selecties/voorkeuren.
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            Een dynamisch gegenereerde NDA presenteren op basis van de gegevens van een AEM Forms-verzending voor ondertekening
+            Een dynamisch gegenereerde NDA presenteren op basis van de gegevens van een AEM
+            Forms-verzending voor ondertekening
           </li>
         </ul>
       </td>
@@ -40,16 +42,16 @@ Binnen het hedendaagse, zeer concurrerende en digitaal gedreven landschap zijn k
           href="../integrations-between-applications/experience-manager/experience-manager-acrobat-sign.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEM Forms en ondertekenen</a
+          > AEM Forms en Teken </a
         >
       </td>
     </tr>
     <tr>
       <td rowspan="2"><strong>Gegevensanalyse en -rapportage</strong></td>
       <td>
-        Gedragsgegevens uit digitale ervaringen analyseren <br />Adobe gebruiken
-        [!DNL Analytics] gedragsgegevens in Analysis Workspace op reis van klant
-        [!DNL Analytics].
+        Analyseer gedragsgegevens van digitale ervaringen <br /> Adobe van het Gebruik
+        [!DNL Analytics] gedragsgegevens in Analysis Workspace op Klantreis
+        [!DNL Analytics] .
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -67,13 +69,15 @@ Binnen het hedendaagse, zeer concurrerende en digitaal gedreven landschap zijn k
           href="../integrations-between-applications/analytics/analytics-customer-journey-analytics.md"
           target="_blank"
           rel="noopener noreferrer"
-          >[!DNL Analytics] en Klantenreis [!DNL Analytics]</a
+          >[!DNL Analytics] en Reis van klant [!DNL Analytics]</a
         >
       </td>
     </tr>
     <tr>
       <td>
-        Rapportage voor verpersoonlijkingsactiviteiten<br />De resultaten van optimalisatietests analyseren, inclusief A/B-tests, door gebruik te maken van Adobe [!DNL Target] en uitgebreide verslagen op te stellen via Adobe [!DNL Analytics].
+        Het melden voor verpersoonlijkingsactiviteiten <br /> analyseert optimalisering
+        testresultaten, inclusief A/B-tests, met behulp van Adobe [!DNL Target] en
+        uitgebreide rapporten genereren via Adobe [!DNL Analytics] .
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -92,7 +96,8 @@ Binnen het hedendaagse, zeer concurrerende en digitaal gedreven landschap zijn k
     <tr>
       <td><strong>E-mailleveringen personaliseren</strong></td>
       <td>
-        E-mailleveringen personaliseren met dynamische inhoud door de mogelijkheden van Adobe te benutten [!DNL Target].
+        Personaliseer e-mailleveringen met dynamische inhoud door de
+        mogelijkheden voor Adobe [!DNL Target] .
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -110,21 +115,25 @@ Binnen het hedendaagse, zeer concurrerende en digitaal gedreven landschap zijn k
     </tr>
     <tr>
       <td rowspan="2">
-        <strong>Het publiek uitbreiden voor personalisatie en advertentieplatforms</strong>
+        <strong> breid publiek voor verpersoonlijking en advertentieplatforms </strong> uit
       </td>
       <td>
-        Gebruik de segmenten van de Audience Manager om publiek in Real-Time CDP tot stand te brengen om in verpersoonlijking en re-marketing tactiek te gebruiken.
+        Gebruik Audience Manager-segmenten om in Real-Time CDP een publiek te maken dat
+        gebruik in personalisatie- en hermarketingtactieken.
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            Anonieme digitale publieksgerichtheid en personalisatie uitvoeren op de website, de mobiele app of op ondersteunde reclamekanalen
+            Anonieme digitale publieksgerichtheid en verpersoonlijking uitvoeren op
+            de website, mobiele app of op ondersteunde reclamekanalen
           </li>
           <li>
-            De landingspagina en de ervaringen met voorafgaande verificatie optimaliseren op basis van bekende apparaat- en gedragseigenschappen
+            De landingspagina en de ervaringen voor verificatie optimaliseren op basis van
+            bekende apparaat- en gedragskenmerken
           </li>
           <li>
-            Hefboomwerking het van de derde Audience Manager gegevensnetwerk om uw publiek voor het richten verder te verfijnen en uit te breiden
+            Gebruik het gegevensnetwerk van de Audience Manager van de derde partij aan verdere
+            verfijnen en uw publiek uitbreiden voor doelgericht gebruik
           </li>
           <li>Audience Manager-segmenten delen met RTCDP</li>
         </ul>
@@ -134,21 +143,24 @@ Binnen het hedendaagse, zeer concurrerende en digitaal gedreven landschap zijn k
           href="../integrations-between-applications/aam/aam-rtcdp.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Audience Manager en realtime klantgegevens [!DNL Platform]</a
+          > de Gegevens van de Audience Manager en van de Klant in real time [!DNL Platform]</a
         >
       </td>
     </tr>
     <tr>
       <td>
-        Gebruiken [!DNL Analytics] gegevens voor het creëren van publiek dat kan worden gebruikt in personalisatie- of hermarketingtactieken.
+        Gebruik [!DNL Analytics] -gegevens om een publiek te maken dat kan worden gebruikt voor personalisatie of
+        hermarketing tactiek.
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            Voer digitale publieksgerichte en verpersoonlijking op apparaten of gesteunde reclamekanalen uit.
+            Voer digitale publieksgerichtheid en verpersoonlijking op apparaten uit of
+            ondersteunde reclamekanalen.
           </li>
           <li>
-            Optimaliseer bekende klant landende pagina's en anonieme ervaringen die op apparaat en gedragsattributen worden gebaseerd.
+            Bekende klant die pagina's en anonieme ervaringen landt optimaliseren
+            op basis van apparaat- en gedragskenmerken.
           </li>
           <li>Activeer het publiek naar bekende kanalen, zoals e-mail en SMS.</li>
         </ul>
@@ -165,7 +177,8 @@ Binnen het hedendaagse, zeer concurrerende en digitaal gedreven landschap zijn k
     <tr>
       <td rowspan="2"><strong>Webervaringen aanpassen</strong></td>
       <td>
-        Pas toepassings (SPA) ervaringen van één pagina door AEM Zwaartepunt in combinatie met Adobe effectief te gebruiken aan [!DNL Target].
+        Toepassingen (SPA) van één pagina op effectieve wijze aanpassen
+        gebruiken AEM Headless in combinatie met Adobe [!DNL Target] .
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -180,13 +193,14 @@ Binnen het hedendaagse, zeer concurrerende en digitaal gedreven landschap zijn k
           href="../integrations-between-applications/experience-manager/experience-manager-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEM zonder kop en [!DNL Target]</a
+          >AEM Koploos en [!DNL Target]</a
         >
       </td>
     </tr>
     <tr>
       <td>
-        Maak op maat gemaakte ervaringen met websites door AEM Sites en Adobe effectief te gebruiken [!DNL Target] voor personalisatie.
+        Maak op maat gemaakte ervaringen met websites door AEM Sites effectief te gebruiken
+        en Adobe [!DNL Target] voor personalisatie.
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -201,14 +215,15 @@ Binnen het hedendaagse, zeer concurrerende en digitaal gedreven landschap zijn k
           href="../integrations-between-applications/experience-manager/experience-manager-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEM Sites en [!DNL Target]</a
+          > AEM Sites en [!DNL Target]</a
         >
       </td>
     </tr>
     <tr>
       <td><strong>Digitale ervaringen aanpassen</strong></td>
       <td>
-        Klantprofielen in realtime gebruiken en centraal beheren [!DNL Platform] segmenten voor het aanpassen van berichten via internet, mobiele apparaten en andere digitale kanalen
+        Klantprofielen in realtime gebruiken en centraal beheerde [!DNL Platform] segmenten
+        om overseinen over Web, mobiel, en andere digitale kanalen te personaliseren
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -223,14 +238,15 @@ Binnen het hedendaagse, zeer concurrerende en digitaal gedreven landschap zijn k
           href="../integrations-between-applications/rtcdp/rtcdp-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Real-time klantgegevens [!DNL Platform] en [!DNL Target]</a
+          > Real-Time klantgegevens [!DNL Platform] en [!DNL Target]</a
         >
       </td>
     </tr>
     <tr>
       <td><strong>De productie van lood verbeteren</strong></td>
       <td>
-        Klantprofielen in realtime gebruiken en centraal beheren [!DNL Platform] segmenten voor het aanpassen van berichten via internet, mobiele apparaten en andere digitale kanalen
+        Klantprofielen in realtime gebruiken en centraal beheerde [!DNL Platform] segmenten
+        om overseinen over Web, mobiel, en andere digitale kanalen te personaliseren
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -242,7 +258,7 @@ Binnen het hedendaagse, zeer concurrerende en digitaal gedreven landschap zijn k
           href="../integrations-between-applications/rtcdp/rtcdp-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Real-time klantgegevens [!DNL Platform] en [!DNL Target]</a
+          > Real-Time klantgegevens [!DNL Platform] en [!DNL Target]</a
         >
       </td>
     </tr>

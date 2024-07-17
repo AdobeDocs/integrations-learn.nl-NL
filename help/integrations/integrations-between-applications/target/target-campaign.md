@@ -1,6 +1,6 @@
 ---
-title: Integreren [!DNL Target] with [!DNL Campaign]
-description: Leer hoe u kunt integreren [!DNL Target] with [!DNL Campaign].
+title: Integreer  [!DNL Target]  met  [!DNL Campaign]
+description: Leer hoe te om  [!DNL Target]  met  [!DNL Campaign] te integreren.
 solution: Target, Campaign, Campaign Standard
 feature: Integrations
 topic: Integrations
@@ -10,14 +10,14 @@ kt: null
 thumbnail: campaign-target.png
 last-substantial-update: 2023-05-19T00:00:00Z
 badgeIntegration: label="Integratie" type="positive"
-source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
+exl-id: a694b11a-a3e6-4cad-8682-00cf4bf9db41
+source-git-commit: d35dc06c56c117cffe70542b6713f275877e4879
 workflow-type: tm+mt
 source-wordcount: '10'
 ht-degree: 10%
 
 ---
 
-
-# Integreren [!DNL Target] with [!DNL Campaign]
+# [!DNL Target] integreren met [!DNL Campaign]
 
 {{$include /help/_includes/integrations-between-applications/campaign-target.md}}

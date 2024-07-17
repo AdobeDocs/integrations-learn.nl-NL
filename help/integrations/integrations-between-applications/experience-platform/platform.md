@@ -1,6 +1,6 @@
 ---
-title: Adobe integreren [!DNL Experience Platform] met andere toepassingen voor Adobe
-description: Leer hoe u kunt integreren [!DNL Experience Platform] met andere Adobe toepassingen.
+title: Integreer Adobe  [!DNL Experience Platform]  met andere toepassingen van de Adobe
+description: Leer hoe te om  [!DNL Experience Platform]  met andere toepassingen van de Adobe te integreren.
 solution: Experience [!DNL Platform]
 feature: Integrations
 topic: Integrations
@@ -17,26 +17,26 @@ ht-degree: 1%
 
 ---
 
-# Ervaring integreren [!DNL Platform] met andere toepassingen voor Adobe
+# Experience [!DNL Platform] integreren met andere Adobe toepassingen
 
-Ervaring met Adobe [!DNL Platform] is het krachtigste, meest flexibele en open systeem op de markt voor het ontwikkelen en beheren van volledige oplossingen die de ervaring van de klant bevorderen. Vele nieuwe toepassingen van de Adobe zijn voortgebouwd bovenop Ervaring [!DNL Platform], inclusief:
+Adobe Experience [!DNL Platform] is het krachtigste, meest flexibele en meest open systeem op de markt voor het ontwikkelen en beheren van volledige oplossingen die de ervaring van klanten stimuleren. Vele nieuwe Adobe Toepassingen zijn voortgebouwd bovenop Ervaring [!DNL Platform], die omvatten:
 
-* Klantenreis [!DNL Analytics]
+* Reis van klant [!DNL Analytics]
 * Journey Optimizer
 * Real-time klantgegevens [!DNL Platform] (Real-Time CDP)
 
-Toepassingen integreren met _meerdere [!DNL Platform]-native toepassingen_ U kunt veel algemene stappen delen, maar verschillende gebruiksgevallen zijn ontgrendeld, afhankelijk van de toepassingen die u integreert. De integratie-inhoud wordt daarom georganiseerd door toepassing. Zie de bronnen hieronder.
+Het integreren toepassingen met _veelvoudige [!DNL Platform] - inheemse toepassingen_ delen vele gemeenschappelijke stappen, maar de verschillende gebruiksgevallen zijn ontgrendeld afhankelijk van welke toepassingen u integreert. De integratie-inhoud wordt daarom georganiseerd door toepassing. Zie de bronnen hieronder.
 
 
-## Klantenreis [!DNL Analytics]
+## Reis van klant [!DNL Analytics]
 
-* [with [!DNL Analytics]](../cja/customer-journey-analytics-analytics.md)
+* [with  [!DNL Analytics]](../cja/customer-journey-analytics-analytics.md)
 * [met Real-Time CDP](../cja/cja-rtcdp.md)
 
-## Real-time klantgegevens [!DNL Platform]
+## Real-Time klantgegevens [!DNL Platform]
 
-* [with [!DNL Analytics]](../rtcdp/rtcdp-analytics.md)
+* [with  [!DNL Analytics]](../rtcdp/rtcdp-analytics.md)
 * [met Audience Manager](../rtcdp/rtcdp-aam.md)
-* [with [!DNL Campaign] v8](../rtcdp/rtcdp-campaign.md)
-* [met Klantreis [!DNL Analytics]](../rtcdp/rtcdp-cja.md)
-* [with [!DNL Target]](../rtcdp/rtcdp-target.md)
+* [met  [!DNL Campaign]  v8](../rtcdp/rtcdp-campaign.md)
+* [met de Reis van de Klant  [!DNL Analytics]](../rtcdp/rtcdp-cja.md)
+* [with  [!DNL Target]](../rtcdp/rtcdp-target.md)

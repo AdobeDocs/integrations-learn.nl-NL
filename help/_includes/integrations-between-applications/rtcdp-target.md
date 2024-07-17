@@ -7,22 +7,22 @@ ht-degree: 2%
 ---
 
 
-# Adobe realtime klantgegevens [!DNL Platform] en Adobe [!DNL Target] integratie
+# Adobe van realtime klantgegevens [!DNL Platform] en Adobe [!DNL Target] integratie
 
 {{real-time-cdp-description}}
 
 {{target-description}}
 
-Real-Time CDP integreren met [!DNL Target] biedt u de capaciteit om inhoud te personaliseren gebruikend bekende klantengegevens. Bovendien zorgen de mogelijkheden voor gegevensbeheer en instemming van Real-Time CDP ervoor dat u die bekende klantgegevens op verantwoordelijke wijze gebruikt en dat u zich houdt aan wettelijke, contractuele en wettelijke beperkingen en aan de voorkeuren van de klant. Belangrijkste voordelen van de integratie van Real-Time CDP en [!DNL Target] omvatten:
+Door Real-Time CDP te integreren met [!DNL Target] kunt u inhoud personaliseren met behulp van bekende klantgegevens. Bovendien zorgen de mogelijkheden voor gegevensbeheer en instemming van Real-Time CDP ervoor dat u die bekende klantgegevens op verantwoordelijke wijze gebruikt en dat u zich houdt aan wettelijke, contractuele en wettelijke beperkingen en aan de voorkeuren van de klant. De belangrijkste voordelen van de integratie van Real-Time CDP en [!DNL Target] zijn:
 
-+ **Lever persoonlijke ervaringen** op uw website en mobiele apps.
-+ **Segmenten en profielkenmerken delen** van Adobe Real-Time CDP naar Adobe [!DNL Target].
-+ **[!DNL Target]content** op segmenten en waarden van weergavekenmerken.
++ **lever gepersonaliseerde ervaringen** op uw website en mobiele apps.
++ **de segmenten en profielattributen van het Aandeel** van Adobe Real-Time CDP aan Adobe [!DNL Target].
++ **[!DNL Target]content** aan segmenten en vertoningsattributenwaarden.
 
 <table>
     <thead>
         <tr>
-            <th>Experience Cloud-toepassingen</th>
+            <th>Experiencen Cloud</th>
             <th>Integreert met</th>
             <th>Wanneer gebruiken</th>
             <th>Vaak voorkomende gebruiksscenario's</th>
@@ -34,7 +34,7 @@ Real-Time CDP integreren met [!DNL Target] biedt u de capaciteit om inhoud te pe
         <td>Web SDK en [!DNL Target] doel</td>
         <td>
             <ul style="margin-top: 0;">
-                <li>Als u gegevens zo snel mogelijk wilt delen van Real-Time CDP naar [!DNL Target] voor uw website.</li>
+                <li>Wanneer u gegevens voor uw website het snelst wilt delen van Real-Time CDP naar [!DNL Target] .</li>
             </ul>
         </td>
         <td>

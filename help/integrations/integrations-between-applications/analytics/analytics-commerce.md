@@ -1,6 +1,6 @@
 ---
-title: Integreren [!DNL Analytics] with [!DNL Commerce]
-description: Leer hoe u kunt integreren [!DNL Analytics] met Adobe [!DNL Commerce] .
+title: Integreer  [!DNL Analytics]  met  [!DNL Commerce]
+description: Leer hoe te om  [!DNL Analytics]  met Adobe  [!DNL Commerce]  te integreren.
 solution: Analytics, Commerce
 feature: Integrations
 topic: Integrations
@@ -10,14 +10,14 @@ kt: null
 thumbnail: analytics-commerce.png
 badgeIntegration: label="Integratie" type="positive"
 last-substantial-update: 2023-05-23T00:00:00Z
-source-git-commit: 7ed617ac0ba6b340ff94cdee47914645e0ec6615
+exl-id: 4962e2be-469b-45aa-90a0-3c44a05f7af4
+source-git-commit: d35dc06c56c117cffe70542b6713f275877e4879
 workflow-type: tm+mt
 source-wordcount: '11'
 ht-degree: 9%
 
 ---
 
-
-# Integreren [!DNL Analytics] with [!DNL Commerce]
+# [!DNL Analytics] integreren met [!DNL Commerce]
 
 {{$include /help/_includes/integrations-between-applications/analytics-commerce.md}}

@@ -1,13 +1,13 @@
 ---
 source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
 workflow-type: tm+mt
-source-wordcount: '131'
+source-wordcount: '126'
 ht-degree: 2%
 
 ---
 
 
-# [!DNL Campaign] en integratie van Experience Managers
+# [!DNL Campaign] en integratie met Experience Managers
 
 {{campaign-description}}
 
@@ -15,15 +15,15 @@ ht-degree: 2%
 
 De belangrijkste voordelen van de integratie van Adobe [!DNL Campaign] en AEM Experience Manager zijn:
 
-+ **De inhoud van uw e-mailleveringen beheren** en uw formulieren rechtstreeks in Adobe Experience Manager.
-+ **Handtekeningelementen gebruiken tijdens het bewerken van een e-mail- of landingspagina** in Adobe [!DNL Campaign], van Adobe Experience Manager Assets.
++ **beheer direct de inhoud van uw e-mailleveringen** en uw formulieren in Adobe Experience Manager.
++ **de merkactiva van het Gebruik terwijl het uitgeven van een e-mail of een het landen pagina** in Adobe [!DNL Campaign], van Adobe Experience Manager Assets.
 
 ## Gemeenschappelijke integratie
 
 <table>
     <thead>
         <tr>
-            <th>Experience Cloud-toepassingen</th>
+            <th>Experiencen Cloud</th>
             <th>Integreert met</th>
             <th>Wanneer gebruiken</th>
             <th>Vaak voorkomende gebruiksscenario's</th>

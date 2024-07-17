@@ -5,7 +5,7 @@ exl-id: dd3e4144-38da-4616-bbe6-3f61922177ab
 source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
 source-wordcount: '671'
-ht-degree: 0%
+ht-degree: 1%
 
 ---
 
@@ -21,14 +21,15 @@ Ontdek een uitgebreide oplossing die u in staat stelt moeiteloos persoonlijke di
       <th>Gebruiksscenario</th>
       <th>Beschrijving</th>
       <th>Voorbeelden</th>
-      <th>Toepassingen</th>
+      <th>Applicaties</th>
     </tr>
   </thead>
   <tbody>
     <tr>
       <td><strong>Marketingmateriaal maken met behulp van merkelementen</strong></td>
       <td>
-        E-mailmarketinginhoud en -sjablonen samenstellen en controleren met AEM en Adobe [!DNL Campaign].
+        Inhoud en sjablonen voor e-mailmarketing samenstellen en controleren met AEM en
+        Adobe [!DNL Campaign] .
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -40,14 +41,15 @@ Ontdek een uitgebreide oplossing die u in staat stelt moeiteloos persoonlijke di
           href="../integrations-between-applications/campaign/campaign-experience-manager.md"
           target="_blank"
           rel="noopener noreferrer"
-          >[!DNL Campaign] en AEM</a
+          >[!DNL Campaign] en AEM </a
         >
       </td>
     </tr>
     <tr>
       <td><strong>Gebruik en prestaties van marketingafbeeldingen meten</strong></td>
       <td>
-        De doeltreffendheid van marketingafbeeldingen bijhouden en analyseren door AEM Assets en Adobe te integreren [!DNL Analytics].
+        De doeltreffendheid van marketingafbeeldingen bijhouden en analyseren door integratie
+        AEM Assets en Adobe [!DNL Analytics] .
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -61,14 +63,15 @@ Ontdek een uitgebreide oplossing die u in staat stelt moeiteloos persoonlijke di
           href="../integrations-between-applications/experience-manager/experience-manager-analytics.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEM Assets en [!DNL Analytics]</a
+          > AEM Assets en [!DNL Analytics]</a
         >
       </td>
     </tr>
     <tr>
       <td rowspan="3"><strong>Middelen maken beheren</strong></td>
       <td>
-        Coördineer en meet de creatie van activa in een onderneming door AEM Assets en Workfront te integreren.
+        Coördineren en meten van de creatie van activa in een onderneming
+        door AEM Assets en Workfront te integreren.
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -83,13 +86,14 @@ Ontdek een uitgebreide oplossing die u in staat stelt moeiteloos persoonlijke di
           href="../integrations-between-applications/experience-manager/experience-manager-workfront.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEM Assets en Workfront</a
+          > AEM Assets en Workfront </a
         >
       </td>
     </tr>
     <tr>
       <td>
-        Coördineer en meet de creatie van activa in een afdeling door AEM Assets Essentials en Workfront te integreren.
+        Coördineer en meet de creatie van activa in een afdeling door
+        AEM Assets Essentials en Workfront integreren.
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -103,13 +107,14 @@ Ontdek een uitgebreide oplossing die u in staat stelt moeiteloos persoonlijke di
           href="../integrations-between-applications/experience-manager/experience-manager-workfront.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEM Assets Essentials en Workfront</a
+          > de Hoofdzaak van AEM Assets en Workfront </a
         >
       </td>
     </tr>
     <tr>
       <td>
-        Middelen-updates maken en beheren voor Creative Cloud- en Workfront-toepassingen
+        Middelen-updates voor Creative Cloud en Workfront maken en beheren
+        toepassingen
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -123,14 +128,15 @@ Ontdek een uitgebreide oplossing die u in staat stelt moeiteloos persoonlijke di
           href="../integrations-between-applications/workfront/workfront-creative-cloud.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Creative Cloud en Workfront</a
+          > Creative Cloud en Workfront </a
         >
       </td>
     </tr>
     <tr>
       <td><strong>Klantgegevens vastleggen</strong></td>
       <td>
-        Augment native [!DNL Campaign] mogelijkheden om klantgegevens voor het richten en het aanpassen van marketing campagnes te vangen.
+        Native [!DNL Campaign] mogelijkheden uitbreiden om klantgegevens vast te leggen voor
+        het richten en aanpassen van marketingcampagnes.
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -143,19 +149,21 @@ Ontdek een uitgebreide oplossing die u in staat stelt moeiteloos persoonlijke di
           href="../integrations-between-applications/experience-manager/experience-manager-campaign.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEM Forms en [!DNL Campaign] Standaard</a
+          > AEM Forms en [!DNL Campaign] Standaard </a
         >
       </td>
     </tr>
     <tr>
       <td><strong>Persoonlijke PDF-documenten maken</strong></td>
       <td>
-        Communicatiedocumenten genereren voor ondertekening op basis van gebruikersselecties/voorkeuren.
+        Communicatiedocumenten genereren voor ondertekening op basis van gebruiker
+        selecties/voorkeuren.
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            Een dynamisch gegenereerde NDA presenteren op basis van de gegevens van een AEM Forms-verzending voor ondertekening
+            Een dynamisch gegenereerde NDA presenteren op basis van de gegevens van een AEM
+            Forms-verzending voor ondertekening
           </li>
         </ul>
       </td>
@@ -164,19 +172,21 @@ Ontdek een uitgebreide oplossing die u in staat stelt moeiteloos persoonlijke di
           href="../integrations-between-applications/experience-manager//experience-manager-acrobat-sign.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEM Forms en Acrobat Sign</a
+          > AEM Forms en Acrobat Sign </a
         >
       </td>
     </tr>
     <tr>
       <td><strong>leads genereren</strong></td>
       <td>
-        Gebruik de vastgelegde gegevens van formulierverzendingen voor het genereren van leads, segmentatie van klanten en gepersonaliseerde marketingcampagnes.
+        Gebruik de vastgelegde gegevens van formulierverzendingen voor het genereren van leads,
+        de segmentatie van de klant, en gepersonaliseerde marketing campagnes.
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            Ontwerp en publiceer dynamische en interactieve formulieren voor web- en mobiele apparaten voor het genereren van leads.
+            Dynamische en interactieve formulieren ontwerpen en publiceren voor internet en mobiele apparaten
+            apparaten voor het opwekken van lood.
           </li>
         </ul>
       </td>
@@ -185,14 +195,15 @@ Ontdek een uitgebreide oplossing die u in staat stelt moeiteloos persoonlijke di
           href="../integrations-between-applications/experience-manager/experience-manager-marketo.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEM Forms en Marketo</a
+          > AEM Forms en Marketo </a
         >
       </td>
     </tr>
     <tr>
       <td><strong>E-mailleveringen personaliseren</strong></td>
       <td>
-        E-mailleveringen personaliseren met dynamische inhoud door de mogelijkheden van Adobe te benutten [!DNL Target].
+        Personaliseer e-mailleveringen met dynamische inhoud door de
+        mogelijkheden voor Adobe [!DNL Target] .
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -211,18 +222,22 @@ Ontdek een uitgebreide oplossing die u in staat stelt moeiteloos persoonlijke di
     <tr>
       <td rowspan="2"><strong>Het publiek uitbreiden voor personalisatie en advertentieplatforms</strong></td>
       <td>
-        De segmenten van de Audience Manager van het gebruik om publiek in Echte - tijd CDP tot stand te brengen in verpersoonlijking en re-marketing tactiek te gebruiken.
+        Gebruik de segmenten van de Audience Manager om publiek in Echte - tijd CDP tot stand te brengen om te gebruiken
+        in personalisatie- en wedermarketingtactieken.
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            Anonieme digitale publieksgerichtheid en personalisatie uitvoeren op de website, de mobiele app of op ondersteunde reclamekanalen
+            Anonieme digitale publieksgerichtheid en verpersoonlijking uitvoeren op
+            de website, mobiele app of op ondersteunde reclamekanalen
           </li>
           <li>
-            De landingspagina en de ervaringen met voorafgaande verificatie optimaliseren op basis van bekende apparaat- en gedragseigenschappen
+            De landingspagina en de ervaringen voor verificatie optimaliseren op basis van
+            bekende apparaat- en gedragskenmerken
           </li>
           <li>
-            Gebruik het gegevensnetwerk van de derde partij van de Audience Manager om uw publiek voor het richten verder te verfijnen en uit te breiden
+            Gebruik het gegevensnetwerk van de Audience Manager derde partij aan verdere
+            verfijnen en uw publiek uitbreiden voor doelgericht gebruik
           </li>
           <li>Audience Manager-segmenten delen met RTCDP</li>
         </ul>
@@ -232,21 +247,24 @@ Ontdek een uitgebreide oplossing die u in staat stelt moeiteloos persoonlijke di
           href="../integrations-between-applications/aam/aam-rtcdp.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Audience Manager en realtime klantgegevens [!DNL Platform]</a
+          > de Gegevens van de Audience Manager en van de Klant in real time [!DNL Platform]</a
         >
       </td>
     </tr>
     <tr>
       <td>
-        Gebruiken [!DNL Analytics] gegevens voor het creëren van publiek dat kan worden gebruikt in personalisatie- of hermarketingtactieken.
+        Gebruik [!DNL Analytics] -gegevens om een publiek te maken dat kan worden gebruikt voor personalisatie of
+        hermarketing tactiek.
       </td>
       <td>
         <ul style="margin-top: 0;">
           <li>
-            Voer digitale publieksgerichte en verpersoonlijking op apparaten of gesteunde reclamekanalen uit.
+            Voer digitale publieksgerichtheid en verpersoonlijking op apparaten uit of
+            ondersteunde reclamekanalen.
           </li>
           <li>
-            Optimaliseer bekende klant landende pagina's en anonieme ervaringen die op apparaat en gedragsattributen worden gebaseerd.
+            Bekende klant die pagina's en anonieme ervaringen landt optimaliseren
+            op basis van apparaat- en gedragskenmerken.
           </li>
           <li>Activeer het publiek naar bekende kanalen, zoals e-mail en SMS.</li>
         </ul>
@@ -263,7 +281,8 @@ Ontdek een uitgebreide oplossing die u in staat stelt moeiteloos persoonlijke di
     <tr>
       <td rowspan="2"><strong>Webervaringen aanpassen</strong></td>
       <td>
-        Pas toepassings (SPA) ervaringen van één pagina door AEM Zwaartepunt in combinatie met Adobe effectief te gebruiken aan [!DNL Target].
+        Toepassingen (SPA) van één pagina op effectieve wijze aanpassen
+        gebruiken AEM Headless in combinatie met Adobe [!DNL Target] .
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -277,13 +296,14 @@ Ontdek een uitgebreide oplossing die u in staat stelt moeiteloos persoonlijke di
           href="../integrations-between-applications/experience-manager/experience-manager-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEM zonder kop en [!DNL Target]</a
+          >AEM Koploos en [!DNL Target]</a
         >
       </td>
     </tr>
     <tr>
       <td>
-        Maak op maat gemaakte ervaringen met websites door AEM Sites en Adobe effectief te gebruiken [!DNL Target] voor personalisatie.
+        Maak op maat gemaakte ervaringen met websites door AEM Sites effectief te gebruiken
+        en Adobe [!DNL Target] voor personalisatie.
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -297,14 +317,15 @@ Ontdek een uitgebreide oplossing die u in staat stelt moeiteloos persoonlijke di
           href="../integrations-between-applications/experience-manager/experience-manager-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEM Sites en [!DNL Target]</a
+          > AEM Sites en [!DNL Target]</a
         >
       </td>
     </tr>
     <tr>
       <td><strong>Digitale ervaringen aanpassen</strong></td>
       <td>
-        Klantprofielen in realtime gebruiken en centraal beheren [!DNL Platform] segmenten voor het aanpassen van berichten via internet, mobiele apparaten en andere digitale kanalen
+        Klantprofielen in realtime gebruiken en centraal beheerde [!DNL Platform] segmenten
+        om overseinen over Web, mobiel, en andere digitale kanalen te personaliseren
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -319,14 +340,15 @@ Ontdek een uitgebreide oplossing die u in staat stelt moeiteloos persoonlijke di
           href="../integrations-between-applications/rtcdp/rtcdp-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Real-time klantgegevens [!DNL Platform] en [!DNL Target]</a
+          > Real-Time klantgegevens [!DNL Platform] en [!DNL Target]</a
         >
       </td>
     </tr>     
     <tr>
       <td><strong>De productie van lood verbeteren</strong></td>
       <td>
-        Klantprofielen in realtime gebruiken en centraal beheren [!DNL Platform] segmenten voor het aanpassen van berichten via internet, mobiele apparaten en andere digitale kanalen
+        Klantprofielen in realtime gebruiken en centraal beheerde [!DNL Platform] segmenten
+        om overseinen over Web, mobiel, en andere digitale kanalen te personaliseren
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -338,7 +360,7 @@ Ontdek een uitgebreide oplossing die u in staat stelt moeiteloos persoonlijke di
           href="../integrations-between-applications/rtcdp/rtcdp-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >Real-time klantgegevens [!DNL Platform] en [!DNL Target]</a
+          > Real-Time klantgegevens [!DNL Platform] en [!DNL Target]</a
         >
       </td>
     </tr>

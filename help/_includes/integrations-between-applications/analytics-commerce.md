@@ -13,22 +13,22 @@ ht-degree: 2%
 
 {{analytics-description}}
 
-Belangrijkste voordelen van de integratie van Adobe [!DNL Commerce] en Adobe [!DNL Analytics] omvatten:
+De belangrijkste voordelen van de integratie van Adobe [!DNL Commerce] en Adobe [!DNL Analytics] zijn:
 
-+ **Uitgebreide klantgegevens**: De integratie verstrekt een verenigde mening van klanteninteractie, toestaand ondernemingen om diepere inzichten in klantengedrag, voorkeur, en aankooppatronen te bereiken.
-+ **Verbeterde marketingtoewijzing**: Door gegevens van Adobe te combineren [!DNL Commerce] en Adobe [!DNL Analytics]Marketers kunnen verkopen en conversies beter aan specifieke marketingactiviteiten toewijzen, waardoor een nauwkeuriger investeringsrendement en optimalisatie mogelijk worden.
-+ **Persoonlijke klantenervaringen**: Integratie van beide platforms maakt gepersonaliseerde ervaringen mogelijk op basis van klantgegevens, wat leidt tot meer relevante productaanbevelingen, gerichte aanbiedingen en verbeterde klanttevredenheid.
-+ **Efficiënte optimalisatie van e-handel**: Bedrijven kunnen analysegegevens gebruiken om mogelijkheden voor optimalisatie van websites en gebruikerservaring te identificeren. Dit leidt tot meer conversies, minder wagengebruik en betere algemene e-commerceprestaties.
-+ **Gegevensgestuurde besluitvorming**: De integratie maakt gegevensgestuurde besluitvorming mogelijk door een volledig beeld te bieden van klantritten, zodat bedrijven op basis van echte inzichten geïnformeerde marketing-, verkoop- en productbeslissingen kunnen nemen.
++ **Uitgebreide klanteninzichten**: De integratie verstrekt een verenigde mening van klanteninteractie, toestaand ondernemingen om diepgaande inzichten in klantengedrag, voorkeur, en aankooppatronen te bereiken.
++ **Verbeterde marketing attributie**: Door gegevens van Adobe [!DNL Commerce] en Adobe [!DNL Analytics] te combineren, kunnen de marketers verkoop en omzettingen aan specifieke marketing inspanningen beter attributen, toelatend nauwkeurigere meting van ROI en optimalisering.
++ **Gepersonaliseerde klantenervaringen**: Het integreren van beide platforms laat gepersonaliseerde ervaringen toe die op klantengegevens worden gebaseerd, die tot relevantere productaanbevelingen, gerichte aanbiedingen, en betere klantentevredenheid leiden.
++ **Efficiënte e-commercesoptimalisering**: De ondernemingen kunnen analysegegevens gebruiken om kansen voor website en gebruikerservaring optimalisering te identificeren, resulterend in verhoogde omzettingen, verminderde kartontroeping, en verbeterde algemene e-commerceprestaties.
++ **gegevens-gedreven besluitvorming**: De integratie machtigt gegeven-gedreven besluitvorming door een uitvoerige mening van klantenreizen te verstrekken, toelatend ondernemingen om geïnformeerde marketing, verkoop, en productbesluiten te maken die op echte inzichten worden gebaseerd.
 
-Algemeen, integrerende Adobe [!DNL Commerce] en Adobe [!DNL Analytics] leidt tot een krachtig e-commerce ecosysteem dat gegeven-gedreven inzichten met gepersonaliseerde ervaringen combineert, die tot betere klantenbetrokkenheid, verhoogde verkoop, en algemene bedrijfsgroei leiden.
+Als Adobe [!DNL Commerce] en Adobe [!DNL Analytics] worden geïntegreerd, wordt een krachtig ecosysteem voor e-commerce gemaakt dat gegevensgestuurde inzichten combineert met persoonlijke ervaringen. Dit leidt tot een betere betrokkenheid van klanten, een hogere omzet en een algemene groei van het bedrijf.
 
 ## Gemeenschappelijke integratie
 
 <table>
     <thead>
         <tr>
-            <th>Experience Cloud-toepassingen</th>
+            <th>Experiencen Cloud</th>
             <th>Integreert met</th>
             <th>Wanneer gebruiken</th>
             <th>Vaak voorkomende gebruiksscenario's</th>
@@ -48,7 +48,7 @@ Algemeen, integrerende Adobe [!DNL Commerce] en Adobe [!DNL Analytics] leidt tot
             </td>
             <td>
                 <ul style="margin-top: 0;">
-                    <li>Wanneer je een volledig beeld wilt krijgen van de algehele prestaties van je winkel. Meer specifiek, de Adobe [!DNL Analytics] integratie voor [!DNL Commerce] Intelligence biedt functionaliteit waarmee handelaren hun Adobe kunnen gaan combineren [!DNL Commerce] en Adobe [!DNL Analytics] gegevenssets.</li>
+                    <li>Wanneer je een volledig beeld wilt krijgen van de algehele prestaties van je winkel. Meer bepaald biedt de Adobe [!DNL Analytics] integration voor [!DNL Commerce] Intelligence bedrijven functionaliteit om hun Adobe [!DNL Commerce] en Adobe [!DNL Analytics] gegevenssets te combineren.</li>
                 </ul>
             </td>
             <td>

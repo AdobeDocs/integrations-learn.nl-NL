@@ -1,13 +1,13 @@
 ---
 title: Toepassingsintegratie
 description: Leer over gemeenschappelijke configuraties voor het integreren van de toepassingen van het Experience Cloud. Ontdek hoe de best-in-klasse ondernemingsproducten van Adobe u kunnen helpen uw bedrijfsuitdagingen aanpakken.
-source-git-commit: 7a525d1a1890b12bd5955ed8c80d0cbf7e855461
+exl-id: 3c0a75ec-2b4c-4984-bd42-0b5ddeb7c004
+source-git-commit: d35dc06c56c117cffe70542b6713f275877e4879
 workflow-type: tm+mt
 source-wordcount: '161'
 ht-degree: 0%
 
 ---
-
 
 # Integratieconfiguraties voor Experience Cloud-toepassingen
 
@@ -26,13 +26,13 @@ Deze zelfstudies voor integratie van Experiencen Cloud beschrijven enkele van de
 </tr>
 <tr>
    <td>
-      <div><strong><a href="./integrations-between-applications/overview.md">Op product</a></strong></div>
+      <div><strong><a href="./integrations-between-applications/overview.md"> door product </a></strong></div>
       <p>
         Je weet welk Adobe product je moet gebruiken en je wilt leren hoe je ze moet integreren.
       </p>
    </td>
    <td>
-      <div><strong><a href="./solution-categories/overview.md">Op bedrijfsoplossing</a></strong></div>
+      <div><strong><a href="./solution-categories/overview.md"> door bedrijfsoplossing </a></strong></div>
       <p>
         U kent de bedrijfsoplossing die u zoekt, maar u weet niet zeker welke Adobe u wilt gebruiken.
       </p>

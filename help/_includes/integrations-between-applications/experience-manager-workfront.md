@@ -1,7 +1,7 @@
 ---
 source-git-commit: 838a4dc4cc89da5d9b3798dc62d518dac22e1d3a
 workflow-type: tm+mt
-source-wordcount: '220'
+source-wordcount: '206'
 ht-degree: 1%
 
 ---
@@ -15,18 +15,18 @@ ht-degree: 1%
 
 AEM en Workfront stroomlijnen de productie van inhoud, waardoor de naadloze import van beheerde inhoud van Workfront naar AEM voor efficiënte organisatie en toegang mogelijk wordt, waardoor tijdige en kwalitatief hoogwaardige levering van digitale middelen wordt gegarandeerd. Belangrijkste voordelen zijn:
 
-+ **Gestroomlijnde inhoudsproductie**: AEM- en Adobe Workfront-integratie optimaliseert het proces voor het maken van end-to-end inhoud.
-+ **Verbeterde samenwerking**: Teams kunnen naadloos samenwerken aan inhoudsprojecten, waardoor betere communicatie en efficiëntie worden bevorderd.
-+ **Verbeterd beheer van bronnen**: Workfront-mogelijkheden voor het bijhouden van projecten maken een betere toewijzing en benutting van bronnen mogelijk.
-+ **Efficiënte goedkeuringen en beoordelingen**: AEM- en Workfront-integratie stroomlijnt de workflows voor het beoordelen en goedkeuren van inhoud.
-+ **Snellere time-to-market**: De gecombineerde oplossing versnelt de levering van inhoud, waardoor de tijd-aan-markt voor campagnes en activa wordt verkort.
++ **Gestroomlijnde inhoudsproductie**: AEM en de integratie van Adobe Workfront optimaliseert het proces van de de inhoudsverwezenlijking van begin tot eind.
++ **Verbeterde samenwerking**: De teams kunnen naadloos aan inhoudsprojecten samenwerken, die betere mededeling en efficiency bevorderen.
++ **Verbeterd middelbeheer**: De het volgen van het project van Workfront mogelijkheden laten betere middeltoewijzing en gebruik toe.
++ **efficiënte goedkeuringen en overzichten**: AEM en de integratie van Workfront stroomlijnt inhoudsoverzicht en goedkeuringswerkschema&#39;s.
++ **snellere tijd-aan-markt**: De gecombineerde oplossing versnelt inhoudslevering, verminderend tijd-aan-markt voor campagnes en activa.
 
 ## Gemeenschappelijke integratie
 
 <table>
     <thead>
         <tr>
-            <th>Experience Cloud-toepassingen</th>
+            <th>Experiencen Cloud</th>
             <th>Integreert met</th>
             <th>Wanneer gebruiken</th>
             <th>Vaak voorkomende gebruiksscenario's</th>

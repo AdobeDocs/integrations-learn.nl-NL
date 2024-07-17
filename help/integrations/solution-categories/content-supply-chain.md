@@ -5,7 +5,7 @@ exl-id: 00a15be9-612e-4210-8b2a-77274aa5713c
 source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
 workflow-type: tm+mt
 source-wordcount: '286'
-ht-degree: 1%
+ht-degree: 2%
 
 ---
 
@@ -21,13 +21,13 @@ Het voldoen aan de verwachtingen van de klant in real time voor gepersonaliseerd
       <th>Gebruiksscenario</th>
       <th>Beschrijving</th>
       <th>Voorbeelden</th>
-      <th>Toepassingen</th>
+      <th>Applicaties</th>
     </tr>
   </thead>
   <tbody>
 <tr>
   <td><strong>Marketingmateriaal maken met behulp van merkelementen</strong><br/></td>
-  <td>E-mailmarketinginhoud en -sjablonen samenstellen en controleren met AEM en Adobe [!DNL Campaign].</td>
+  <td>Inhoud en sjablonen voor e-mailmarketing samenstellen en beheren met AEM en Adobe [!DNL Campaign] .</td>
   <td>
     <ul>
       <li>E-mails verzenden die zijn gemaakt met AEM</li>
@@ -84,7 +84,7 @@ Het voldoen aan de verwachtingen van de klant in real time voor gepersonaliseerd
 </tr>
 <tr>
   <td><strong>Klantgegevens vastleggen</strong><br/></td>
-  <td>Augment native [!DNL Campaign] mogelijkheden om klantgegevens voor het richten en het aanpassen van marketing campagnes te vangen.
+  <td>Native [!DNL Campaign] mogelijkheden uitbreiden om klantgegevens vast te leggen voor het maken van marketingcampagnes en voor het aanpassen van de functionaliteit ervan.
   </td>
   <td>
     <ul>
@@ -92,7 +92,7 @@ Het voldoen aan de verwachtingen van de klant in real time voor gepersonaliseerd
       <li>Lidmaatschappen</li>
     </ul>
   </td>
-  <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">AEM Forms en [!DNL Campaign] Standaard</a></td>
+  <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">AEM Forms en [!DNL Campaign] Standard</a></td>
 </tr>
 </tbody>
 </table>
