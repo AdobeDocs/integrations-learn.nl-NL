@@ -3,9 +3,9 @@ user-guide-title: Tutorials voor Experience Cloud-integratie
 breadcrumb-title: Experience Cloud-integraties
 user-guide-description: Meer informatie over integraties.
 mini-toc-levels: 1
-source-git-commit: b11b179bfc87a44387cf4d331386e729f0ce8b71
+source-git-commit: 055180c634e028a208d1def883288441e76f87c3
 workflow-type: tm+mt
-source-wordcount: '91'
+source-wordcount: '93'
 ht-degree: 17%
 
 ---
@@ -23,6 +23,7 @@ ht-degree: 17%
    + [Reizen van klanten](./solution-categories/customer-journeys.md)
    + [Gegevensinzichten en activering](./solution-categories/data-insights.md)
    + [Personalization op schaal](./solution-categories/personalization.md)
+   + [GenStudio Academy](./tutorials/genstudio-academy.md)
 + Productintegratie {#integrations-between-applications}
    + [Overzicht](./integrations-between-applications/overview.md)
    + [!DNL Acrobat Sign]{#acrobat-sign}
