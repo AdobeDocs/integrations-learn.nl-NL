@@ -3,7 +3,7 @@ title: GenStudio Academy
 description: GenStudio Academy Landing
 index: false
 hidefromtoc: true
-source-git-commit: 6270ed2ccb04287ff7da3a26e70d154c49ab65a2
+source-git-commit: e296e5d0859af7258ff4dcdd21ec507bfe1e3661
 workflow-type: tm+mt
 source-wordcount: '202'
 ht-degree: 0%
@@ -46,7 +46,7 @@ ht-degree: 0%
 <table>
  <tr style= "border: 0;">
   <td align="center"> <strong style= "font-size: 2em"> FOO Prompting made easy.</strong><p> Leer de AI-vaardigheden om uw workflows te transformeren en uw industrie vooruit te helpen. Leer de AI-vaardigheden om uw workflows te transformeren en uw industrie vooruit te helpen. Leer de AI-vaardigheden om uw workflows te transformeren en uw industrie vooruit te helpen.</td>
-  <td><img src="./assets/medium.png"></td>
+  <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
  </tr>
 </table>
 
