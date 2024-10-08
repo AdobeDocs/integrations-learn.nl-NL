@@ -3,9 +3,9 @@ title: GenStudio Academy
 description: GenStudio Academy Landing
 index: false
 hidefromtoc: true
-source-git-commit: e55be0b347a77cca64cc466ea9188f30ab5f7067
+source-git-commit: 6270ed2ccb04287ff7da3a26e70d154c49ab65a2
 workflow-type: tm+mt
-source-wordcount: '201'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
@@ -45,7 +45,7 @@ ht-degree: 0%
 
 <table>
  <tr style= "border: 0;">
-  <td align="center"> <strong style= "font-size: 2em"> Gemakkelijk het Vragen gemaakt.</strong><p> Leer de AI-vaardigheden om uw workflows te transformeren en uw industrie vooruit te helpen. Leer de AI-vaardigheden om uw workflows te transformeren en uw industrie vooruit te helpen. Leer de AI-vaardigheden om uw workflows te transformeren en uw industrie vooruit te helpen.</td>
+  <td align="center"> <strong style= "font-size: 2em"> FOO Prompting made easy.</strong><p> Leer de AI-vaardigheden om uw workflows te transformeren en uw industrie vooruit te helpen. Leer de AI-vaardigheden om uw workflows te transformeren en uw industrie vooruit te helpen. Leer de AI-vaardigheden om uw workflows te transformeren en uw industrie vooruit te helpen.</td>
   <td><img src="./assets/medium.png"></td>
  </tr>
 </table>
