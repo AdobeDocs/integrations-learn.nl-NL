@@ -3,7 +3,7 @@ title: GenStudio Academy
 description: GenStudio Academy Landing
 index: false
 hidefromtoc: true
-source-git-commit: 9959b48f549657c4dd265615e3f286392c3fe252
+source-git-commit: 24dd275811764bd311007db1006714a5da299e3a
 workflow-type: tm+mt
 source-wordcount: '118'
 ht-degree: 0%
@@ -39,7 +39,7 @@ ht-degree: 0%
  </tr>
 </table>
 
-[!BEGINSHADEBOX]
+>[!BEGINSHADEBOX]
 
 <table>
  <tr style= "border: 0;">
@@ -48,4 +48,4 @@ ht-degree: 0%
  </tr>
 </table>
 
-[!ENDSHADEBOX]
+>[!ENDSHADEBOX]
