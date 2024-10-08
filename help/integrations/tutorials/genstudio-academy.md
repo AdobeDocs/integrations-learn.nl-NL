@@ -3,7 +3,7 @@ title: GenStudio Academy
 description: GenStudio Academy Landing
 index: false
 hidefromtoc: true
-source-git-commit: fb68c2c375b8704b8a482cbc145f8e284976b5cb
+source-git-commit: 54f15c2af2f720ae353f168caf2a066697a8c895
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
@@ -48,7 +48,7 @@ ht-degree: 0%
 
 <table>
  <tr style= "border: 0;colspan: 3;">
-  <td style= "colspan: 3;"> <strong style= "font-size: 2em;"> die binnenkort aan de Academie van Genstudio komen </strong></td>
+  <td colspan="3"> <strong style= "font-size: 2em;"> die binnenkort aan de Academie van Genstudio komen </strong></td>
  </tr> 
  <tr style= "border: 0;colspan: 3;"> 
     <td align="left"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
