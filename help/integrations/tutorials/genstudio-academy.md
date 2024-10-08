@@ -3,7 +3,7 @@ title: GenStudio Academy
 description: GenStudio Academy Landing
 index: false
 hidefromtoc: true
-source-git-commit: 56161e27aecff07b0d93bf85edb994c477d9e586
+source-git-commit: 969f6489b79a84079c542c008b8f7dd372afcd60
 workflow-type: tm+mt
 source-wordcount: '176'
 ht-degree: 0%
@@ -22,12 +22,7 @@ ht-degree: 0%
 <table>
  <tr style= "border: 0;">
   <td align="center">
-    <strong style= "font-size: 2em"> Master Generative AI. Transformeer uw workflows.</strong>
-  </td>
- </tr>
- <tr style= "border: 0;">
-  <td align="center">
-    Leer kernvaardigheden voor het gebruik van generatieve AI in marketingworkflows. Overal. Gratis.
+    <strong style= "font-size: 2em"> Master Generative AI. Transformeer uw workflows.</strong><p>Leer kernvaardigheden voor het gebruik van generatieve AI in marketingworkflows. Overal. Gratis.
   </td>
  </tr>
 </table>
