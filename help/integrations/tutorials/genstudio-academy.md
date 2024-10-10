@@ -3,9 +3,9 @@ title: GenStudio Academy
 description: GenStudio Academy Landing
 index: false
 hidefromtoc: true
-source-git-commit: bce56dc3f7eeacb704ab53bd25ddbe21284d5781
+source-git-commit: 58659803aa9611d28c8b31c3f879f0df4e10fe32
 workflow-type: tm+mt
-source-wordcount: '192'
+source-wordcount: '194'
 ht-degree: 0%
 
 ---
@@ -54,7 +54,7 @@ ht-degree: 0%
    <td>
       <img src="https://video.tv.adobe.com/v/3434938?format=jpeg">
       <div>
-      <a href="www.adobe.com"> <strong> Tips en trucs </strong>
+      <a href="https://www.adobe.com"> <strong> Tips en trucs </strong>
       </a>
       </div>
       <p>
@@ -64,7 +64,7 @@ ht-degree: 0%
    <td>
       <img src="https://video.tv.adobe.com/v/3434938?format=jpeg">
       <div>
-      <a href="www.adobe.com"> <strong> Professionele cursussen </strong>
+      <a href="https://www.adobe.com"> <strong> Professionele cursussen </strong>
       </a>
       </div>
       <p>
