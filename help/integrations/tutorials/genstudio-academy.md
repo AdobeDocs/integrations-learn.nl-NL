@@ -3,9 +3,9 @@ title: GenStudio Academy
 description: GenStudio Academy Landing
 index: false
 hidefromtoc: true
-source-git-commit: 58659803aa9611d28c8b31c3f879f0df4e10fe32
+source-git-commit: e8126729c5ebc92999d09be07c8a359f96236ed3
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '197'
 ht-degree: 0%
 
 ---
@@ -47,15 +47,14 @@ ht-degree: 0%
 
 
 <table>
- <!-- <tr style= "border: 0;colspan: 3;">
-  <td colspan=3> <strong style= "font-size: 2em;">Coming soon to Genstudio Academy</strong></td>
- </tr> --> 
+ <tr style= "border: 0;colspan: 3;">
+  <td colspan="3"> <strong style= "font-size: 2em;"> die binnenkort aan de Academie van Genstudio komen </strong></td>
+ </tr> 
  <tr style= "border: 0;colspan: 3;"> 
    <td>
       <img src="https://video.tv.adobe.com/v/3434938?format=jpeg">
       <div>
-      <a href="https://www.adobe.com"> <strong> Tips en trucs </strong>
-      </a>
+      <strong> Tips en trucs </strong>
       </div>
       <p>
       Tips en trucs om GenStudio for Performance Marketing op de meest efficiënte manier te gebruiken.
@@ -64,8 +63,7 @@ ht-degree: 0%
    <td>
       <img src="https://video.tv.adobe.com/v/3434938?format=jpeg">
       <div>
-      <a href="https://www.adobe.com"> <strong> Professionele cursussen </strong>
-      </a>
+      <strong> Professionele cursussen </strong>
       </div>
       <p>
       Geavanceerde cursussen om AI-vaardigheden op het niveau van experts op het gebied van marketing te ontsluiten.
@@ -80,7 +78,7 @@ ht-degree: 0%
     <tr></tr>
  <tr style= "border: 0;">
  <td><img src="./assets/put-your-learnings-into-practice.png"></td>
-  <td> <strong style= "font-size: 2em"> zet uw lessen in praktijk </strong><p>Ontdek GenStudio for Performance Marketing als een generatieve AI-First-toepassing waarmee marketingteams hun eigen advertenties en e-mails kunnen maken om onhandige, gepersonaliseerde marketingcampagnes te voeren.<p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Neem me mee</span></a></td>
+  <td> <strong style= "font-size: 2em"> zet uw lessen in praktijk </strong><p>Ontdek GenStudio for Performance Marketing als een generatieve AI-First-toepassing waarmee marketingteams hun eigen advertenties en e-mails kunnen maken om onhandige, gepersonaliseerde marketingcampagnes te voeren.<p><a href="https://business.adobe.com" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Neem me mee</span></a></td>
  </tr>
     <tr></tr>
 </table>
