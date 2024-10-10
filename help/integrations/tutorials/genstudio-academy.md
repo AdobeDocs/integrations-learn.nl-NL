@@ -3,9 +3,9 @@ title: GenStudio Academy
 description: GenStudio Academy Landing
 index: false
 hidefromtoc: true
-source-git-commit: 54f15c2af2f720ae353f168caf2a066697a8c895
+source-git-commit: 743c51f9736576d0c0d41bd8d4924c1fc2ca320f
 workflow-type: tm+mt
-source-wordcount: '176'
+source-wordcount: '187'
 ht-degree: 0%
 
 ---
@@ -14,7 +14,7 @@ ht-degree: 0%
 
 <table>
  <tr style= "border: 0;">
-  <td> <strong style= "font-size: 2em"> wordt een Generatieve leider van AI.</strong><p> Word een generatieve AI-leider. Leer de AI-vaardigheden om uw workflows te transformeren en uw industrie vooruit te helpen. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap"> Register </span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap"> Login </span></a></td>
+  <td> <strong style= "font-size: 2em"> verhoog uw generatieve kennis van AI.  </strong><p>U leert de generatieve AI-vaardigheden gebruiken om uw creatieve en marketingworkflows te transformeren. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap"> Register </span></a>          <a href="https://genstudioacademy.adobelearningmanager.com/" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap"> Login </span></a></td>
   <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
  </tr>
 </table>
@@ -22,7 +22,7 @@ ht-degree: 0%
 <table>
  <tr style= "border: 0;">
   <td align="center">
-    <strong style= "font-size: 2em"> Master Generative AI. Transformeer uw workflows.</strong><p>Leer kernvaardigheden voor het gebruik van generatieve AI in marketingworkflows. Overal. Gratis.
+    <strong style= "font-size: 2em"> Hoofd generatieve AI met de Academie van GenStudio.</strong><p>Echte essentiële vaardigheden voor het integreren van generatieve AI in uw creatieve en marketing werkschema-om het even welk tijd, overal, en volledig vrij.
   </td>
  </tr>
 </table>
@@ -31,8 +31,8 @@ ht-degree: 0%
 
 <table>
  <tr style= "border: 0;">
-  <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
-  <td align="center"> <strong style= "font-size: 2em"> Generatieve AI vaardigheden op om het even welk ogenblik.</strong><p> Leer de AI-vaardigheden om uw workflows te transformeren en uw industrie vooruit te helpen. Leer de AI-vaardigheden om uw workflows te transformeren en uw industrie vooruit te helpen. Leer de AI-vaardigheden om uw workflows te transformeren en uw industrie vooruit te helpen.<p><a href="https://business.adobe.com/products/genstudio.htmlL" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Nu verkennen</span></a></td>
+  <td><img src="./assets/generative-ai-for-marketing-simplified.png"></td>
+  <td align="center"> <strong style= "font-size: 2em"> Generatieve AI voor marketing. Vereenvoudigd.</strong><p> GenStudio Academy transformeert complexe generatieve AI-taken in eenvoudig te volgen cursussen, zoals richtlijnen voor het transformeren van merken. Studenten kunnen via downloadbare hulplijnen en video's de algemene AI beheren, één concept tegelijk.<p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Nu verkennen</span></a></td>
  </tr>
 </table>
 
@@ -40,20 +40,19 @@ ht-degree: 0%
 
 <table>
  <tr style= "border: 0;">
-  <td align="center"> <strong style= "font-size: 2em"> het Uitbreken Generatieve AI voor marketing.</strong><p> Leer de AI-vaardigheden om uw workflows te transformeren en uw industrie vooruit te helpen. Leer de AI-vaardigheden om uw workflows te transformeren en uw industrie vooruit te helpen. Leer de AI-vaardigheden om uw workflows te transformeren en uw industrie vooruit te helpen.</td>
+  <td align="center"> <strong style= "font-size: 2em"> Niveaus van het leren. Grenzen ontgrendelde kans.</strong><p>Met de kennisniveaus van de Academie van GenStudio, is het eenvoudig om inhoud te vinden die uw generatieve AI vaardigheden-of u over LLMs leert, snel verwezenlijking beheerst, of AI hulpmiddelen in actie ziet. GenStudio Academy heeft iets voor iedereen.</td>
   <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
  </tr>
 </table>
 
 
 <table>
- <tr style= "border: 0;colspan: 3;">
-  <td colspan="3"> <strong style= "font-size: 2em;"> die binnenkort aan de Academie van Genstudio komen </strong></td>
- </tr> 
+ <!-- <tr style= "border: 0;colspan: 3;">
+  <td colspan=3> <strong style= "font-size: 2em;">Coming soon to Genstudio Academy</strong></td>
+ </tr> --> 
  <tr style= "border: 0;colspan: 3;"> 
-    <td align="left"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
-    <td align="center"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
-    <td align="right"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
+    <td align="left"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"><p>Tips en trucs om GenStudio for Performance Marketing op de meest efficiënte manier te gebruiken. </td>
+    <td align="right"><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"><p>Geavanceerde cursussen om AI-vaardigheden op het niveau van experts op het gebied van marketing te ontsluiten. </td>
  </tr>
 </table>
 
@@ -62,15 +61,13 @@ ht-degree: 0%
 <table>
     <tr></tr>
  <tr style= "border: 0;">
- <td><img src="https://video.tv.adobe.com/v/3434938?format=jpeg"></td>
-  <td> <strong style= "font-size: 2em"> zet uw lessen in praktijk </strong><p> Word een generatieve AI-leider. Leer de AI-vaardigheden om uw workflows te transformeren en uw industrie vooruit te helpen. <p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Neem me mee</span></a></td>
+ <td><img src="./assets/put-your-learnings-into-practice.png"></td>
+  <td> <strong style= "font-size: 2em"> zet uw lessen in praktijk </strong><p>Ontdek GenStudio for Performance Marketing als een generatieve AI-First-toepassing waarmee marketingteams hun eigen advertenties en e-mails kunnen maken om onhandige, gepersonaliseerde marketingcampagnes te voeren.<p><a href="https://learningmanager.adobe.com/accountiplogin?ipId=16970&amp;accesskey=c4988oojirhb5" rel="noreferrer" target="_blank" class="spectrum-Button spectrum-Button--fill spectrum-Button--accent spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap">Neem me mee</span></a></td>
  </tr>
     <tr></tr>
 </table>
 
 >[!ENDSHADEBOX]
-
->[!VIDEO](https://video.tv.adobe.com/v/3434938?autoplay=true&end=replay)
 
 <!--
 ## Heading 2 SHADEBOXES
