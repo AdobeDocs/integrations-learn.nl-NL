@@ -3,9 +3,9 @@ title: GenStudio Academy
 description: GenStudio Academy Landing
 index: false
 hidefromtoc: true
-source-git-commit: 0bc7183ad172cc640dc45281bab3504f500cb871
+source-git-commit: 7a3346e4808f5e748f8272d537646370bf7b6fea
 workflow-type: tm+mt
-source-wordcount: '194'
+source-wordcount: '202'
 ht-degree: 0%
 
 ---
@@ -46,13 +46,13 @@ ht-degree: 0%
 </table>
 
 
-<table align="center">
+<table>
  <tr style= "border: 0;colspan: 3;">
   <td colspan="3"> <strong style= "font-size: 2em;"> Binnenkort </strong></td>
  </tr> 
  <tr style= "border: 0;colspan: 3;"> 
-   <td align="Left">
-      <img src="https://video.tv.adobe.com/v/3434938?format=jpeg">
+   <td align="Center">
+      <img src="./assets/tips-and-tricks.png">
       <div>
       <strong> Tips en trucs </strong>
       </div>
@@ -60,8 +60,17 @@ ht-degree: 0%
       Tips en trucs om GenStudio for Performance Marketing op de meest efficiënte manier te gebruiken.
       </p>
    </td>
-   <td align="Right">
-      <img src="https://video.tv.adobe.com/v/3434938?format=jpeg">
+   <td align="Center">
+      <img src="./assets/social-learning.png">
+      <div>
+      <strong> Sociale het leren </strong>
+      </div>
+      <p>
+      Leer van uw gelijken en kennis
+      </p>
+   </td>
+   <td align="Center">
+      <img src="./assets/expert-courses.png">
       <div>
       <strong> Professionele cursussen </strong>
       </div>
