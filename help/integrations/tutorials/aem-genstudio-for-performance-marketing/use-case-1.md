@@ -11,15 +11,17 @@ doc-type: Feature Video
 duration: 295
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16483
-source-git-commit: edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
+source-git-commit: 3a3d2542604a870efbe84fe3b7f1012483df3232
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '82'
 ht-degree: 0%
 
 ---
 
 
 # Lichte revisie en goedkeuring in Adobe GenStudio
+
+[Overzicht van teruggaan naar integratie](./overview.md)
 
 Leer hoe u middelen in AEM Assets as a Cloud Service kunt uploaden, controleren en goedkeuren om de workflow met inhoud te stroomlijnen. Als deze middelen eenmaal zijn goedgekeurd, worden ze naadloos geïntegreerd in GenStudio for Performance Marketing, zodat u eenvoudig toegang hebt tot materiaal met een merk voor uw campagnes.
 
