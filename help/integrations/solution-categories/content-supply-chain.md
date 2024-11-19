@@ -2,10 +2,10 @@
 title: Toepassingsintegratie voor de toeleveringsketen van inhoud
 description: Inhoud plannen, maken, personaliseren en publiceren.
 exl-id: 00a15be9-612e-4210-8b2a-77274aa5713c
-source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
+source-git-commit: edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
 workflow-type: tm+mt
-source-wordcount: '286'
-ht-degree: 2%
+source-wordcount: '327'
+ht-degree: 1%
 
 ---
 
@@ -26,7 +26,7 @@ Het voldoen aan de verwachtingen van de klant in real time voor gepersonaliseerd
   </thead>
   <tbody>
 <tr>
-  <td><strong>Marketingmateriaal maken met behulp van merkelementen</strong><br/></td>
+  <td rowspan="2"><strong>Marketingmateriaal maken met behulp van merkelementen</strong><br/></td>
   <td>Inhoud en sjablonen voor e-mailmarketing samenstellen en beheren met AEM en Adobe [!DNL Campaign] .</td>
   <td>
     <ul>
@@ -34,6 +34,16 @@ Het voldoen aan de verwachtingen van de klant in real time voor gepersonaliseerd
     </ul>    
   </td>
   <td><a href="../integrations-between-applications/experience-manager/experience-manager-campaign.md">[!DNL Campaign] en AEM</a></td>
+</tr>
+<tr>
+  <td>Maak persoonlijke marketingervaringen voor het merk on-brand.</td>
+  <td>
+    <ul>
+      <li>Verzend marketinge-mails die in GenStudio for Performance Marketing zijn gemaakt met afbeeldingen van het merk AEM Assets.</li>
+      <li>Maak in GenStudio for Performance Marketing onmerkbare metagegevensadvertenties met gebruik van merkloze afbeeldingen uit AEM Assets.</li>
+    </ul>    
+  </td>
+  <td><a href="../integrations-between-applications/experience-manager/experience-manager-genstudio-for-performance-marketing.md">GenStudio for Performance Marketing en AEM</a></td>
 </tr>
 <tr>
   <td rowspan="3"><strong>Middelen maken beheren</strong><br/></td>
