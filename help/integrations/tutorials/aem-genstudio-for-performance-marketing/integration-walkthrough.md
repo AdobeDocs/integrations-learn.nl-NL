@@ -11,7 +11,7 @@ doc-type: Feature Video
 duration: 296
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16482
-source-git-commit: 911be1d339181609a94770b070f9187916fe7fe4
+source-git-commit: ba8d90c256356ccf806484a5b791d5c4ad54ab9f
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
@@ -26,4 +26,3 @@ ht-degree: 0%
 Leer de basisbeginselen van de integratie met AEM Assets as a Cloud Service en GenStudio for Performance Marketing, het uploaden van middelen naar AEM Assets, het goedkeuren van middelen in AEM Assets en het gebruik van goedgekeurde middelen in GenStudio for Performance Marketing.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439264/?learn=on)
-

@@ -9,9 +9,9 @@ role: User
 level: Intermediate
 doc-type: Feature Video
 duration: 416
-last-substantial-update: 2024-11-19T00:00:00Z
+last-substantial-update: 2024-11-20T00:00:00Z
 jira: KT-16484
-source-git-commit: 911be1d339181609a94770b070f9187916fe7fe4
+source-git-commit: ba8d90c256356ccf806484a5b791d5c4ad54ab9f
 workflow-type: tm+mt
 source-wordcount: '93'
 ht-degree: 0%
