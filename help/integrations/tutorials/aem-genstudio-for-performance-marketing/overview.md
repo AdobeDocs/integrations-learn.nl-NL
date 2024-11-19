@@ -11,7 +11,7 @@ doc-type: Value Video
 duration: 133
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16480
-source-git-commit: f3dfc96926bbff3fec05435a4d6f6783ae42ad6a
+source-git-commit: a542f8a0f230b2a2fb3eaedf503e2b801f26aa9b
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
@@ -27,7 +27,7 @@ ht-degree: 0%
 Ontgrendel de kracht van Adobe GenStudio en AEM Assets as a Cloud Service om uw workflows voor het maken van prestatietransparantie te transformeren. Dankzij naadloze integratie hebt u toegang tot door een merk goedgekeurde middelen van een gecentraliseerde opslagplaats om consistente inhoud van hoge kwaliteit te maken voor elke campagne en elk kanaal. Ontdek hoe deze gereedschappen de toeleveringsketen van uw inhoud stroomlijnen en uw marketingeffecten verhogen.
 
 
-## Doorlopen
+## Walkthrough
 
 Bekijk twee uitgebreide stappen: de eerste begeleidt u door het installatieproces en omvat alles wat nodig is om Adobe GenStudio naadloos met AEM Assets as a Cloud Service te integreren. De tweede stap is in belangrijke workflows en toont de belangrijkste moties voor het benutten van de integratie om marketinginhoud voor de prestaties effectief te maken, te beheren en te distribueren.
 
@@ -40,9 +40,7 @@ Bekijk twee uitgebreide stappen: de eerste begeleidt u door het installatieproce
 
 -->
 
-
 ## Gebruiksscenario’s
-
 
 Verken praktijkvoorbeelden die aantonen hoe deze integratie uw workflows verbetert. Van het vereenvoudigen van processen voor het goedkeuren van bedrijfsmiddelen tot het maken en gebruiken van aangepaste inhoudvarianten, zie hoe AEM Assets as a Cloud Service en GenStudio for Performance Marketing samenwerken om efficiënte en consistente prestatiesmarketing campagnes te drijven.
 

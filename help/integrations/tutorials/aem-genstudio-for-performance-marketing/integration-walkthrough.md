@@ -1,5 +1,5 @@
 ---
-title: AEM Assets- en GenStudio for Performance Marketing-integratie doorlopen
+title: Integratiewandelgangen AEM Assets en GenStudio for Performance Marketing
 description: Leer de grondbeginselen van het gebruik van de integratie met AEM Assets en GenStudio for Performance Marketing; het uploaden van middelen naar AEM Assets, goedkeuring van middelen in AEM Assets en het gebruik van goedgekeurde middelen in GenStudio for Performance Marketing.
 solution: Experience Manager, GenStudio for Performance Marketing
 version: Cloud Service
@@ -11,7 +11,7 @@ doc-type: Feature Video
 duration: 296
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16482
-source-git-commit: 07fdec0741cacacf9950058d1c3674aa950681aa
+source-git-commit: a542f8a0f230b2a2fb3eaedf503e2b801f26aa9b
 workflow-type: tm+mt
 source-wordcount: '83'
 ht-degree: 0%
@@ -19,7 +19,7 @@ ht-degree: 0%
 ---
 
 
-# Integratie doorlopen
+# Integratieanalyse
 
 Leer de basisbeginselen van de integratie met AEM Assets as a Cloud Service en GenStudio for Performance Marketing, het uploaden van middelen naar AEM Assets, het goedkeuren van middelen in AEM Assets en het gebruik van goedgekeurde middelen in GenStudio for Performance Marketing.
 
