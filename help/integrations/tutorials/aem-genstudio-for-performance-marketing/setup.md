@@ -11,7 +11,7 @@ doc-type: Feature Video
 duration: 416
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16484
-source-git-commit: 911be1d339181609a94770b070f9187916fe7fe4
+source-git-commit: ec0ac56e16a76ad5b7b92c87866464fa21459ce2
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 6%
@@ -111,4 +111,3 @@ Deze taken vereisen samenwerking met beheerders die over de juiste machtigingen 
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
