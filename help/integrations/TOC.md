@@ -3,10 +3,10 @@ user-guide-title: Tutorials voor Experience Cloud-integratie
 breadcrumb-title: Experience Cloud-integraties
 user-guide-description: Meer informatie over integraties.
 mini-toc-levels: 1
-source-git-commit: edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
+source-git-commit: f3dfc96926bbff3fec05435a4d6f6783ae42ad6a
 workflow-type: tm+mt
-source-wordcount: '113'
-ht-degree: 15%
+source-wordcount: '117'
+ht-degree: 14%
 
 ---
 
@@ -104,7 +104,12 @@ ht-degree: 15%
       + [Real-Time CDP en  [!DNL Target]](./tutorials/rtcdp-target/atjs-and-target-destination.md)
    + GenStudio for Performance Marketing en Experience Manager {#genstudio-for-performance-marketing-experience-manager}
       + [Overzicht](./tutorials/aem-genstudio-for-performance-marketing/overview.md)
-      + [Instellen](./tutorials/aem-genstudio-for-performance-marketing/setup.md)
+      + [ Opstelling ](./tutorials/aem-genstudio-for-performance-marketing/setup.md)
+&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+      + [ de looppas-door van de Integratie ](./tutorials/aem-genstudio-for-performance-marketing/integration-walkthrough.md)
+=======
       + [Integratie doorlopen](./tutorials/aem-genstudio-for-performance-marketing/integration-walk-through.md)
-      + [Hoofdletters gebruiken #1](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
-      + [Hoofdletters gebruiken #2](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
+>>>>>>>>>>edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
++ [ Hoofdlettergebruik #1 ](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
++ [ Hoofdlettergebruik #2 ](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
+> 

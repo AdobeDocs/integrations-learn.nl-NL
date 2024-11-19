@@ -1,7 +1,7 @@
 ---
-source-git-commit: edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
+source-git-commit: f3dfc96926bbff3fec05435a4d6f6783ae42ad6a
 workflow-type: tm+mt
-source-wordcount: '116'
+source-wordcount: '130'
 ht-degree: 2%
 
 ---
@@ -42,7 +42,11 @@ De integratie van Adobe GenStudio for Performance Marketing en Experience Manage
             <td>
                 <ul style="margin-top: 0;">
                     <li>Brandmiddelen uploaden, controleren en goedkeuren.</li>
+&lt;&lt;&lt;&lt;&lt;&lt; HEAD
+                    <li>Maak afbeeldingsvarianten van goedgekeurde merkelementen voor gebruik in marketingervaringen.</li>
+=======
                     <li>Maak afbeeldingsvarianten van goedgekeurde merkelementen voor gebruik in marketingervaringen.</li>&lt;
+&gt;&gt;&gt;&gt;&gt;&gt; edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
                 </ul>
             </td>
         </tr>        
