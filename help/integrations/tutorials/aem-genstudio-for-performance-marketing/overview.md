@@ -11,7 +11,7 @@ doc-type: Value Video
 duration: 133
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16480
-source-git-commit: a542f8a0f230b2a2fb3eaedf503e2b801f26aa9b
+source-git-commit: 85488b915fcfe7700682ff3c0c9a606bf0a2da3d
 workflow-type: tm+mt
 source-wordcount: '203'
 ht-degree: 0%
@@ -35,7 +35,7 @@ Bekijk twee uitgebreide stappen: de eerste begeleidt u door het installatieproce
 
 * https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/setup
     {title=Set up}
-* hhttps://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/integration-walkthrough
+* https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/integration-walkthrough
     {title=Walkthrough}
 
 -->
