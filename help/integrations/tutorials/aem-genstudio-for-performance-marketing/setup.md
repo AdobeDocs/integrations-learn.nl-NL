@@ -12,7 +12,7 @@ duration: 416
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16484
 exl-id: b63cfe6e-a530-4ca4-9e8e-16c54478054f
-source-git-commit: d2522c5269bb599e5ba123d56662c67f5e40fba1
+source-git-commit: c3d3d3076d495d01701dae09088ea0278c345299
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 6%
@@ -68,7 +68,7 @@ Deze taken vereisen samenwerking met beheerders die over de juiste machtigingen 
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/assets/content-hub/set-up" title="AEM Assets Content Hub inschakelen" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433513/?format=jpeg&nocache=1732038662663" alt="AEM Assets Content Hub inschakelen"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3433513/?format=jpeg&nocache=1732112018062" alt="AEM Assets Content Hub inschakelen"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -111,3 +111,6 @@ Deze taken vereisen samenwerking met beheerders die over de juiste machtigingen 
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
+
+<br/>
+<br/>

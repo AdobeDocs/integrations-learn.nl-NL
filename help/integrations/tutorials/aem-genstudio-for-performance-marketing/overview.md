@@ -12,7 +12,7 @@ duration: 133
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16480
 exl-id: 091852ef-cce4-40dd-97bf-f0deee2c99c3
-source-git-commit: 6eefbeb882a857dc17696181dae7898b91b0866f
+source-git-commit: c3d3d3076d495d01701dae09088ea0278c345299
 workflow-type: tm+mt
 source-wordcount: '385'
 ht-degree: 0%
@@ -59,7 +59,7 @@ Bekijk twee uitgebreide stappen: de eerste begeleidt u door het installatieproce
                     <p class="is-size-6">Leer hoe u de integratie tussen AEM Assets en GenStudio for Performance Marketing instelt.</p>
                 </div>
                 <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/setup" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Controle </span>
+                    <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> Leren </span>
                 </a>
             </div>
         </div>
@@ -69,7 +69,7 @@ Bekijk twee uitgebreide stappen: de eerste begeleidt u door het installatieproce
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/integration-walkthrough" title="Integratieanalyse" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439264/?format=jpeg&nocache=1732112027882" alt="Integratieanalyse"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439264/?format=jpeg&nocache=1732112045189" alt="Integratieanalyse"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -108,7 +108,7 @@ Verken praktijkvoorbeelden die aantonen hoe deze integratie uw workflows verbete
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-case-1" title="Lichte revisie en goedkeuring in Adobe GenStudio" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439265/?format=jpeg&nocache=1732112029889" alt="Lichte revisie en goedkeuring in Adobe GenStudio"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439265/?format=jpeg&nocache=1732112045591" alt="Lichte revisie en goedkeuring in Adobe GenStudio"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -131,7 +131,7 @@ Verken praktijkvoorbeelden die aantonen hoe deze integratie uw workflows verbete
             <div class="card-image">
                 <figure class="image x-is-16by9">
                     <a href="https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-case-2" title="Varianten maken met Adobe GenStudio" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439266/?format=jpeg&nocache=1732112029524" alt="Varianten maken met Adobe GenStudio"
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3439266/?format=jpeg&nocache=1732112045469" alt="Varianten maken met Adobe GenStudio"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -152,3 +152,5 @@ Verken praktijkvoorbeelden die aantonen hoe deze integratie uw workflows verbete
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
+<br/>
+<br/>
