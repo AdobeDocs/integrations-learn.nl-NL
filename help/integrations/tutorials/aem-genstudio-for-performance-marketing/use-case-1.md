@@ -11,13 +11,13 @@ doc-type: Feature Video
 duration: 295
 last-substantial-update: 2024-11-20T00:00:00Z
 jira: KT-16483
-source-git-commit: ba8d90c256356ccf806484a5b791d5c4ad54ab9f
+exl-id: 635c1a73-4abe-4e22-8755-f3fbc8f0b46e
+source-git-commit: 39e23e7d05dc76f96b41051db83e2bb6141e7cc5
 workflow-type: tm+mt
 source-wordcount: '82'
 ht-degree: 0%
 
 ---
-
 
 # Lichte revisie en goedkeuring in Adobe GenStudio
 

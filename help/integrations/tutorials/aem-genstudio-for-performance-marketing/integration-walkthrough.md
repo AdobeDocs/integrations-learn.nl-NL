@@ -11,13 +11,13 @@ doc-type: Feature Video
 duration: 296
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16482
-source-git-commit: ba8d90c256356ccf806484a5b791d5c4ad54ab9f
+exl-id: 42185429-16ee-42df-bce4-d6d97f13b166
+source-git-commit: 39e23e7d05dc76f96b41051db83e2bb6141e7cc5
 workflow-type: tm+mt
 source-wordcount: '87'
 ht-degree: 0%
 
 ---
-
 
 # Integratieanalyse
 

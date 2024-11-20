@@ -7,17 +7,17 @@ feature-set: Experience Manager Assets, GenStudio for Performance Marketing
 topic: Content Supply Chain
 role: User
 level: Intermediate
-doc-type: Feature Video
+doc-type: Article
 duration: 416
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16484
-source-git-commit: ba8d90c256356ccf806484a5b791d5c4ad54ab9f
+exl-id: b63cfe6e-a530-4ca4-9e8e-16c54478054f
+source-git-commit: d2522c5269bb599e5ba123d56662c67f5e40fba1
 workflow-type: tm+mt
 source-wordcount: '244'
 ht-degree: 6%
 
 ---
-
 
 # Instellen
 
@@ -111,4 +111,3 @@ Deze taken vereisen samenwerking met beheerders die over de juiste machtigingen 
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
