@@ -2,7 +2,7 @@
 title: Toepassingsintegratie voor de toeleveringsketen van inhoud
 description: Inhoud plannen, maken, personaliseren en publiceren.
 exl-id: 00a15be9-612e-4210-8b2a-77274aa5713c
-source-git-commit: edde4b8b98a1e8b7eaff592f458cfaa9aa53b346
+source-git-commit: 03f958e6a2754b23a4a7d21ee87107a777f10406
 workflow-type: tm+mt
 source-wordcount: '327'
 ht-degree: 1%
