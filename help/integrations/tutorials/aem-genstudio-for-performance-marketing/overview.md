@@ -15,9 +15,9 @@ index: true
 hidefromtoc: true
 badgeIntegration: label="AEM Asset en GenStudio for Performance Marketing" type="positive"
 exl-id: 091852ef-cce4-40dd-97bf-f0deee2c99c3
-source-git-commit: ed6dd016008f48eab117f2b1597c0a1b42590c82
+source-git-commit: bc3ff05fe1ee55af14cca028ea62e4323e82a32b
 workflow-type: tm+mt
-source-wordcount: '394'
+source-wordcount: '392'
 ht-degree: 0%
 
 ---
@@ -154,11 +154,6 @@ Verken praktijkvoorbeelden die aantonen hoe deze integratie uw workflows verbete
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-* https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-1
-* https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/use-cases/use-case-2
-
-—>
 
 
 <br/>
