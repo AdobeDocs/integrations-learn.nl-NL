@@ -12,16 +12,16 @@ duration: 416
 last-substantial-update: 2024-11-19T00:00:00Z
 jira: KT-16484
 exl-id: b63cfe6e-a530-4ca4-9e8e-16c54478054f
-source-git-commit: 4400dfd33821ef15e134f272fa9834b6302b61b1
+source-git-commit: 0943e1198e542a4357e19708b7bd6f0d79c2aafc
 workflow-type: tm+mt
-source-wordcount: '265'
-ht-degree: 6%
+source-wordcount: '270'
+ht-degree: 5%
 
 ---
 
 # GenStudio for Performance Marketing en AEM Assets instellen
 
-[Overzicht van teruggaan naar integratie](./overview.md)
+[Terug naar AEM Asset en GenStudio for Performance Marketing - overzicht](./overview.md)
 
 Als u Adobe GenStudio wilt gaan gebruiken met AEM Assets as a Cloud Service en GenStudio for Performance Marketing, moet u ervoor zorgen dat de benodigde producten zijn ingericht, ingeschakeld en geconfigureerd. Specifiek, hebt u toegang nodig tot:
 
