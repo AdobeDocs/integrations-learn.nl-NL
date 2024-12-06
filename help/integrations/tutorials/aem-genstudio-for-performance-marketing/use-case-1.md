@@ -15,7 +15,7 @@ index: true
 hidefromtoc: true
 badgeIntegration: label="AEM Asset en GenStudio for Performance Marketing" type="positive"
 exl-id: 635c1a73-4abe-4e22-8755-f3fbc8f0b46e
-source-git-commit: ed6dd016008f48eab117f2b1597c0a1b42590c82
+source-git-commit: d3f671ffc39355a5e227bfdf94fdb3a24032f53e
 workflow-type: tm+mt
 source-wordcount: '95'
 ht-degree: 0%
@@ -28,4 +28,4 @@ ht-degree: 0%
 
 Leer hoe u middelen in AEM Assets as a Cloud Service kunt uploaden, controleren en goedkeuren om de workflow met inhoud te stroomlijnen. Als deze middelen eenmaal zijn goedgekeurd, worden ze naadloos geïntegreerd in GenStudio for Performance Marketing, zodat u eenvoudig toegang hebt tot materiaal met een merk voor uw campagnes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439265/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3439265/?learn=on&enablevpops)
