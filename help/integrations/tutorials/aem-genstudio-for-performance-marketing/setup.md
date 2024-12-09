@@ -10,9 +10,11 @@ level: Intermediate
 doc-type: Article
 duration: 416
 last-substantial-update: 2024-11-19T00:00:00Z
+index: true
+hidefromtoc: true
 jira: KT-16484
 exl-id: b63cfe6e-a530-4ca4-9e8e-16c54478054f
-source-git-commit: 0943e1198e542a4357e19708b7bd6f0d79c2aafc
+source-git-commit: 153f3ba3b335748d35be9a5dea0a3ec6f1c0e346
 workflow-type: tm+mt
 source-wordcount: '270'
 ht-degree: 5%
