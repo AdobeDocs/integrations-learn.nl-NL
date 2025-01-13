@@ -3,7 +3,7 @@ user-guide-title: Tutorials voor Experience Cloud-integratie
 breadcrumb-title: Experience Cloud-integraties
 user-guide-description: Meer informatie over integraties.
 mini-toc-levels: 1
-source-git-commit: 49eeb3e1bfc5a22d8a8e57795f23539e131f98bc
+source-git-commit: 2e76baa106c833668b7d966e4cfdbfaef8aabbd2
 workflow-type: tm+mt
 source-wordcount: '120'
 ht-degree: 15%
