@@ -15,7 +15,7 @@ index: true
 hidefromtoc: true
 badgeIntegration: label="AEM Asset en GenStudio for Performance Marketing" type="positive"
 exl-id: 091852ef-cce4-40dd-97bf-f0deee2c99c3
-source-git-commit: 0736d748f4c188ae0b11c43d343ab67d620bac21
+source-git-commit: ad3d8d090434b1c1a2cbcf024223db9fb6bb9fef
 workflow-type: tm+mt
 source-wordcount: '512'
 ht-degree: 0%
@@ -44,7 +44,7 @@ Bekijk twee uitgebreide analyses die zijn ontworpen voor gebruikers met een basi
 <!-- CARDS 
 
 * https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/setup
-    {title=Set up GenStudio and Performance Marketing and AEM Assets}
+    {title=Set up GenStudio for Performance Marketing and AEM Assets}
     {cta=Learn}
     {image=https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/solution-categories/media_1f4cfd2b3f7e2e83862f8a00ce6fc4cd4b21650d1.png?width=2000&format=webply&optimize=medium}
 * https://experienceleague.adobe.com/en/docs/integrations-learn/experience-cloud/tutorials/genstudio-for-performance-marketing-experience-manager/integration-walkthrough
