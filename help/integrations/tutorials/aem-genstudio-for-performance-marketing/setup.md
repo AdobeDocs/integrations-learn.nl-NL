@@ -1,6 +1,6 @@
 ---
-title: Adobe GenStudio instellen met GenStudio for Performance Marketing en AEM Assets
-description: Leer hoe u de integratie tussen AEM Assets en GenStudio for Performance Marketing instelt.
+title: GenStudio for Performance Marketing en AEM Assets instellen
+description: Stel Adobe GenStudio in met GenStudio for Performance Marketing en AEM Assets om het maken van inhoud te stroomlijnen en de consistentie van merken te garanderen.
 solution: Experience Manager, GenStudio for Performance Marketing
 version: Cloud Service
 feature-set: Experience Manager Assets, GenStudio for Performance Marketing
@@ -14,16 +14,16 @@ index: true
 hidefromtoc: true
 jira: KT-16484
 exl-id: b63cfe6e-a530-4ca4-9e8e-16c54478054f
-source-git-commit: 153f3ba3b335748d35be9a5dea0a3ec6f1c0e346
+source-git-commit: 8e3adf228592b60b2a226326e885f9e7359ff232
 workflow-type: tm+mt
-source-wordcount: '270'
-ht-degree: 5%
+source-wordcount: '272'
+ht-degree: 7%
 
 ---
 
 # GenStudio for Performance Marketing en AEM Assets instellen
 
-[Terug naar AEM Asset en GenStudio for Performance Marketing - overzicht](./overview.md)
+[Terug naar AEM Assets en GenStudio for Performance Marketing - overzicht](./overview.md)
 
 Als u Adobe GenStudio wilt gaan gebruiken met AEM Assets as a Cloud Service en GenStudio for Performance Marketing, moet u ervoor zorgen dat de benodigde producten zijn ingericht, ingeschakeld en geconfigureerd. Specifiek, hebt u toegang nodig tot:
 
@@ -35,7 +35,7 @@ Er zijn geen aanvullende instellingen vereist om deze producten te integreren, m
 
 ## Hulplijnen instellen
 
-Als deze producten van de Adobe nog niet opstelling en toegelaten zijn, raadpleeg de volgende gidsen voor gedetailleerde configuratiestappen:
+Raadpleeg de volgende handleidingen voor gedetailleerde configuratiestappen als deze Adobe-producten nog niet zijn ingesteld en ingeschakeld:
 
 <!-- CARDS 
 
