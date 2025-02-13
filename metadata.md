@@ -6,12 +6,13 @@ product: experience cloud
 feature-set: Advertising, [!DNL Analytics], Audience Manager, [!DNL Campaign], [!DNL Commerce], Customer Journey [!DNL Analytics], Experience Cloud Services, Experience Manager, Experience Manager Assets, Experience Manager Cloud Manager, Experience Manager Forms, Experience Manager Guides, Experience Manager Screens, Experience Manager Sites, Experience [!DNL Platform], Journey Optimizer, Journey Orchestration, Marketo Engage, Workfront
 type: Tutorial
 mini-toc-levels: 2
+auto-video-transcripts: true
 git-repo: https://github.com/AdobeDocs/integrations-learn.nl-NL
 index: true
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+source-git-commit: 6f3c997e46fe965d86b37a29790e9d4c5dd34a43
 workflow-type: tm+mt
-source-wordcount: '63'
-ht-degree: 93%
+source-wordcount: '53'
+ht-degree: 98%
 
 ---
 
