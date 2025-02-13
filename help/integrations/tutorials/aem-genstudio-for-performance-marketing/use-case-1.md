@@ -1,6 +1,6 @@
 ---
 title: Lichte revisie en goedkeuring in Adobe GenStudio
-description: Ontdek het gebruik van het uploaden, controleren en goedkeuren van middelen in AEM Assets om deze beschikbaar te maken voor gebruik in GenStudio for Performance Marketing.
+description: Ontdek hoe u middelen in AEM Assets kunt uploaden, controleren en goedkeuren om ze beschikbaar te maken in GenStudio for Performance Marketing.
 solution: Experience Manager, GenStudio for Performance Marketing
 version: Cloud Service
 feature-set: Experience Manager Assets, GenStudio for Performance Marketing
@@ -15,17 +15,17 @@ index: true
 hidefromtoc: true
 badgeIntegration: label="AEM Asset en GenStudio for Performance Marketing" type="positive"
 exl-id: 635c1a73-4abe-4e22-8755-f3fbc8f0b46e
-source-git-commit: d3f671ffc39355a5e227bfdf94fdb3a24032f53e
+source-git-commit: 8eac109594317e1a8689480ccf7ba0aeaa824308
 workflow-type: tm+mt
-source-wordcount: '95'
+source-wordcount: '91'
 ht-degree: 0%
 
 ---
 
 # Lichte revisie en goedkeuring in Adobe GenStudio
 
-[Terug naar AEM Asset en GenStudio for Performance Marketing - overzicht](./overview.md)
+[Terug naar AEM Assets en GenStudio for Performance Marketing - overzicht](./overview.md)
 
-Leer hoe u middelen in AEM Assets as a Cloud Service kunt uploaden, controleren en goedkeuren om de workflow met inhoud te stroomlijnen. Als deze middelen eenmaal zijn goedgekeurd, worden ze naadloos geïntegreerd in GenStudio for Performance Marketing, zodat u eenvoudig toegang hebt tot materiaal met een merk voor uw campagnes.
+Leer hoe u middelen kunt uploaden, controleren en goedkeuren in AEM Assets as a Cloud Service om de workflow met inhoud te stroomlijnen. Als deze middelen eenmaal zijn goedgekeurd, worden ze naadloos geïntegreerd in GenStudio for Performance Marketing, zodat u eenvoudig toegang hebt tot materiaal met een merk voor uw campagnes.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439265/?learn=on&enablevpops)
