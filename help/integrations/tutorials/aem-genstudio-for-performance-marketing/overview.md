@@ -1,6 +1,6 @@
 ---
-title: Adobe GenStudio met GenStudio for Performance Marketing en AEM Assets
-description: In deze video wordt beschreven hoe teams door AEM Assets te integreren met GenStudio for Performance Marketing toegang krijgen tot een gecentraliseerde opslagplaats van middelen die door een merk zijn goedgekeurd, waardoor consistente inhoud op alle kanalen en campagnes wordt gegarandeerd.
+title: Adobe GenStudio for Performance Marketing en AEM Assets gebruiken
+description: Ontgrendel Adobe GenStudio om marketing te stroomlijnen. Toegang tot middelen met een merk en maak consistente inhoud van hoge kwaliteit via verschillende kanalen.
 solution: Experience Manager, GenStudio for Performance Marketing
 version: Cloud Service
 feature-set: Experience Manager Assets, GenStudio for Performance Marketing
@@ -15,9 +15,9 @@ index: true
 hidefromtoc: true
 badgeIntegration: label="AEM Asset en GenStudio for Performance Marketing" type="positive"
 exl-id: 091852ef-cce4-40dd-97bf-f0deee2c99c3
-source-git-commit: ad3d8d090434b1c1a2cbcf024223db9fb6bb9fef
+source-git-commit: 7ffb3102086df5d7ca7b6593fd94bec9518d227e
 workflow-type: tm+mt
-source-wordcount: '512'
+source-wordcount: '498'
 ht-degree: 0%
 
 ---
@@ -26,20 +26,20 @@ ht-degree: 0%
 
 >[!VIDEO](https://video.tv.adobe.com/v/3439263/?learn=on)
 
-Ontgrendel de kracht van Adobe GenStudio en AEM Assets as a Cloud Service om uw workflows voor het maken van prestatietransparantie te transformeren. Dankzij naadloze integratie hebt u toegang tot door een merk goedgekeurde middelen van een gecentraliseerde opslagplaats om consistente inhoud van hoge kwaliteit te maken voor elke campagne en elk kanaal. Ontdek hoe deze gereedschappen de toeleveringsketen van uw inhoud stroomlijnen en uw marketingeffecten verhogen.
+Ontgrendel de kracht van Adobe GenStudio en AEM Assets as a Cloud Service om uw workflows voor het maken van prestatietransacties te transformeren. Dankzij naadloze integratie hebt u toegang tot door een merk goedgekeurde middelen van een gecentraliseerde opslagplaats om consistente inhoud van hoge kwaliteit te maken voor elke campagne en elk kanaal. Ontdek hoe deze gereedschappen de toeleveringsketen van uw inhoud stroomlijnen en uw marketingeffecten verhogen.
 
 ## Vereisten
 
 De integratie tussen AEM Assets en GenStudio for Performance Marketing vereist een grondbegrip van:
 
-* Adobe GenStudio for Performance Marketing
-* AEM Assets as a Cloud Service
+* [ Adobe GenStudio for Performance Marketing ](https://experienceleague.adobe.com/en/browse/genstudio-for-performance-marketing)
+* [ AEM Assets as a Cloud Service ](https://experienceleague.adobe.com/en/docs/experience-manager-cloud-service/content/assets/overview)
 
 Controleer voordat u de installatie en workflows betreedt of u toegang hebt tot AEM Assets en GenStudio for Performance Marketing.
 
 ## Aan de slag
 
-Bekijk twee uitgebreide analyses die zijn ontworpen voor gebruikers met een basiskennis van AEM Assets en GenStudio for Performance Marketing. De eerste analyse begeleidt u door het opstellingsproces, dat alles behandelt nodig om Adobe GenStudio met AEM Assets as a Cloud Service naadloos te integreren. De tweede stap gaat over belangrijke workflows en toont de belangrijkste moties voor het benutten van de integratie om op effectieve wijze marketinginhoud voor de prestaties te maken, te beheren en te distribueren.
+Bekijk twee uitgebreide analyses die zijn ontworpen voor gebruikers met een basiskennis van AEM Assets en GenStudio for Performance Marketing. De eerste analyse leidt u door het opstellingsproces, dat alles behandelt nodig om Adobe GenStudio met AEM Assets as a Cloud Service naadloos te integreren. De tweede stap gaat over belangrijke workflows en toont de belangrijkste moties voor het benutten van de integratie om op effectieve wijze marketinginhoud voor de prestaties te maken, te beheren en te distribueren.
 
 <!-- CARDS 
 
