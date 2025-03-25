@@ -1,8 +1,8 @@
 ---
 title: Adobe GenStudio for Performance Marketing en AEM Assets gebruiken
 description: Ontgrendel Adobe GenStudio om marketing te stroomlijnen. Toegang tot middelen met een merk en maak consistente inhoud van hoge kwaliteit via verschillende kanalen.
-solution: Experience Manager, GenStudio for Performance Marketing
-version: Cloud Service
+solution: Experience Manager, Experience Manager as a Cloud Service, GenStudio for Performance Marketing
+version: Experience Manager as a Cloud Service
 feature-set: Experience Manager Assets, GenStudio for Performance Marketing
 topic: Content Supply Chain
 role: Leader, User
@@ -15,7 +15,7 @@ index: true
 hidefromtoc: false
 badgeIntegration: label="AEM Asset en GenStudio for Performance Marketing" type="positive"
 exl-id: 091852ef-cce4-40dd-97bf-f0deee2c99c3
-source-git-commit: 67814146c561a483a00dd82f7cf1116c114beaf6
+source-git-commit: 20e988c078ee926bbcf79f581ad9a60d5c478a83
 workflow-type: tm+mt
 source-wordcount: '515'
 ht-degree: 0%

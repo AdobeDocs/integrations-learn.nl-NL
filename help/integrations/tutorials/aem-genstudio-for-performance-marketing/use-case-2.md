@@ -1,8 +1,8 @@
 ---
 title: Varianten maken met Adobe GenStudio
 description: Ontdek hoe u AEM Assets en Adobe Express kunt gebruiken om assetvariaties te maken voor e-mail- en Meta-advertenties, zodat u verzekerd bent van een consistente marketingervaring.
-solution: Experience Manager, GenStudio for Performance Marketing
-version: Cloud Service
+solution: Experience Manager, Experience Manager as a Cloud Service, GenStudio for Performance Marketing
+version: Experience Manager as a Cloud Service
 feature-set: Experience Manager Assets, GenStudio for Performance Marketing
 topic: Content Supply Chain
 role: User
@@ -15,7 +15,7 @@ index: true
 hidefromtoc: false
 badgeIntegration: label="AEM Asset en GenStudio for Performance Marketing" type="positive"
 exl-id: 338762f2-179a-47ab-8ca8-d22921a0354d
-source-git-commit: 67814146c561a483a00dd82f7cf1116c114beaf6
+source-git-commit: 20e988c078ee926bbcf79f581ad9a60d5c478a83
 workflow-type: tm+mt
 source-wordcount: '100'
 ht-degree: 0%
