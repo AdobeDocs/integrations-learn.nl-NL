@@ -35,7 +35,7 @@ Enkele voordelen van het gebruik van Adobe Experience Manager en Adobe [!DNL Tar
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations/target.html" target="_blank" rel="noreferrer">AEM zonder kop as a Cloud Service en [!DNL Target]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations/target.html?lang=nl-NL" target="_blank" rel="noreferrer">AEM zonder kop as a Cloud Service en [!DNL Target]</a></td>
             <td>Ervaar de extensie van Web SDK-tags of alloy.js[!DNL Platform]</td>
             <td>
               <ul style="margin-top: 0;">
@@ -52,7 +52,7 @@ Enkele voordelen van het gebruik van Adobe Experience Manager en Adobe [!DNL Tar
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/target/overview.html" target="_blank" rel="noreferrer">AEM Sites en [!DNL Target]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/target/overview.html?lang=nl-NL" target="_blank" rel="noreferrer">AEM Sites en [!DNL Target]</a></td>
             <td>Native connector</td>
             <td>
                 <ul style="margin-top: 0;">

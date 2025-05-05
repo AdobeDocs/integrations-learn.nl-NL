@@ -29,7 +29,7 @@ In de onderstaande video&#39;s ziet u de waarde van deze integratie en de detail
 
 >[!NOTE]
 >
->Deze video&#39;s demonstreren de implementatie en validatie voor [!DNL Target] at.js en [!DNL Analytics] appMeasurement.js. Gelieve te verwijzen naar de [ documentatie ](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html) voor vereiste bibliotheekversies in beide hulpmiddelen.
+>Deze video&#39;s demonstreren de implementatie en validatie voor [!DNL Target] at.js en [!DNL Analytics] appMeasurement.js. Gelieve te verwijzen naar de [ documentatie ](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html?lang=nl-NL) voor vereiste bibliotheekversies in beide hulpmiddelen.
 
 ### A4T instellen ([!DNL Analytics] voor [!DNL Target])
 
@@ -73,7 +73,7 @@ Er zijn ook twee stapsgewijze zelfstudies die u de details laten zien voor het i
 
 Een auto-Wijs activiteit identificeert een winnaar onder twee of meer ervaringen en wijst automatisch meer verkeer aan de winnaar toe terwijl de test blijft lopen en leren. Dankzij de [!DNL Analytics] for [!DNL Target] (A4T) -integratie voor Automatisch toewijzen kunt u de rapportgegevens in Adobe bekijken [!DNL Analytics] en kunt u zelfs optimaliseren voor aangepaste gebeurtenissen of maateenheden die zijn gedefinieerd in [!DNL Analytics] .
 
-<a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-allocate-activities.html" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM" target="_blank">
+<a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-allocate-activities.html?lang=nl-NL" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM" target="_blank">
   <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> opstelling A4T rapporten voor auto-Wijs activiteiten </span> toe
 </a>
 
@@ -83,6 +83,6 @@ De [!DNL Analytics] for [!DNL Target] (A4T) integratie voor auto- [!DNL Target] 
 
 Hoewel uitgebreide analysemogelijkheden beschikbaar zijn in Adobe [!DNL Analytics] Analysis Workspace, zijn een paar wijzigingen in het standaard [!DNL Analytics] for [!DNL Target] -deelvenster vereist voor een correcte interpretatie van [!DNL Target] -activiteiten, vanwege verschillen tussen experimentatieactiviteiten (handmatige A/B-test en automatische toewijzing) en verpersoonlijkingsactiviteiten (Automatisch [!DNL Target]).
 
-<a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities.html" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM" target="_blank">
+<a href="https://experienceleague.adobe.com/docs/target-learn/tutorials/integrations/set-up-a4t-reports-in-analysis-workspace-for-auto-target-activities.html?lang=nl-NL" class="spectrum-Button spectrum-Button--primary spectrum-Button--sizeM" target="_blank">
   <span class="spectrum-Button-label has-no-wrap has-text-weight-bold"> opstelling A4T rapporten voor Auto- [!DNL Target] activiteiten </span>
 </a>

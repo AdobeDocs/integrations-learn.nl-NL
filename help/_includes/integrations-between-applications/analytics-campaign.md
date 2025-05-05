@@ -33,7 +33,7 @@ De Adobe [!DNL Analytics] integratie met Adobe [!DNL Campaign] maakt naadloze ge
     <tbody>
         <tr>
             <td rowspan="2">[!DNL Campaign] Standaard met [!DNL Analytics]</td>
-            <td><a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html" target="_blank" rel="noreferrer">Externe [!DNL Campaign] account gekoppeld aan Adobe [!DNL Analytics] en beheerconfiguratie in [!DNL Analytics]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/campaign-standard-learn/tutorials/integrations/track-the-success-of-your-deliveries-in-analytics.html?lang=nl-NL" target="_blank" rel="noreferrer">Externe [!DNL Campaign] account gekoppeld aan Adobe [!DNL Analytics] en beheerconfiguratie in [!DNL Analytics]</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>Wanneer u het succes van uw e-mailleveringen wilt bijhouden vanuit [!DNL Campaign] rechtstreeks in Adobe [!DNL Analytics] .</li>

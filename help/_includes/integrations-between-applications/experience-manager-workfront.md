@@ -34,7 +34,7 @@ AEM en Workfront stroomlijnen de productie van inhoud, waardoor de naadloze impo
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html" target="_blank" rel="noreferrer">Workfront en AEM Assets Essentials</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=nl-NL" target="_blank" rel="noreferrer">Workfront en AEM Assets Essentials</a></td>
             <td>Native connector</td>
             <td>
               <ul style="margin-top: 0;">
@@ -50,7 +50,7 @@ AEM en Workfront stroomlijnen de productie van inhoud, waardoor de naadloze impo
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html" target="_blank" rel="noreferrer">Workfront en AEM Assets</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html?lang=nl-NL" target="_blank" rel="noreferrer">Workfront en AEM Assets</a></td>
             <td>Verbeterde aansluiting</td>
             <td>
                 <ul style="margin-top: 0;">

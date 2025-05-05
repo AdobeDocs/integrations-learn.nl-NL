@@ -36,7 +36,7 @@ Over het geheel genomen biedt de integratie van de Adobe Klantenreis [!DNL Analy
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/components/audiences/audience-publishing-for-cja.html" target="_blank" rel="noreferrer">Klantenreis [!DNL Analytics] en Real-Time CDP</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/customer-journey-analytics-learn/tutorials/components/audiences/audience-publishing-for-cja.html?lang=nl-NL" target="_blank" rel="noreferrer">Klantenreis [!DNL Analytics] en Real-Time CDP</a></td>
             <td>Ervaring met Adobe [!DNL Platform]</td>
             <td>
                 <ul style="margin-top: 0;">

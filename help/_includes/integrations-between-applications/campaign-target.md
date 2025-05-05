@@ -31,7 +31,7 @@ Gebruik Adobe [!DNL Campaign] met Adobe [!DNL Target] om uw e-mailinhoud aan te 
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/integrating/target-integration.html" target="_blank" rel="noreferrer">[!DNL Campaign] v7/v8 met [!DNL Target]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/campaign-classic-learn/tutorials/integrating/target-integration.html?lang=nl-NL" target="_blank" rel="noreferrer">[!DNL Campaign] v7/v8 met [!DNL Target]</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>Wanneer u e-mailinhoud wilt aanpassen.</li>

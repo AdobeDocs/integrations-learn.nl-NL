@@ -57,7 +57,7 @@ Over het algemeen brengt deze integratie waardevolle gegevens en inzicht in het 
         </tr>        
         <tr>
             <td>
-                <a href="https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html" target="_blank" rel="noreferrer"> Audience Manager die gegevens terug naar [!DNL Analytics]</a> verzendt
+                <a href="https://experienceleague.adobe.com/docs/analytics/integration/audience-analytics/mc-audiences-aam.html?lang=nl-NL" target="_blank" rel="noreferrer"> Audience Manager die gegevens terug naar [!DNL Analytics]</a> verzendt
             </td>
             <td>Adobe [!DNL Analytics] tags extension of AppMeasurement.js met server-side forward enabled</td>
             <td>

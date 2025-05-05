@@ -31,7 +31,7 @@ Integratie van Experience Manager en Marketo Engage biedt diverse voordelen, waa
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/forms/aem-forms-with-marketo/part1.html" target="_blank" rel="noreferrer">Experience Manager Forms en Marketo Engage</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/forms/aem-forms-with-marketo/part1.html?lang=nl-NL" target="_blank" rel="noreferrer">Experience Manager Forms en Marketo Engage</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>Wanneer u leads wilt genereren op basis van de digitale formulierverzendingen van gebruikers.</li>

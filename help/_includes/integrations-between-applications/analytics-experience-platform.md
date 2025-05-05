@@ -34,7 +34,7 @@ Door deze platforms te integreren, kunnen de ondernemingen hefboomwerking gegeve
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html" target="_blank" rel="noreferrer">[!DNL Analytics] en ervaring [!DNL Platform]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-platform/sources/ui-tutorials/create/adobe-applications/analytics.html?lang=nl-NL" target="_blank" rel="noreferrer">[!DNL Analytics] en ervaring [!DNL Platform]</a></td>
             <td>Experience [!DNL Platform] bronaansluiting</td>
             <td>
                 <ul style="margin-top: 0;">

@@ -35,7 +35,7 @@ De integratie van Adobe [!DNL Analytics] en Adobe Experience Manager biedt versc
     <tbody>
         <tr>
             <td rowspan="2">[!DNL Analytics] met AEM Sites</a></td>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/analytics-using-web-sdk.html" target="_blank" rel="noreferrer">Ervaar de extensie van Web SDK-tags of alloy.js[!DNL Platform]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/experience-platform/analytics-using-web-sdk.html?lang=nl-NL" target="_blank" rel="noreferrer">Ervaar de extensie van Web SDK-tags of alloy.js[!DNL Platform]</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>Wanneer u in Adobe [!DNL Analytics] gegevens over AEM webanalysegegevens wilt rapporteren en uzelf wilt plaatsen om deze gegevens in de toekomst te integreren met andere toepassingen voor Experiencen Cloud.</li>
@@ -50,7 +50,7 @@ De integratie van Adobe [!DNL Analytics] en Adobe Experience Manager biedt versc
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/analytics/collect-data-analytics.html" target="_blank" rel="noreferrer">Adobe [!DNL Analytics] -tags, extensie of AppMeasurement.js</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/integrations/analytics/collect-data-analytics.html?lang=nl-NL" target="_blank" rel="noreferrer">Adobe [!DNL Analytics] -tags, extensie of AppMeasurement.js</a></td>
             <td>
                 <ul style="margin-top: 0;">
                     <li>Wanneer u in Adobe [!DNL Analytics] gegevens over AEM webanalysegegevens wilt rapporteren en u niet van plan bent de gegevens te gebruiken in andere Experiencen Cloud-toepassingen</li>
@@ -67,7 +67,7 @@ De integratie van Adobe [!DNL Analytics] en Adobe Experience Manager biedt versc
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-analytics/introduction.html" target="_blank" rel="noreferrer">[!DNL Analytics] en AEM Forms als Cloud Service</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/forms/forms-and-analytics/introduction.html?lang=nl-NL" target="_blank" rel="noreferrer">[!DNL Analytics] en AEM Forms als Cloud Service</a></td>
             <td>Experience [!DNL Platform] Web SDK-tagextensie</td>
             <td>
               <ul style="margin-top: 0;">

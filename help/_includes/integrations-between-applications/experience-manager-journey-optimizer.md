@@ -34,7 +34,7 @@ De integratie van Adobe Journey Optimizer &amp; Experience Manager Assets Essent
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html" target="_blank" rel="noreferrer">Journey Optimizer en AEM Assets Essentials</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/journey-optimizer-learn/tutorials/email-channel/create-content-with-the-email-designer.html?lang=nl-NL" target="_blank" rel="noreferrer">Journey Optimizer en AEM Assets Essentials</a></td>
             <td>Essentiële elementen van bedrijfsmiddelen zijn ingesloten in Journey Optimizer</td>
             <td>
                 <ul style="margin-top: 0;">

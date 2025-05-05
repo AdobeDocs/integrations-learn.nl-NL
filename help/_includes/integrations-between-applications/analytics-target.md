@@ -52,7 +52,7 @@ De belangrijkste voordelen van de integratie van Adobe [!DNL Analytics] en Adobe
         <tr>
             <td>
                 <ul style="margin-top: 0;">
-                    <li><a href="https://experienceleague.adobe.com/docs/target/using/integrate/mmp.html" target="_blank" rel="noreferrer">Experience Cloud Core Services</a></li>
+                    <li><a href="https://experienceleague.adobe.com/docs/target/using/integrate/mmp.html?lang=nl-NL" target="_blank" rel="noreferrer">Experience Cloud Core Services</a></li>
                 </ul>
             </td>
             <td>

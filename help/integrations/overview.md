@@ -18,10 +18,10 @@ Deze zelfstudies voor integratie van Experiencen Cloud beschrijven enkele van de
 <table>
 <tr>
    <td style="vertical-align: middle; text-align: center;">
-      <a  href="./integrations-between-applications/overview.md"><img alt="Op product" src="https://cdn.experienceleague.adobe.com/thumb/by-product.png"/></a>
+      <a  href="./integrations-between-applications/overview.md"><img alt="Op product" src="https://cdn.experienceleague.adobe.com/thumb/by-product.png?lang=nl-NL"/></a>
    </td>
    <td>
-      <a  href="./solution-categories/overview.md"><img alt="Op bedrijfsoplossing" src="https://cdn.experienceleague.adobe.com/thumb/by-solution.png"/></a>
+      <a  href="./solution-categories/overview.md"><img alt="Op bedrijfsoplossing" src="https://cdn.experienceleague.adobe.com/thumb/by-solution.png?lang=nl-NL"/></a>
    </td>  
 </tr>
 <tr>
