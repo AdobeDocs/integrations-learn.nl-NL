@@ -1,6 +1,6 @@
 ---
-title: Integreer  [!DNL Analytics]  en Echte-tijd Gegevens van de Klant  [!DNL Platform]  met de 2} bron van de Ervaring schakelaarleerprogramma [!DNL Platform]
-description: Leer hoe te om Adobe  [!DNL Analytics]  met Gegevens van de Klant in real time  [!DNL Platform]  te integreren gebruikend de 2} bronschakelaar van de Ervaring. [!DNL Platform]
+title: Integreer  [!DNL Analytics]  en Echte-tijd Gegevens van de Klant  [!DNL Platform]  met de 2&rbrace; bron van de Ervaring schakelaarleerprogramma [!DNL Platform]
+description: Leer hoe te om Adobe  [!DNL Analytics]  met Gegevens van de Klant in real time  [!DNL Platform]  te integreren gebruikend de 2&rbrace; bronschakelaar van de Ervaring. [!DNL Platform]
 solution: Real-Time Customer Data [!DNL Platform], [!DNL Analytics]
 feature: Integrations
 topic: Integrations

@@ -29,7 +29,7 @@ Deze instructies zijn bedoeld voor het Adoben van [!DNL Commerce] via de cloud g
 1. Bekijk de code in uw lokale omgeving
 1. Composer- en installatiemodule gebruiken
 1. Volg de individuele instructies hier en keer terug wanneer voltooid om de resterende stappen te voltooien
-   [ installeer en vorm de 1} schakelaar van de Ervaring ](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/fundamentals/install.html) {target="_blank"} [!DNL Platform] 
+   [ installeer en vorm de 1&rbrace; schakelaar van de Ervaring ](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/fundamentals/install.html){target="_blank"}  [!DNL Platform] 
 
 
 1. Composer.json vastleggen en, indien beschikbaar, composer.lock-bestanden in de cloud
@@ -39,11 +39,13 @@ U kunt dit doen door u aan te melden bij de beheersectie van de Adobe [!DNL Comm
 
 1. Vorm de module met uw geloofsbrieven van binnen de Adobe [!DNL Commerce] achterbureau.
    * Eerst de [!DNL Commerce] de schakelaarconfiguraties van de Diensten, zoals hieronder getoond.
+
      ![[!DNL Commerce] Instellen van serviceconnector ](./assets/analytics-commerce/commerce-services-connector-setup.png)
    * Dan de Ervaring [!DNL Platform] schakelaarmontages, zoals hieronder getoond.
+
      ![ Ervaring [!DNL Platform] schakelaar ](./assets/analytics-commerce/experience-platform-connector.png)
 
-Voor grotere details op elke fase en stap van het onboarding proces, volg de instructies op het [ overzicht van de Ervaring  [!DNL Platform]  schakelaar ](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/overview.html) {target="_blank"}. De verbindingszelfstudie Experience [!DNL Platform] behandelt elke sectie in detail en beantwoordt alle vragen die u hebt. Gebruik deze zelfstudie voor de rest van de snelle stappen die u uitvoert.
+Voor grotere details op elke fase en stap van het onboarding proces, volg de instructies op het [ overzicht van de Ervaring  [!DNL Platform]  schakelaar ](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/overview.html){target="_blank"} . De verbindingszelfstudie Experience [!DNL Platform] behandelt elke sectie in detail en beantwoordt alle vragen die u hebt. Gebruik deze zelfstudie voor de rest van de snelle stappen die u uitvoert.
 
 ## Configuratie van Experience Edge en Adobe [!DNL Analytics]
 
@@ -51,7 +53,7 @@ Voor grotere details op elke fase en stap van het onboarding proces, volg de ins
 
 1. Maak een nieuwe rapportsuite in Adobe [!DNL Analytics] of identificeer de id van de rapportsuite waarnaar u [!DNL Commerce] -gegevens wilt doorsturen. Voor meer info, bekijk een leerprogramma bij [ het creëren van een nieuwe rapportreeks ](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html). U hebt deze rapportsuite-id nodig in de onderstaande gegevensstroomstap.
 
-1. Navigeer aan de  [!DNL Platform]  interface ](https://platform.adobe.com) van de Ervaring van de Adobe 0} als u toegang tot Ervaring [!DNL Platform] hebt. [ Als u geen toegang tot die interface hebt, kunt u alle noodzakelijke stappen uitvoeren hieronder in de ervaring van de Adobe [!DNL Platform] [ de interface van de Inzameling van Gegevens ](https://experience.adobe.com/#/data-collection) worden vermeld.
+1. Navigeer aan de  [!DNL Platform]  interface [&#128279;](https://platform.adobe.com) van de Ervaring van de Adobe 0&rbrace; als u toegang tot Ervaring [!DNL Platform] hebt.  Als u geen toegang tot die interface hebt, kunt u alle noodzakelijke stappen uitvoeren hieronder in de ervaring van de Adobe [!DNL Platform] [ de interface van de Inzameling van Gegevens ](https://experience.adobe.com/#/data-collection) worden vermeld.
 
 1. Maak of werk uw XDM-schema bij met [!DNL Commerce] specifieke veldgroepen. Voor meer informatie over hoe te om een schema tot stand te brengen, te zien gelieve [ &quot;schema&#39;s&quot;creëren ](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html) leerprogramma.
    * U moet dit schema selecteren uit de opties in de onderstaande gegevensstroomstap. Om een schema tot stand te brengen, kijk in de linkerkolom onder **het Beheer van Gegevens** en vind **Schema&#39;s**. Nu op het hoogste recht van de interface, klik **creeer schema**. Selecteer XDM ExperienceEvent.

@@ -1,6 +1,6 @@
 ---
 title: Integreer  [!DNL Analytics]  en de Reizen van de Klant  [!DNL Analytics]  met de Bron van de Ervaring  [!DNL Platform]  schakelaarleerprogramma
-description: Leer hoe te om Adobe  [!DNL Analytics]  met de Reis van de Klant  [!DNL Analytics]  te integreren gebruikend de 2} bronschakelaar van de Ervaring. [!DNL Platform]
+description: Leer hoe te om Adobe  [!DNL Analytics]  met de Reis van de Klant  [!DNL Analytics]  te integreren gebruikend de 2&rbrace; bronschakelaar van de Ervaring. [!DNL Platform]
 solution: Customer Journey [!DNL Analytics], [!DNL Target]
 feature: Integrations
 topic: Integrations
