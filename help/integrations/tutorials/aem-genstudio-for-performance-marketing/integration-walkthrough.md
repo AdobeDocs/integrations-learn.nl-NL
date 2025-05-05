@@ -28,4 +28,4 @@ ht-degree: 0%
 
 Leer de basisbeginselen van de integratie met AEM Assets as a Cloud Service en GenStudio for Performance Marketing, het uploaden van middelen naar AEM Assets, het goedkeuren van middelen in AEM Assets en het gebruik van goedgekeurde middelen in GenStudio for Performance Marketing.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439264/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439283/?learn=on&enablevpops&captions=dut)

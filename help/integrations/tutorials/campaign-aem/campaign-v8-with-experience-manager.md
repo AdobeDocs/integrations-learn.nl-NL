@@ -32,16 +32,16 @@ In de volgende video wordt uitgelegd wat u leert.
 
 Leer hoe u de integratie tussen Experience Manager en [!DNL Campaign] instelt, inclusief belangrijke instellingen om te zoeken en mogelijke &#39;gotchas&#39; om te voorkomen.
 
->[!VIDEO](https://video.tv.adobe.com/v/340121?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3445902?quality=12&learn=on&captions=dut)
 
 ## Een pagina met Experience Managers goedkeuren en publiceren naar [!DNL Campaign]
 
 Leer hoe u een nieuwsbrief maakt in de Experience Manager en hoe u deze kunt goedkeuren en publiceren naar [!DNL Campaign] .
 
->[!VIDEO](https://video.tv.adobe.com/v/340678?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447577?quality=12&learn=on&captions=dut)
 
 ## Een Experience Manager-e-maillevering synchroniseren en verzenden in [!DNL Campaign]
 
 Leer hoe u in [!DNL Campaign] een nieuwsbrief kunt testen en verzenden die in Experience Manager is gemaakt.
 
->[!VIDEO](https://video.tv.adobe.com/v/340151?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3444754?quality=12&learn=on&captions=dut)

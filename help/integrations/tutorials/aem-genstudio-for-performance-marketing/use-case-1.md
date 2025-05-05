@@ -28,4 +28,4 @@ ht-degree: 0%
 
 Leer hoe u middelen kunt uploaden, controleren en goedkeuren in AEM Assets as a Cloud Service om de workflow met inhoud te stroomlijnen. Als deze middelen eenmaal zijn goedgekeurd, worden ze naadloos geïntegreerd in GenStudio for Performance Marketing, zodat u eenvoudig toegang hebt tot materiaal met een merk voor uw campagnes.
 
->[!VIDEO](https://video.tv.adobe.com/v/3439265/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3439294/?learn=on&enablevpops&captions=dut)
