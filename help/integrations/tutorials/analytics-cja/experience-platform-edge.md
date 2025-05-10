@@ -41,7 +41,7 @@ ht-degree: 1%
                 </ul></li>
             <li>Server-API van Edge Network:</li>
                 <ul>
-                    <li><a href="https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/interacting-other-adobe-solutions/interacting-adobe-analytics.html" _target="_blank" rel="noopener noreferrer">Tutorial</a></li>
+                    <li><a href="https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/interacting-other-adobe-solutions/interacting-adobe-analytics.html?lang=nl-NL" _target="_blank" rel="noopener noreferrer">Tutorial</a></li>
                 </ul>
        </ul>
     <li><i> (Facultatief) </i>. Als het gebruiken van veelvoudige datasets, verbind persoonlijk identiteitskaart samen aan <a href="https://experienceleague.adobe.com/docs/analytics-platform/using/cja-connections/combined-dataset.html?lang=nl-NL" _target="_blank" rel="noopener noreferrer"> een gecombineerde dataset </a> produceren. Als u één [!DNL Analytics] dataset gebruikt of als er een gemeenschappelijke id bestaat voor alle datasets die u wilt gebruiken in Reis van de Klant [!DNL Analytics] , slaat u deze stap over.</li>

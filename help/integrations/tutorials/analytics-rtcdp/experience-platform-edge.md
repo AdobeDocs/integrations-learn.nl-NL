@@ -41,7 +41,7 @@ ht-degree: 1%
                 </ul></li>
             <li>Server-API van Edge Network:</li>
                 <ul>
-                    <li><a href="https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/interacting-other-adobe-solutions/interacting-adobe-analytics.html" _target="_blank" rel="noopener noreferrer">Tutorial</a></li>
+                    <li><a href="https://experienceleague.adobe.com/docs/experience-platform/edge-network-server-api/interacting-other-adobe-solutions/interacting-adobe-analytics.html?lang=nl-NL" _target="_blank" rel="noopener noreferrer">Tutorial</a></li>
                 </ul>
        </ul>
     <li><a href="https://experienceleague.adobe.com/docs/platform-learn/tutorials/segments/create-segments.html?lang=nl-NL" _target="_blank" rel="noopener noreferrer"> creeer segmenten in Ervaring [!DNL Platform].</a> Het systeem bepaalt automatisch of het segment wordt geëvalueerd als batch (gegevensconnector) of streaming (Edge-netwerk).</li>
