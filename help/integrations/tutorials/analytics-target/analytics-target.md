@@ -29,7 +29,7 @@ In de onderstaande video&#39;s ziet u de waarde van deze integratie en de detail
 
 >[!NOTE]
 >
->Deze video&#39;s demonstreren de implementatie en validatie voor [!DNL Target] at.js en [!DNL Analytics] appMeasurement.js. Gelieve te verwijzen naar de [ documentatie ](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html?lang=nl-NL) voor vereiste bibliotheekversies in beide hulpmiddelen.
+>Deze video&#39;s demonstreren de implementatie en validatie voor [!DNL Target] at.js en [!DNL Analytics] appMeasurement.js. Gelieve te verwijzen naar de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/target/using/integrate/a4t/a4timplementation.html?lang=nl-NL) voor vereiste bibliotheekversies in beide hulpmiddelen.
 
 ### A4T instellen ([!DNL Analytics] voor [!DNL Target])
 
