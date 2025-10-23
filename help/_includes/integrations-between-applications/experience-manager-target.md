@@ -35,7 +35,7 @@ U kunt onder andere Adobe Experience Manager en Adobe [!DNL Target] samen gebrui
     </thead>
     <tbody>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/overview" target="_blank" rel="noreferrer">AEM Sites en [!DNL Target]</a></td>
+            <td><a href="https://experienceleague.adobe.com/nl/docs/experience-manager-learn/cloud-service/personalization/overview" target="_blank" rel="noreferrer">AEM Sites en [!DNL Target]</a></td>
             <td>Ervaar [!DNL Platform] Web SDK-tagextensie of alloy.js</td>
             <td>
                 <ul style="margin-top: 0;">
@@ -52,7 +52,7 @@ U kunt onder andere Adobe Experience Manager en Adobe [!DNL Target] samen gebrui
             </td>
         </tr>
         <tr>
-            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations/target.html" target="_blank" rel="noreferrer">AEM Headless as a Cloud Service en [!DNL Target]</a></td>
+            <td><a href="https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/integrations/target.html?lang=nl-NL" target="_blank" rel="noreferrer">AEM Headless as a Cloud Service en [!DNL Target]</a></td>
             <td>Ervaar [!DNL Platform] Web SDK-tagextensie of alloy.js</td>
             <td>
               <ul style="margin-top: 0;">
