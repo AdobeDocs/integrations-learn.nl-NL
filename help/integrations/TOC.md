@@ -3,10 +3,10 @@ user-guide-title: Tutorials voor Experience Cloud-integratie
 breadcrumb-title: Experience Cloud-integraties
 user-guide-description: Meer informatie over integraties.
 mini-toc-levels: 1
-source-git-commit: 2e76baa106c833668b7d966e4cfdbfaef8aabbd2
+source-git-commit: 132c892723d29d415d07093ef8514ff8c9b7b1db
 workflow-type: tm+mt
-source-wordcount: '120'
-ht-degree: 15%
+source-wordcount: '142'
+ht-degree: 21%
 
 ---
 
@@ -14,16 +14,16 @@ ht-degree: 15%
 # [!DNL Experience Cloud] zelfstudies voor integratie {#experience-cloud}
 
 + [[!DNL Experience Cloud] Integraties](./overview.md)
-+ De categorieën van de oplossing {#solution-categories}
++ Categorieën oplossingen{#solution-categories}
    + [Overzicht](./solution-categories/overview.md)
    + [B2B-marketing](./solution-categories/b2b.md)
    + [Commerce](./solution-categories/commerce.md)
    + [Inhoudsbeheer](./solution-categories/content-management.md)
-   + [Inhoudstoeleveringsketen](./solution-categories/content-supply-chain.md)
+   + [Content supply chain](./solution-categories/content-supply-chain.md)
    + [Reizen van klanten](./solution-categories/customer-journeys.md)
    + [Gegevensinzichten en activering](./solution-categories/data-insights.md)
    + [Personalization op schaal](./solution-categories/personalization.md)
-+ Productintegratie {#integrations-between-applications}
++ Productintegratie{#integrations-between-applications}
    + [Overzicht](./integrations-between-applications/overview.md)
    + [!DNL Acrobat Sign]{#acrobat-sign}
       + [[!DNL Experience Manager]](./integrations-between-applications/acrobat-sign/acrobat-sign-experience-manager.md)
@@ -81,13 +81,13 @@ ht-degree: 15%
    + Workfront{#experience-manager}
       + [[!DNL Creative Cloud]](./integrations-between-applications/workfront/workfront-creative-cloud.md)
       + [[!DNL Experience Manager]](./integrations-between-applications/workfront/workfront-experience-manager.md)
-+ Zelfstudie {#tutorials}
++ Tutorial{#tutorials}
    + [!DNL Analytics] en [!DNL Commerce]{#analytics-commerce}
       + [[!DNL Analytics] en  [!DNL Commerce]](./tutorials/analytics-commerce/analytics-commerce.md)
-   + [!DNL Analytics] en CJA {#analytics-cja}
+   + [!DNL Analytics] en CJA{#analytics-cja}
       + [[!DNL Analytics] en CJA](./tutorials/analytics-cja/experience-platform-edge.md)
       + [[!DNL Analytics] en CJA](./tutorials/analytics-cja/experience-platform-source-connector.md)
-   + [!DNL Analytics] en Real-Time CDP {#analytics-real-time-cdp}
+   + [!DNL Analytics] en Real-Time CDP{#analytics-real-time-cdp}
       + [[!DNL Analytics] en Real-Time CDP](./tutorials/analytics-rtcdp/experience-platform-edge.md)
       + [[!DNL Analytics] en Real-Time CDP](./tutorials/analytics-rtcdp/experience-platform-source-connector.md)
    + [!DNL Analytics] en [!DNL Target]{#analytics-target}
@@ -96,9 +96,9 @@ ht-degree: 15%
       + [Integreer  [!DNL Campaign]  Norm met  [!DNL Analytics]  gebruikend het leerprogramma van Trekkers](./tutorials/campaign-analytics/campaign-analytics-trigger.md)
    + [!DNL Campaign] en Experience Manager {#campaign-experience-manager}
       + [[!DNL Campaign] v8 en Experience Manager](./tutorials/campaign-aem/campaign-v8-with-experience-manager.md)
-   + [!DNL Campaign] en Real-Time CDP {#campaign-real-time-cdp}
+   + [!DNL Campaign] en Real-Time CDP{#campaign-real-time-cdp}
       + [[!DNL Campaign] v8 en Real-Time CDP](./tutorials/campaign-rtcdp/campaign-v8-real-time-cdp.md)
-   + Real-Team CDP {#rtcdp-target}
+   + Real-Team CDP{#rtcdp-target}
       + [Real-Time CDP en  [!DNL Target]](./tutorials/rtcdp-target/web-sdk-and-target-destination.md)
       + [Real-Time CDP en  [!DNL Target]](./tutorials/rtcdp-target/mobile-sdk-and-target-destination.md)
       + [Real-Time CDP en  [!DNL Target]](./tutorials/rtcdp-target/atjs-and-target-destination.md)
@@ -107,5 +107,12 @@ ht-degree: 15%
       + [Instellen](./tutorials/aem-genstudio-for-performance-marketing/setup.md)
       + [Integratieanalyse](./tutorials/aem-genstudio-for-performance-marketing/integration-walkthrough.md)
       + Gebruiksscenario’s{#use-cases}
-         + [Herziening en goedkeuring in Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
+         + [Beoordeling en goedkeuring in Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
          + [Varianten maken met Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
+   + Experience Manager en Target{#experience-manager-target}
+      + [Overzicht](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/overview)
+      + [ Opstelling ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/setup/integrate-adobe-target)
+      + Gebruiksscenario’s{#use-cases}
+         + [ Experimentatie (het Testen A/B) ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/experimentation)
+         + [ Gedrag dat richt ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/behavioral-targeting)
+         + [ gekende-gebruiker Personalization ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)

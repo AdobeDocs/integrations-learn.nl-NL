@@ -2,9 +2,9 @@
 title: Toepassingsintegratie voor personalisatie op schaal
 description: Maak persoonlijke ervaringen onderdeel van elk moment.
 exl-id: 6d18813d-950c-40ae-8d5b-80bf389358fc
-source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
+source-git-commit: 132c892723d29d415d07093ef8514ff8c9b7b1db
 workflow-type: tm+mt
-source-wordcount: '516'
+source-wordcount: '533'
 ht-degree: 1%
 
 ---
@@ -24,7 +24,7 @@ Binnen het hedendaagse, zeer concurrerende en digitaal gedreven landschap zijn k
   </thead>
   <tbody>
     <tr>
-      <td><strong>Persoonlijke PDF-documenten maken</strong></td>
+      <td><strong>Aangepaste PDF-documenten maken</strong></td>
       <td>
         Communicatiedocumenten genereren voor ondertekening op basis van gebruiker
         selecties/voorkeuren.
@@ -49,7 +49,7 @@ Binnen het hedendaagse, zeer concurrerende en digitaal gedreven landschap zijn k
     <tr>
       <td rowspan="2"><strong>Gegevensanalyse en -rapportage</strong></td>
       <td>
-        Analyseer gedragsgegevens van digitale ervaringen <br /> Adobe van het Gebruik
+        Analyseer gedragsgegevens van digitale ervaringen <br /> Gebruik Adobe
         [!DNL Analytics] gedragsgegevens in Analysis Workspace op Klantreis
         [!DNL Analytics] .
       </td>
@@ -76,7 +76,7 @@ Binnen het hedendaagse, zeer concurrerende en digitaal gedreven landschap zijn k
     <tr>
       <td>
         Het melden voor verpersoonlijkingsactiviteiten <br /> analyseert optimalisering
-        testresultaten, inclusief A/B-tests, met behulp van Adobe [!DNL Target] en
+        testresultaten, inclusief A/B-tests, met Adobe [!DNL Target] en
         uitgebreide rapporten genereren via Adobe [!DNL Analytics] .
       </td>
       <td>
@@ -97,7 +97,7 @@ Binnen het hedendaagse, zeer concurrerende en digitaal gedreven landschap zijn k
       <td><strong>E-mailleveringen personaliseren</strong></td>
       <td>
         Personaliseer e-mailleveringen met dynamische inhoud door de
-        mogelijkheden voor Adobe [!DNL Target] .
+        mogelijkheden van Adobe [!DNL Target] .
       </td>
       <td>
         <ul style="margin-top: 0;">
@@ -118,7 +118,7 @@ Binnen het hedendaagse, zeer concurrerende en digitaal gedreven landschap zijn k
         <strong> breid publiek voor verpersoonlijking en advertentieplatforms </strong> uit
       </td>
       <td>
-        Gebruik Audience Manager-segmenten om in Real-Time CDP een publiek te maken dat
+        Gebruik Audience Manager-segmenten om een publiek in Real-Time CDP te maken voor
         gebruik in personalisatie- en hermarketingtactieken.
       </td>
       <td>
@@ -132,7 +132,7 @@ Binnen het hedendaagse, zeer concurrerende en digitaal gedreven landschap zijn k
             bekende apparaat- en gedragskenmerken
           </li>
           <li>
-            Gebruik het gegevensnetwerk van de Audience Manager van de derde partij aan verdere
+            Gebruik het Audience Manager-netwerk voor gegevens van derden voor verdere
             verfijnen en uw publiek uitbreiden voor doelgericht gebruik
           </li>
           <li>Audience Manager-segmenten delen met RTCDP</li>
@@ -143,7 +143,7 @@ Binnen het hedendaagse, zeer concurrerende en digitaal gedreven landschap zijn k
           href="../integrations-between-applications/aam/aam-rtcdp.md"
           target="_blank"
           rel="noopener noreferrer"
-          > de Gegevens van de Audience Manager en van de Klant in real time [!DNL Platform]</a
+          > Audience Manager- en realtime-klantgegevens [!DNL Platform]</a
         >
       </td>
     </tr>
@@ -177,12 +177,12 @@ Binnen het hedendaagse, zeer concurrerende en digitaal gedreven landschap zijn k
     <tr>
       <td rowspan="2"><strong>Webervaringen aanpassen</strong></td>
       <td>
-        Toepassingen (SPA) van één pagina op effectieve wijze aanpassen
-        gebruiken AEM Headless in combinatie met Adobe [!DNL Target] .
+        Pas enige-pagina toepassings (SPA) ervaringen door effectief aan
+        AEM Headless gebruiken in combinatie met Adobe [!DNL Target] .
       </td>
       <td>
         <ul style="margin-top: 0;">
-          <li>Aanpassing van SPA en mobiele apps</li>
+          <li>Aanpassing van SPA- en mobiele apps</li>
           <li>Persoonlijke API-reacties.</li>
           <li>[!DNL Target]rd levering van inhoud.</li>
           <li>A/B-testvariaties.</li>
@@ -193,7 +193,7 @@ Binnen het hedendaagse, zeer concurrerende en digitaal gedreven landschap zijn k
           href="../integrations-between-applications/experience-manager/experience-manager-target.md"
           target="_blank"
           rel="noopener noreferrer"
-          >AEM Koploos en [!DNL Target]</a
+          > AEM Headless en [!DNL Target]</a
         >
       </td>
     </tr>
@@ -204,10 +204,10 @@ Binnen het hedendaagse, zeer concurrerende en digitaal gedreven landschap zijn k
       </td>
       <td>
         <ul style="margin-top: 0;">
-          <li>AEM aanpassen van websites.</li>
-          <li>Inhoud van websites aanpassen.</li>
-          <li>De gebruikerservaring optimaliseren.</li>
+          <li>Aanpassing van AEM-websites.</li>
           <li>A/B-testvariaties.</li>
+          <li>Gedragingen bepalen op basis van gebruikersgedrag.</li>
+          <li>Bekende gebruikersverpersoonlijking door gebruikersgegevens van de veelvoudige systemen te stikken die een 360 graadmening van de klant verstrekken.</li>
         </ul>
       </td>
       <td>
