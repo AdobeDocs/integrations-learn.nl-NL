@@ -3,10 +3,10 @@ user-guide-title: Tutorials voor Experience Cloud-integratie
 breadcrumb-title: Experience Cloud-integraties
 user-guide-description: Meer informatie over integraties.
 mini-toc-levels: 1
-source-git-commit: 132c892723d29d415d07093ef8514ff8c9b7b1db
+source-git-commit: a5f6fdd10569618e495750e1bcd4cf604cbf142c
 workflow-type: tm+mt
-source-wordcount: '142'
-ht-degree: 21%
+source-wordcount: '145'
+ht-degree: 20%
 
 ---
 
@@ -110,9 +110,10 @@ ht-degree: 21%
          + [Beoordeling en goedkeuring in Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
          + [Varianten maken met Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
    + Experience Manager en Target{#experience-manager-target}
-      + [Overzicht](https://experienceleague.adobe.com/nl/docs/experience-manager-learn/cloud-service/personalization/overview)
-      + [&#x200B; Opstelling &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-learn/cloud-service/personalization/setup/integrate-adobe-target)
+      + [Overzicht](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/overview)
+      + [ Levende Demo ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/live-demo)
+      + [ Opstelling ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/setup/integrate-adobe-target)
       + Gebruiksscenario’s{#use-cases}
-         + [&#x200B; Experimentatie (het Testen A/B) &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-learn/cloud-service/personalization/use-cases/experimentation)
-         + [&#x200B; Gedrag dat richt &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-learn/cloud-service/personalization/use-cases/behavioral-targeting)
-         + [&#x200B; gekende-gebruiker Personalization &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)
+         + [ Experimentatie (het Testen A/B) ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/experimentation)
+         + [ Gedrag dat richt ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/behavioral-targeting)
+         + [ gekende-gebruiker Personalization ](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)
