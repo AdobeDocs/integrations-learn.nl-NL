@@ -110,10 +110,10 @@ ht-degree: 20%
          + [Beoordeling en goedkeuring in Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-1.md)
          + [Varianten maken met Adobe GenStudio](./tutorials/aem-genstudio-for-performance-marketing/use-case-2.md)
    + Experience Manager en Target{#experience-manager-target}
-      + [Overzicht](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/overview)
-      + [&#x200B; Levende Demo &#x200B;](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/live-demo)
-      + [&#x200B; Opstelling &#x200B;](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/setup/integrate-adobe-target)
+      + [Overzicht](https://experienceleague.adobe.com/nl/docs/experience-manager-learn/cloud-service/personalization/overview)
+      + [&#x200B; Levende Demo &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-learn/cloud-service/personalization/live-demo)
+      + [&#x200B; Opstelling &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-learn/cloud-service/personalization/setup/integrate-adobe-target)
       + Gebruiksscenario’s{#use-cases}
-         + [&#x200B; Experimentatie (het Testen A/B) &#x200B;](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/experimentation)
-         + [&#x200B; Gedrag dat richt &#x200B;](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/behavioral-targeting)
-         + [&#x200B; gekende-gebruiker Personalization &#x200B;](https://experienceleague.adobe.com/en/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)
+         + [&#x200B; Experimentatie (het Testen A/B) &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-learn/cloud-service/personalization/use-cases/experimentation)
+         + [&#x200B; Gedrag dat richt &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-learn/cloud-service/personalization/use-cases/behavioral-targeting)
+         + [&#x200B; gekende-gebruiker Personalization &#x200B;](https://experienceleague.adobe.com/nl/docs/experience-manager-learn/cloud-service/personalization/use-cases/known-user-personalization)
