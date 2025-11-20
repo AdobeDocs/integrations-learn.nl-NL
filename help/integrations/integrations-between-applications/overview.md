@@ -9,11 +9,11 @@ ht-degree: 10%
 
 ---
 
-# Integratieconfiguraties voor Experience Cloud - georganiseerd door toepassing
+# Integratieconfiguraties voor Experience Cloud - geordend door toepassing
 
-Deze sectie helpt iedereen met de vertrouwdheid van de toepassing van de Adobe die bedrijfswaarde wil creëren door veelvoudige toepassingen van de Adobe te integreren. Wij organiseerden vele gemeenschappelijke integratieconfiguraties voor Adobe bedrijfstoepassingen en verwierpen hen aan real-world gebruiksgevallen.
+Deze sectie helpt iedereen met Adobe-toepassingen die bedrijfswaarde wil creëren door meerdere Adobe-toepassingen te integreren. We hebben veel algemene integratieconfiguraties georganiseerd voor Adobe-bedrijfstoepassingen en deze toegewezen aan praktijkvoorbeelden.
 
-Er zijn vele manieren om de toepassingen van de Adobe, afhankelijk van uw milieu te vormen. Deze sectie verstrekt begeleiding om u te helpen aangezien-is opstellen of hen wijzigen om aan de behoeften van uw milieu te voldoen.
+Afhankelijk van uw omgeving zijn er verschillende manieren om Adobe-toepassingen te configureren. Deze sectie verstrekt begeleiding om u te helpen aangezien-is opstellen of hen wijzigen om aan de behoeften van uw milieu te voldoen.
 
 >[!NOTE]
 >
