@@ -1,25 +1,25 @@
 ---
-title: Integreer Adobe  [!DNL Experience Platform]  met andere toepassingen van de Adobe
-description: Leer hoe te om  [!DNL Experience Platform]  met andere toepassingen van de Adobe te integreren.
-solution: Experience [!DNL Platform]
+title: Integreer Adobe  [!DNL Experience Platform]  met andere toepassingen van Adobe
+description: Leer hoe te om  [!DNL Experience Platform]  met andere toepassingen van Adobe te integreren.
+solution: Experience Platform
 feature: Integrations
 topic: Integrations
-role: Architect, Admin, Developer
+role: Admin, Developer
 level: Beginner
 jira: null
 thumbnail: experience-platform.png
 last-substantial-update: 2023-07-19T00:00:00Z
 exl-id: ef86a50c-b8ff-4371-a9e9-8fc51aa1769a
-source-git-commit: 509b227f360718e81fb19d3a4d30aebf9de49e5a
+source-git-commit: 572afff4ee7c556a3ea329b34538b5d3027c1e69
 workflow-type: tm+mt
-source-wordcount: '118'
+source-wordcount: '119'
 ht-degree: 1%
 
 ---
 
-# Experience [!DNL Platform] integreren met andere Adobe toepassingen
+# Experience [!DNL Platform] integreren met andere Adobe-toepassingen
 
-Adobe Experience [!DNL Platform] is het krachtigste, meest flexibele en meest open systeem op de markt voor het ontwikkelen en beheren van volledige oplossingen die de ervaring van klanten stimuleren. Vele nieuwe Adobe Toepassingen zijn voortgebouwd bovenop Ervaring [!DNL Platform], die omvatten:
+Adobe Experience [!DNL Platform] is het krachtigste, meest flexibele en meest open systeem op de markt voor het ontwikkelen en beheren van complete oplossingen die de ervaring van de klant ten goede komen. Veel nieuwe Adobe-toepassingen zijn bovenop de Experience [!DNL Platform] gebouwd, zoals:
 
 * Reis van klant [!DNL Analytics]
 * Journey Optimizer

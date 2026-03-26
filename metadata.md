@@ -3,22 +3,22 @@ cloud: Experience Cloud
 solution: Experience Cloud
 topic: Integrations
 product: experience cloud
-feature-set: Advertising, [!DNL Analytics], Audience Manager, [!DNL Campaign], [!DNL Commerce], Customer Journey [!DNL Analytics], Experience Cloud Services, Experience Manager, Experience Manager Assets, Experience Manager Cloud Manager, Experience Manager Forms, Experience Manager Guides, Experience Manager Screens, Experience Manager Sites, Experience [!DNL Platform], Journey Optimizer, Journey Orchestration, Marketo Engage, Workfront
+feature-set: Advertising, Analytics, Audience Manager, Campaign, Commerce, Customer Journey Analytics, Experience Cloud Services, Experience Manager, Experience Manager Assets, Experience Manager Cloud Manager, Experience Manager Forms, Experience Manager Guides, Experience Manager Screens, Experience Manager Sites, Experience Platform, Journey Optimizer, Journey Orchestration, Marketo Engage, Workfront
 type: Tutorial
 mini-toc-levels: 2
 auto-video-transcripts: true
-git-repo: https://github.com/AdobeDocs/integrations-learn.nl-NL
+git-repo: https://github.com/AdobeDocs/integrations-learn.en
 index: true
-source-git-commit: 6f3c997e46fe965d86b37a29790e9d4c5dd34a43
+source-git-commit: 7fffc0b887164645ab16fe94d2f82a657fcc9d64
 workflow-type: tm+mt
-source-wordcount: '53'
-ht-degree: 98%
+source-wordcount: '69'
+ht-degree: 0%
 
 ---
 
 
-# Metadata voor intern gebruik
+# Metagegevens voor intern gebruik
 
-Het bestand metadata.md bevat metadata op repo-niveau die worden doorgegeven aan de handleiding voor TOC.md-bestanden in de repo. Als u de inhoud van metadata.md voor een handleiding wilt wijzigen, doe dit dan in een TOC.md-bestand.
+Het bestand metadata.md bevat metagegevens op repo-niveau die worden doorgegeven aan de bestanden in de repo in de gebruikershandleiding TOC.md. Als u de inhoud metadata.md voor om het even welke gebruikersgids wilt veranderen, doe dit in om het even welk dossier van TOC.md.
 
-Zie [Metadata](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html?lang=nl) voor een lijst met geldige waarden voor **oplossing**, **product** en **type**.
+Zie [ Meta-gegevens ](https://experienceleague.adobe.com/docs/authoring-guide-exl/using/editing/user-guide-setup/metadata.html) voor een lijst van geldige waarden voor **oplossing**, **product**, en **type**.

@@ -1,13 +1,13 @@
 ---
-source-git-commit: 94b074c17e976e4f4acbb1ff41aacfc9bf74744c
+source-git-commit: 7fffc0b887164645ab16fe94d2f82a657fcc9d64
 workflow-type: tm+mt
-source-wordcount: '129'
-ht-degree: 2%
+source-wordcount: '138'
+ht-degree: 0%
 
 ---
 
 
-# Adobe van realtime klantgegevens [!DNL Platform] en Adobe [!DNL Target] integratie
+# Adobe Real-Time klantgegevens [!DNL Platform] en Adobe [!DNL Target] -integratie
 
 {{real-time-cdp-description}}
 
@@ -22,10 +22,10 @@ Door Real-Time CDP te integreren met [!DNL Target] kunt u inhoud personaliseren 
 <table>
     <thead>
         <tr>
-            <th>Experiencen Cloud</th>
+            <th>Experience Cloud-toepassingen</th>
             <th>Integreert met</th>
             <th>Wanneer gebruiken</th>
-            <th>Vaak voorkomende gebruiksscenario's</th>
+            <th>Vaak voorkomende gevallen</th>
         </tr>
     </thead>
     <tbody>
@@ -43,7 +43,8 @@ Door Real-Time CDP te integreren met [!DNL Target] kunt u inhoud personaliseren 
             </ul>
         </td>
     </tr>
-    <!--<tr>
+    <!--
+    <tr>
         <td>Real-Time CDP and [!DNL Target]</a></td>
         <td><a href="../../integrations/tutorials/rtcdp-target/mobile-sdk-and-target-destination.md" target="_blank" rel="noreferrer">Mobile SDK and [!DNL Target] destination</td>
         <td>
@@ -70,6 +71,7 @@ Door Real-Time CDP te integreren met [!DNL Target] kunt u inhoud personaliseren 
                 <li>Supports next-session personalization.</li>
             </ul>
         </td>
-    </tr>    -->
+    </tr>    
+    -->
     </tbody>
 </table>

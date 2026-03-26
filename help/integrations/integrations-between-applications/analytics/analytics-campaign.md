@@ -12,10 +12,10 @@ index: false
 badgeIntegration: label="Integratie" type="positive"
 last-substantial-update: 2023-05-19T00:00:00Z
 exl-id: ad99d8dd-046c-478b-afd8-48a265396769
-source-git-commit: d35dc06c56c117cffe70542b6713f275877e4879
+source-git-commit: 7fffc0b887164645ab16fe94d2f82a657fcc9d64
 workflow-type: tm+mt
-source-wordcount: '11'
-ht-degree: 9%
+source-wordcount: '9'
+ht-degree: 0%
 
 ---
 
