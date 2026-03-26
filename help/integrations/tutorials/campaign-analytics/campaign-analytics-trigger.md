@@ -32,22 +32,22 @@ Leer hoe u de gegevensverzameling van Adobe Experience [!DNL Platform] kunt gebr
 >
 > Launch is nu de functie Tags van Adobe Experience [!DNL Platform] . Het kan onder **de Ervaring van Adobe [!DNL Platform] Inzamelingen van Gegevens** worden gevonden.
 
->[!VIDEO](https://video.tv.adobe.com/v/332908?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3454022?captions=dut&quality=12&learn=on)
 
 ## Een trigger maken in Experience Cloud
 
 Leer hoe u triggers configureert in de Experience Cloud.
 
->[!VIDEO](https://video.tv.adobe.com/v/332624?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446144?captions=dut&quality=12&learn=on)
 
 ## Een trigger maken in [!DNL Campaign] Standard
 
 Leer hoe u een triggergebeurtenis maakt in [!DNL Campaign] Standard.
 
->[!VIDEO](https://video.tv.adobe.com/v/332625?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446415?captions=dut&quality=12&learn=on)
 
 ## Transactieberichten configureren met real-time gebeurtenisgegevens
 
 Leer hoe te om transactieberichten te vormen gebruikend gebeurtenisgegevens in real time die uit trekkers komen.
 
->[!VIDEO](https://video.tv.adobe.com/v/332602?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450208?captions=dut&quality=12&learn=on)

@@ -26,10 +26,10 @@ ht-degree: 0%
 
 Leer hoe u een Adobe Experience [!DNL Platform] -segment activeert naar een bestemming met het Amazon S3-verbindingstype.
 
->[!VIDEO](https://video.tv.adobe.com/v/336902?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453127?captions=dut&quality=12&learn=on)
 
 ## Ontvangergegevens importeren uit Experience [!DNL Platform] en een e-mail verzenden
 
 Leer hoe u een externe account in Adobe [!DNL Campaign] configureert om gegevens over ontvangers te importeren van Adobe Experience [!DNL Platform] naar [!DNL Campaign] . Begrijp hoe u een workflow maakt om de ontvangers die u uit de Experience hebt ontvangen, te uploaden en als doel in te stellen [!DNL Platform] .
 
->[!VIDEO](https://video.tv.adobe.com/v/336641?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453483?captions=dut&quality=12&learn=on)

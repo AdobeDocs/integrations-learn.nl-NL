@@ -35,22 +35,22 @@ Bekijk een overzicht en demo van de integratie.
 
 Leer hoe u de Adobe [!DNL Target] -bestemming configureert in realtime klantgegevens [!DNL Platform] .
 
->[!VIDEO](https://video.tv.adobe.com/v/3418799/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3449799/?captions=dut&learn=on)
 
 ## Segmenten en profielkenmerken activeren naar Adobe [!DNL Target]
 
 Leer hoe u segmenten en profielkenmerken activeert van Adobe Real-Time Customer Data [!DNL Platform] tot Adobe [!DNL Target] .
 
->[!VIDEO](https://video.tv.adobe.com/v/3419036/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3447361/?captions=dut&learn=on)
 
 ## Real-Time CDP-segmenten gebruiken in Adobe [!DNL Target]
 
 Leer hoe u Real-Time Customer Data [!DNL Platform] -segmenten kunt gebruiken in Adobe [!DNL Target] .
 
->[!VIDEO](https://video.tv.adobe.com/v/3419149/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3446833/?captions=dut&learn=on)
 
 ## Real-Time CDP-profielkenmerken gebruiken in Adobe [!DNL Target]
 
 Leer hoe u Adobe Real-Time Customer Data [!DNL Platform] -profielkenmerken in Adobe [!DNL Target] gebruikt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3419318/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451899/?captions=dut&learn=on)
