@@ -29,7 +29,7 @@ Deze instructies gelden voor door Adobe [!DNL Commerce] Cloud gehoste projecten.
 1. Bekijk de code in uw lokale omgeving
 1. Composer- en installatiemodule gebruiken
 1. Volg de individuele instructies hier en keer terug wanneer voltooid om de resterende stappen te voltooien
-   [&#x200B; installeer en vorm de 1&rbrace; schakelaar van de Ervaring &#x200B;](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/fundamentals/install.html){target="_blank"} [!DNL Platform] 
+   [&#x200B; installeer en vorm de 1&rbrace; schakelaar van de Ervaring &#x200B;](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/fundamentals/install.html?lang=nl-NL){target="_blank"} [!DNL Platform] 
 
 
 1. Composer.json vastleggen en, indien beschikbaar, composer.lock-bestanden in de cloud
@@ -43,17 +43,17 @@ U kunt dit doen door u aan te melden bij de beheersectie van Adobe [!DNL Commerc
    * Dan de Ervaring [!DNL Platform] schakelaarmontages, zoals hieronder getoond.
      ![&#x200B; Ervaring [!DNL Platform] schakelaar &#x200B;](./assets/analytics-commerce/experience-platform-connector.png)
 
-Voor grotere details op elke fase en stap van het onboarding proces, volg de instructies op het [&#x200B; overzicht van de Ervaring  [!DNL Platform]  schakelaar &#x200B;](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/overview.html){target="_blank"}. De verbindingszelfstudie Experience [!DNL Platform] behandelt elke sectie in detail en beantwoordt alle vragen die u hebt. Gebruik deze zelfstudie voor de rest van de snelle stappen die u uitvoert.
+Voor grotere details op elke fase en stap van het onboarding proces, volg de instructies op het [&#x200B; overzicht van de Ervaring  [!DNL Platform]  schakelaar &#x200B;](https://experienceleague.adobe.com/docs/commerce-merchant-services/experience-platform-connector/overview.html?lang=nl-NL){target="_blank"}. De verbindingszelfstudie Experience [!DNL Platform] behandelt elke sectie in detail en beantwoordt alle vragen die u hebt. Gebruik deze zelfstudie voor de rest van de snelle stappen die u uitvoert.
 
 ## Configuratie van Experience Edge en Adobe [!DNL Analytics]
 
 1. Controleer of uw organisatie toegang heeft (en hebt) tot Adobe [!DNL Analytics] . Dit kan worden bevestigd door naar de [&#x200B; homepage van Adobe Experience Cloud &#x200B;](https://experience.adobe.com/) te gaan en op de toepassingsschakelaar (negen punten) in de hoogste navigatie te klikken.
 
-1. Maak een nieuwe rapportsuite in Adobe [!DNL Analytics] of identificeer de id van de rapportsuite waarnaar u [!DNL Commerce] -gegevens wilt doorsturen. Voor meer info, bekijk een leerprogramma bij [&#x200B; het creëren van een nieuwe rapportreeks &#x200B;](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html). U hebt deze rapportsuite-id nodig in de onderstaande gegevensstroomstap.
+1. Maak een nieuwe rapportsuite in Adobe [!DNL Analytics] of identificeer de id van de rapportsuite waarnaar u [!DNL Commerce] -gegevens wilt doorsturen. Voor meer info, bekijk een leerprogramma bij [&#x200B; het creëren van een nieuwe rapportreeks &#x200B;](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/intro-to-analytics/analytics-basics/understanding-and-creating-report-suites.html?lang=nl-NL). U hebt deze rapportsuite-id nodig in de onderstaande gegevensstroomstap.
 
 1. Navigeer aan de [&#x200B; Ervaring van Adobe  [!DNL Platform]  interface &#x200B;](https://platform.adobe.com) als u toegang tot Ervaring [!DNL Platform] hebt. Als u geen toegang tot die interface hebt, kunt u alle noodzakelijke hieronder vermelde stappen in de interface van de Inzameling van Gegevens van de Ervaring van Adobe [!DNL Platform] [&#x200B; &#x200B;](https://experience.adobe.com/#/data-collection) uitvoeren.
 
-1. Maak of werk uw XDM-schema bij met [!DNL Commerce] specifieke veldgroepen. Voor meer informatie over hoe te om een schema tot stand te brengen, te zien gelieve [&#x200B; &quot;schema&#39;s&quot;creëren &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html) leerprogramma.
+1. Maak of werk uw XDM-schema bij met [!DNL Commerce] specifieke veldgroepen. Voor meer informatie over hoe te om een schema tot stand te brengen, te zien gelieve [&#x200B; &quot;schema&#39;s&quot;creëren &#x200B;](https://experienceleague.adobe.com/docs/platform-learn/tutorials/schemas/create-schemas.html?lang=nl-NL) leerprogramma.
    * U moet dit schema selecteren uit de opties in de onderstaande gegevensstroomstap. Om een schema tot stand te brengen, kijk in de linkerkolom onder **het Beheer van Gegevens** en vind **Schema&#39;s**. Nu op het hoogste recht van de interface, klik **creeer schema**. Selecteer XDM ExperienceEvent.
    * Nadat u een nieuw schema hebt gemaakt, voegt u de [!DNL Commerce] -veldgroepen toe. Op de linkerkant van UI, vind de groepen van het Gebied, en klik **toevoegen**
       * In de zoekopdracht kunt u filteren door `ExperienceEvent Commerce` in te voeren
@@ -72,7 +72,7 @@ Voor grotere details op elke fase en stap van het onboarding proces, volg de ins
    * Klik **Nieuwe Datastream** op het hoogste recht van de interface.
    * Geef een naam en een optionele beschrijving op.
    * Zoek en selecteer het schema dat u in de vorige stap hebt gemaakt/geïdentificeerd.
-   * Voeg de gewenste geavanceerde opties toe. Voor meer informatie over de geavanceerde opties, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/datastreams/configure.html) te bezoeken.
+   * Voeg de gewenste geavanceerde opties toe. Voor meer informatie over de geavanceerde opties, gelieve de [&#x200B; documentatie &#x200B;](https://experienceleague.adobe.com/docs/experience-platform/datastreams/configure.html?lang=nl-NL) te bezoeken.
    * Klik **sparen** om verder te gaan.
    * Klik **toevoegen de Dienst** en kies **Adobe[!DNL Analytics]** op het drop-down gebied.
    * Klik **toevoegen de Reeks van het Rapport** en gaan identiteitskaart van de rapportreeks in die u in een vorige stap creeerde/identificeerde. U kunt meer dan één rapportreeks toevoegen als u de gegevens in veelvoudige rapportreeksen zou willen stromen.
@@ -85,9 +85,9 @@ Voor grotere details op elke fase en stap van het onboarding proces, volg de ins
 
    Hier volgen enkele aanvullende bronnen die u helpen bij het werken in Analysis Workspace:
 
-   * [Analysis Workspace-overzicht](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.html)
-   * [Een volledig nieuw Workspace-project maken](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.html)
-   * [Tabellen, visualisaties en deelvensters gebruiken in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-tables-visualizations-and-panels.html)
-   * [Gebruiksgevallen voor visualisatie](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/visualization-use-cases.html)
+   * [Analysis Workspace-overzicht](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/analysis-workspace-overview.html?lang=nl-NL)
+   * [Een volledig nieuw Workspace-project maken](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/analysis-workspace-basics/building-a-workspace-project-from-scratch.html?lang=nl-NL)
+   * [Tabellen, visualisaties en deelvensters gebruiken in Analysis Workspace](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/using-panels/using-tables-visualizations-and-panels.html?lang=nl-NL)
+   * [Gebruiksgevallen voor visualisatie](https://experienceleague.adobe.com/docs/analytics-learn/tutorials/analysis-workspace/visualizations/visualization-use-cases.html?lang=nl-NL)
 
-   Bovendien zijn er gratis cursussen beschikbaar op Experience League. Zie [!DNL Analytics] beschikbare cursussen [&#x200B; HIER &#x200B;](https://experienceleague.adobe.com/?lang=en&Solution=Analytics#courses).
+   Bovendien zijn er gratis cursussen beschikbaar op Experience League. Zie [!DNL Analytics] beschikbare cursussen [&#x200B; HIER &#x200B;](https://experienceleague.adobe.com/nl?lang=en&Solution=Analytics#courses).
