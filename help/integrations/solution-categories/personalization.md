@@ -235,7 +235,7 @@ Binnen het hedendaagse, zeer concurrerende en digitaal gedreven landschap zijn k
       </td>
       <td>
         <a
-          href="https://experienceleague.adobe.com/en/perspectives/personalization-that-scales-practical-tips-for-aem-adobe-target-integration"
+          href="https://experienceleague.adobe.com/nl/perspectives/personalization-that-scales-practical-tips-for-aem-adobe-target-integration"
           target="_blank"
           rel="noopener noreferrer"
           > AEM Sites en [!DNL Target]</a
