@@ -2,10 +2,10 @@
 title: Toepassingsintegratie voor personalisatie op schaal
 description: Maak persoonlijke ervaringen onderdeel van elk moment.
 exl-id: 6d18813d-950c-40ae-8d5b-80bf389358fc
-source-git-commit: 132c892723d29d415d07093ef8514ff8c9b7b1db
+source-git-commit: fc60646e49dcd32f833669e05e82397386eb68d9
 workflow-type: tm+mt
-source-wordcount: '533'
-ht-degree: 1%
+source-wordcount: '610'
+ht-degree: 0%
 
 ---
 
@@ -16,10 +16,10 @@ Binnen het hedendaagse, zeer concurrerende en digitaal gedreven landschap zijn k
 <table>
  <thead>
     <tr>
-      <th>Gebruiksscenario</th>
+      <th>Hoofdletters gebruiken</th>
       <th>Beschrijving</th>
       <th>Voorbeelden</th>
-      <th>Applicaties</th>
+      <th>Toepassingen</th>
     </tr>
   </thead>
   <tbody>
@@ -175,7 +175,7 @@ Binnen het hedendaagse, zeer concurrerende en digitaal gedreven landschap zijn k
       </td>
     </tr>
     <tr>
-      <td rowspan="2"><strong>Webervaringen aanpassen</strong></td>
+      <td rowspan="3"><strong>Webervaringen aanpassen</strong></td>
       <td>
         Pas enige-pagina toepassings (SPA) ervaringen door effectief aan
         AEM Headless gebruiken in combinatie met Adobe [!DNL Target] .
@@ -219,6 +219,29 @@ Binnen het hedendaagse, zeer concurrerende en digitaal gedreven landschap zijn k
         >
       </td>
     </tr>
+    <tr>
+      <td>
+        Praktische tips voor integratie met AEM en Adobe [!DNL Target]
+      </td>
+      <td>
+        <ul style="margin-top: 0;">
+          <li>Ervingfragmenten gebruiken voor schaalbare Personalization</li>
+          <li>ContextHub-segmenten spiegelen naar doelgroep</li>
+          <li>Maak ervaringsfragmenten geschikt voor gebruik</li>
+          <li>Doelvalidatie samenstellen in opstartworkflows</li>
+          <li>Dynamische media + doel combineren voor Visual Personalization</li>
+          <li>Auteur voor Edge Delivery</li>
+        </ul>
+      </td>
+      <td>
+        <a
+          href="https://experienceleague.adobe.com/en/perspectives/personalization-that-scales-practical-tips-for-aem-adobe-target-integration"
+          target="_blank"
+          rel="noopener noreferrer"
+          > AEM Sites en [!DNL Target]</a
+        >
+      </td>
+    </tr>    
     <tr>
       <td><strong>Digitale ervaringen aanpassen</strong></td>
       <td>
